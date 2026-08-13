@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Region,Product_ID,Product_Name,Category,Sub_Category,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method
+ORD00001,2025-03-19,2025-03-20,C0043,Priya,Male,28,Delhi,Delhi,North,P003,Jeans,Clothing,Jeans,6,2495,0.1,13473.0,2155.63,Cash
+ORD00002,2025-09-02,2025-09-05,C0044,Rahul,Female,57,Bengaluru,Karnataka,South,P029,Laptop,Electronics,Laptop,6,2267,0.1,12241.8,1361.74,Cash
+ORD00003,2025-01-04,2025-01-07,C0103,Sneha,Male,58,Chennai,Tamil Nadu,South,P041,Desk,Furniture,Desk,8,3488,0.05,26508.8,5687.94,UPI
+ORD00004,2025-07-06,2025-07-08,C0054,Priya,Male,51,Bengaluru,Karnataka,South,P024,Laptop,Electronics,Laptop,8,1680,0.0,13440.0,2696.57,Cash
+ORD00005,2025-07-29,2025-08-05,C0215,Aarav,Male,47,Bengaluru,Karnataka,South,P045,Phone,Electronics,Phone,5,4807,0.0,24035.0,4827.0,UPI
+ORD00006,2025-10-21,2025-10-22,C0064,Sneha,Male,60,Unknown,Kerala,South,P031,Phone,Electronics,Phone,4,2732,0.1,9835.2,629.82,Cash
+ORD00007,2025-05-25,2025-05-28,C0227,Diya,Female,38,Bengaluru,Karnataka,South,P029,Tea,Grocery,Tea,5,1204,0.1,5418.0,593.93,Card
+ORD00008,2025-04-24,2025-04-27,C0180,Aarav,Male,41,Kochi,Kerala,South,P031,Tea,Grocery,Tea,1,2540,0.0,2540.0,274.08,Card
+ORD00009,2025-04-11,2025-04-14,C0159,Aarav,Female,60,Bengaluru,Karnataka,South,P029,Laptop,Electronics,Laptop,2,104,0.1,187.2,27.8,Cash
+ORD00010,2025-10-15,2025-10-17,C0049,Priya,Male,57,Chennai,Tamil Nadu,South,P007,Desk,Furniture,Desk,2,1966,0.0,3932.0,609.34,UPI
+ORD00011,2025-06-09,2025-06-14,C0128,Sneha,Male,56,Bengaluru,Karnataka,South,P048,Laptop,Electronics,Laptop,7,4400,0.05,29260.0,7153.87,Cash
+ORD00012,2025-04-28,2025-05-04,C0071,Aarav,Female,24,Mumbai,Maharashtra,West,P046,Laptop,Electronics,Laptop,4,2447,0.15,8319.8,1490.75,Cash
+ORD00013,2025-05-20,2025-05-26,C0185,Rahul,Male,34,Kochi,Kerala,South,P028,Phone,Electronics,Phone,8,2220,0.0,17760.0,2186.48,UPI
+ORD00014,2025-03-24,2025-03-27,C0206,Unknown Customer,Male,33,Chennai,Tamil Nadu,South,P050,Chair,Furniture,Chair,2,916,0.0,1832.0,132.45,Card
+ORD00015,2025-04-21,2025-04-22,C0142,Priya,Female,63,Mumbai,Maharashtra,West,P020,Jeans,Clothing,Jeans,6,153,0.0,918.0,78.91,UPI
+ORD00016,2025-09-05,2025-09-11,C0007,Priya,Male,46,Mumbai,Maharashtra,West,P032,Rice,Grocery,Rice,4,508,0.05,1930.4,188.96,Card
+ORD00017,2025-09-05,2025-09-10,C0218,Priya,Male,47,Mumbai,Maharashtra,West,P045,Jeans,Clothing,Jeans,4,3527,0.0,14108.0,2145.74,Card
+ORD00018,2025-05-22,2025-05-27,C0207,Sneha,Female,45,Delhi,Delhi,North,P018,Laptop,Electronics,Laptop,1,3325,0.1,2992.5,303.54,UPI
+ORD00019,2025-07-01,2025-07-03,C0022,Priya,Female,31,Delhi,Delhi,North,P009,Laptop,Electronics,Laptop,8,3940,0.0,31520.0,6272.42,Cash
+ORD00020,2025-12-23,2025-12-30,C0215,Rahul,Male,23,Kochi,Kerala,South,P027,Desk,Furniture,Desk,1,1797,0.05,1707.15,202.44,Card
+ORD00021,2025-05-09,2025-05-12,C0059,Priya,Female,27,Chennai,Tamil Nadu,South,P003,Laptop,Electronics,Laptop,1,848,0.1,763.2,38.75,Card
+ORD00022,2025-02-20,2025-02-26,C0126,Sneha,Female,31,Delhi,Delhi,North,P044,Phone,Electronics,Phone,3,1218,0.15,3105.9,244.25,Card
+ORD00023,2025-02-14,2025-02-18,C0227,Sneha,Male,61,Bengaluru,Karnataka,South,P024,Jeans,Clothing,Jeans,2,1157,0.1,2082.6,437.15,Card
+ORD00024,2025-04-26,2025-04-30,C0227,Diya,Male,65,Kochi,Kerala,South,P036,Phone,Electronics,Phone,6,152,0.0,912.0,201.05,Card
+ORD00025,2025-08-24,2025-08-29,C0151,Diya,Male,54,Chennai,Tamil Nadu,South,P014,Phone,Electronics,Phone,4,1603,0.05,6091.4,1522.44,UPI
+ORD00026,2025-10-02,2025-10-07,C0127,Priya,Female,19,Chennai,Tamil Nadu,South,P013,Jeans,Clothing,Jeans,1,4445,0.1,4000.5,928.85,Card
+ORD00027,2025-12-23,2025-12-28,C0011,Rahul,Female,34,Bengaluru,Karnataka,South,P005,Jeans,Clothing,Jeans,3,2772,0.1,7484.4,750.19,Card
+ORD00028,2025-11-04,2025-11-10,C0215,Rahul,Female,47,Bengaluru,Karnataka,South,P004,Tea,Grocery,Tea,6,542,0.1,2926.8,225.09,Cash
+ORD00029,2025-03-17,2025-03-19,C0039,Sneha,Female,30,Chennai,Tamil Nadu,South,P005,Tea,Grocery,Tea,8,3286,0.0,26288.0,5576.61,Cash
+ORD00030,2025-08-20,2025-08-26,C0110,Sneha,Female,19,Kochi,Kerala,South,P013,Laptop,Electronics,Laptop,1,1153,0.05,1095.35,219.96,Cash
+ORD00031,2025-10-22,2025-10-28,C0149,Aarav,Male,55,Chennai,Tamil Nadu,South,P020,Jeans,Clothing,Jeans,6,2289,0.15,11673.9,1292.63,Card
+ORD00032,2025-09-02,2025-09-05,C0189,Rahul,Female,21,Kochi,Kerala,South,P002,Rice,Grocery,Rice,3,3724,0.1,10054.8,735.93,UPI
+ORD00033,2025-01-13,2025-01-20,C0006,Aarav,Female,57,Mumbai,Maharashtra,West,P030,Rice,Grocery,Rice,8,3614,0.0,28912.0,5537.91,UPI
+ORD00034,2025-02-21,2025-02-28,C0042,Rahul,Male,57,Chennai,Tamil Nadu,South,P012,Laptop,Electronics,Laptop,6,284,0.05,1618.8,82.21,Card
+ORD00035,2025-03-28,2025-03-30,C0083,Priya,Male,49,Bengaluru,Karnataka,South,P050,Chair,Furniture,Chair,8,2745,0.0,21960.0,4633.43,UPI
+ORD00036,2025-08-23,2025-08-25,C0006,Sneha,Female,62,Delhi,Delhi,North,P049,Tea,Grocery,Tea,6,296,0.0,1776.0,368.81,Card
+ORD00037,2025-05-21,2025-05-23,C0055,Diya,Male,20,Bengaluru,Karnataka,South,P023,Jeans,Clothing,Jeans,7,1939,0.15,11537.05,2710.75,Cash
+ORD00038,2025-02-14,2025-02-17,C0169,Aarav,Male,23,Bengaluru,Karnataka,South,P050,Phone,Electronics,Phone,7,945,0.05,6284.25,1256.48,Cash
+ORD00039,2025-12-03,2025-12-09,C0239,Rahul,Male,54,Unknown,Tamil Nadu,South,P019,Jeans,Clothing,Jeans,2,284,0.05,539.6,31.27,Card
+ORD00040,2025-11-12,2025-11-15,C0234,Aarav,Male,60,Chennai,Tamil Nadu,South,P017,Desk,Furniture,Desk,7,3044,0.1,19177.2,3389.03,Cash
+ORD00041,2025-09-01,2025-09-02,C0200,Aarav,Female,62,Kochi,Kerala,South,P017,Rice,Grocery,Rice,6,3904,0.05,22252.8,4407.82,Cash
+ORD00042,2025-09-11,2025-09-18,C0053,Priya,Male,55,Delhi,Delhi,North,P010,Rice,Grocery,Rice,3,2738,0.0,8214.0,524.3,Cash
+ORD00043,2025-12-17,2025-12-20,C0111,Diya,Female,38,Chennai,Tamil Nadu,South,P021,Jeans,Clothing,Jeans,1,897,0.15,762.45,50.44,Card
+ORD00044,2025-01-01,2025-01-05,C0104,Rahul,Female,26,Bengaluru,Karnataka,South,P006,Desk,Furniture,Desk,4,1822,0.15,6194.8,1160.8,Cash
+ORD00045,2025-03-02,2025-03-03,C0008,Diya,Female,58,Bengaluru,Karnataka,South,P047,Laptop,Electronics,Laptop,6,1840,0.15,9384.0,906.22,Card
+ORD00046,2025-02-07,2025-02-12,C0246,Priya,Male,59,Delhi,Delhi,North,P029,Jeans,Clothing,Jeans,6,4871,0.1,26303.4,4001.81,UPI
+ORD00047,2025-09-16,2025-09-22,C0018,Aarav,Male,36,Kochi,Kerala,South,P025,Tea,Grocery,Tea,5,1889,0.1,8500.5,500.66,UPI
+ORD00048,2025-07-02,2025-07-09,C0069,Rahul,Female,61,Delhi,Delhi,North,P024,Laptop,Electronics,Laptop,8,443,0.1,3189.6,685.06,Cash
+ORD00049,2025-11-07,2025-11-09,C0171,Priya,Male,53,Bengaluru,Karnataka,South,P039,Desk,Furniture,Desk,6,1847,0.05,10527.9,1243.63,Card
+ORD00050,2025-02-04,2025-02-10,C0229,Rahul,Male,18,Kochi,Kerala,South,P025,Laptop,Electronics,Laptop,8,4399,0.05,33432.4,4816.7,UPI
+ORD00051,2025-09-23,2025-09-26,C0054,Diya,Male,25,Bengaluru,Karnataka,South,P005,Laptop,Electronics,Laptop,4,1304,0.05,4955.2,750.31,UPI
+ORD00052,2025-04-22,2025-04-29,C0078,Diya,Male,61,Kochi,Kerala,South,P023,Laptop,Electronics,Laptop,7,1412,0.0,9884.0,1835.27,UPI
+ORD00053,2025-06-30,2025-07-01,C0245,Diya,Male,25,Chennai,Tamil Nadu,South,P037,Desk,Furniture,Desk,6,2528,0.0,15168.0,1400.51,UPI
+ORD00054,2025-07-05,2025-07-10,C0249,Diya,Male,36,Mumbai,Maharashtra,West,P033,Chair,Furniture,Chair,7,3178,0.05,21133.7,5213.33,Cash
+ORD00055,2025-10-20,2025-10-27,C0118,Rahul,Female,48,Bengaluru,Karnataka,South,P018,Phone,Electronics,Phone,5,1569,0.1,7060.5,1464.96,UPI
+ORD00056,2025-10-19,2025-10-26,C0097,Sneha,Male,55,Chennai,Tamil Nadu,South,P007,Jeans,Clothing,Jeans,4,331,0.1,1191.6,98.25,Card
+ORD00057,2025-03-21,2025-03-26,C0238,Priya,Female,53,Mumbai,Maharashtra,West,P040,Tea,Grocery,Tea,7,4075,0.15,24246.25,2743.64,Cash
+ORD00058,2025-11-10,2025-11-13,C0194,Aarav,Male,44,Bengaluru,Karnataka,South,P007,Jeans,Clothing,Jeans,1,1512,0.0,1512.0,354.72,Cash
+ORD00059,2025-03-03,2025-03-07,C0157,Diya,Male,35,Bengaluru,Karnataka,South,P011,Phone,Electronics,Phone,5,915,0.15,3888.75,753.23,Cash
+ORD00060,2025-03-27,2025-03-31,C0202,Diya,Female,60,Delhi,Delhi,North,P010,Rice,Grocery,Rice,6,4887,0.15,24923.7,4165.5,Card
+ORD00061,2025-12-03,2025-12-04,C0110,Aarav,Female,38,Delhi,Delhi,North,P049,Tea,Grocery,Tea,8,1584,0.0,12672.0,782.46,Cash
+ORD00062,2025-10-02,2025-10-04,C0091,Priya,Male,20,Kochi,Kerala,South,P044,Laptop,Electronics,Laptop,6,187,0.05,1065.9,94.39,Cash
+ORD00063,2025-12-30,2026-01-02,C0228,Sneha,Female,57,Mumbai,Maharashtra,West,P009,Rice,Grocery,Rice,2,983,0.15,1671.1,404.7,Card
+ORD00064,2025-01-20,2025-01-23,C0068,Aarav,Male,42,Delhi,Delhi,North,P024,Desk,Furniture,Desk,8,677,0.15,4603.6,577.29,UPI
+ORD00065,2025-03-03,2025-03-10,C0018,Priya,Female,49,Chennai,Tamil Nadu,South,P011,Tea,Grocery,Tea,7,3410,0.1,21483.0,5325.48,Card
+ORD00066,2025-03-24,2025-03-26,C0237,Rahul,Male,49,Chennai,Tamil Nadu,South,P004,Laptop,Electronics,Laptop,2,4294,0.05,8158.6,766.64,UPI
+ORD00067,2025-03-15,2025-03-21,C0089,Diya,Female,54,Mumbai,Maharashtra,West,P031,Desk,Furniture,Desk,3,1216,0.0,3648.0,364.48,Card
+ORD00068,2025-01-31,2025-02-01,C0151,Rahul,Male,25,Delhi,Delhi,North,P001,Phone,Electronics,Phone,5,3314,0.15,14084.5,1363.62,UPI
+ORD00069,2025-07-03,2025-07-10,C0153,Diya,Male,20,Bengaluru,Karnataka,South,P019,Tea,Grocery,Tea,5,3435,0.15,14598.75,2940.08,Card
+ORD00070,2025-04-04,2025-04-06,C0003,Sneha,Female,55,Mumbai,Maharashtra,West,P027,Jeans,Clothing,Jeans,8,4753,0.1,34221.6,8178.15,Card
+ORD00071,2025-01-25,2025-01-26,C0045,Diya,Male,65,Delhi,Delhi,North,P020,Phone,Electronics,Phone,2,3482,0.0,6964.0,730.17,Card
+ORD00072,2025-02-19,2025-02-25,C0115,Sneha,Female,61,Mumbai,Maharashtra,West,P018,Chair,Furniture,Chair,2,3723,0.15,6329.1,322.18,Cash
+ORD00073,2025-05-31,2025-06-03,C0038,Diya,Male,55,Delhi,Delhi,North,P021,Tea,Grocery,Tea,4,2538,0.0,10152.0,989.25,Cash
+ORD00074,2025-10-19,2025-10-25,C0104,Aarav,Male,50,Chennai,Tamil Nadu,South,P023,Laptop,Electronics,Laptop,1,4420,0.1,3978.0,462.32,Card
+ORD00075,2025-11-11,2025-11-16,C0091,Sneha,Female,48,Bengaluru,Karnataka,South,P046,Rice,Grocery,Rice,7,1387,0.15,8252.65,1387.01,UPI
+ORD00076,2025-03-06,2025-03-09,C0104,Rahul,Male,65,Bengaluru,Karnataka,South,P012,Phone,Electronics,Phone,5,4930,0.05,23417.5,4070.02,UPI
+ORD00077,2025-07-22,2025-07-25,C0064,Rahul,Female,49,Delhi,Delhi,North,P009,Phone,Electronics,Phone,1,1135,0.15,964.75,81.58,Cash
+ORD00078,2025-05-05,2025-05-11,C0079,Rahul,Male,48,Bengaluru,Karnataka,South,P019,Laptop,Electronics,Laptop,8,3751,0.0,30008.0,5812.91,Card
+ORD00079,2025-03-16,2025-03-20,C0183,Sneha,Male,30,Delhi,Delhi,North,P012,Laptop,Electronics,Laptop,4,963,0.05,3659.4,582.83,Cash
+ORD00080,2025-09-13,2025-09-18,C0204,Diya,Female,56,Bengaluru,Karnataka,South,P019,Chair,Furniture,Chair,6,2517,0.05,14346.9,2656.73,Card
+ORD00081,2025-01-08,2025-01-14,C0034,Rahul,Male,58,Delhi,Delhi,North,P045,Tea,Grocery,Tea,3,4746,0.15,12102.3,745.22,Card
+ORD00082,2025-08-13,2025-08-15,C0078,Rahul,Male,48,Mumbai,Maharashtra,West,P025,Rice,Grocery,Rice,4,4637,0.0,18548.0,3887.41,Card
+ORD00083,2025-03-08,2025-03-09,C0107,Rahul,Male,18,Bengaluru,Karnataka,South,P010,Rice,Grocery,Rice,8,2861,0.15,19454.8,2116.04,Cash
+ORD00084,2025-04-05,2025-04-09,C0057,Priya,Male,45,Mumbai,Maharashtra,West,P006,Rice,Grocery,Rice,1,2072,0.15,1761.2,192.36,Card
+ORD00085,2025-04-19,2025-04-20,C0059,Priya,Male,39,Delhi,Delhi,North,P008,Phone,Electronics,Phone,4,121,0.05,459.8,37.79,Cash
+ORD00086,2025-03-06,2025-03-11,C0161,Rahul,Female,47,Kochi,Kerala,South,P030,Laptop,Electronics,Laptop,7,3242,0.0,22694.0,2452.54,Cash
+ORD00087,2025-08-09,2025-08-10,C0232,Priya,Male,44,Bengaluru,Karnataka,South,P049,Desk,Furniture,Desk,6,365,0.15,1861.5,372.43,Card
+ORD00088,2025-11-24,2025-11-30,C0003,Priya,Male,26,Mumbai,Maharashtra,West,P024,Laptop,Electronics,Laptop,4,4174,0.15,14191.6,1343.73,UPI
+ORD00089,2025-03-22,2025-03-25,C0118,Priya,Male,60,Bengaluru,Karnataka,South,P020,Rice,Grocery,Rice,2,1927,0.15,3275.9,436.14,UPI
+ORD00090,2025-11-17,2025-11-23,C0060,Aarav,Female,64,Mumbai,Maharashtra,West,P020,Jeans,Clothing,Jeans,4,3942,0.05,14979.6,1970.01,UPI
+ORD00091,2025-06-22,2025-06-27,C0178,Diya,Male,61,Bengaluru,Karnataka,South,P049,Laptop,Electronics,Laptop,2,3231,0.15,5492.7,1307.48,UPI
+ORD00092,2025-11-07,2025-11-14,C0187,Rahul,Male,21,Mumbai,Maharashtra,West,P001,Phone,Electronics,Phone,5,500,0.15,2125.0,434.58,UPI
+ORD00093,2025-04-26,2025-04-30,C0082,Priya,Male,51,Bengaluru,Karnataka,South,P007,Jeans,Clothing,Jeans,2,3921,0.0,7842.0,1419.26,Card
+ORD00094,2025-12-19,2025-12-23,C0074,Priya,Male,28,Mumbai,Maharashtra,West,P015,Phone,Electronics,Phone,8,4426,0.0,35408.0,3450.14,Cash
+ORD00095,2025-06-17,2025-06-18,C0124,Diya,Male,38,Kochi,Kerala,South,P043,Jeans,Clothing,Jeans,4,4245,0.0,16980.0,879.65,Card
+ORD00096,2025-10-06,2025-10-13,C0194,Priya,Female,54,Chennai,Tamil Nadu,South,P027,Jeans,Clothing,Jeans,1,1142,0.0,1142.0,259.9,Cash
+ORD00097,2025-09-08,2025-09-14,C0191,Aarav,Female,60,Mumbai,Maharashtra,West,P033,Desk,Furniture,Desk,4,4248,0.0,16992.0,1929.41,Card
+ORD00098,2025-07-16,2025-07-21,C0046,Rahul,Female,35,Kochi,Kerala,South,P025,Chair,Furniture,Chair,5,3384,0.15,14382.0,1648.14,UPI
+ORD00099,2025-06-29,2025-07-06,C0051,Sneha,Male,28,Kochi,Kerala,South,P005,Chair,Furniture,Chair,5,3888,0.0,19440.0,2216.86,Card
+ORD00100,2025-10-31,2025-11-01,C0093,Aarav,Male,56,Mumbai,Maharashtra,West,P044,Jeans,Clothing,Jeans,6,2693,0.0,16158.0,3308.99,Card
+ORD00101,2025-01-30,2025-01-31,C0004,Sneha,Female,28,Chennai,Tamil Nadu,South,P004,Phone,Electronics,Phone,8,4944,0.05,37574.4,6860.22,Card
+ORD00102,2025-05-01,2025-05-06,C0041,Sneha,Female,38,Bengaluru,Karnataka,South,P009,Laptop,Electronics,Laptop,3,4470,0.0,13410.0,2138.55,Cash
+ORD00103,2025-10-24,2025-10-27,C0030,Diya,Male,40,Bengaluru,Karnataka,South,P039,Rice,Grocery,Rice,5,1291,0.0,6455.0,1521.0,Cash
+ORD00104,2025-11-27,2025-12-04,C0072,Priya,Female,41,Mumbai,Maharashtra,West,P038,Phone,Electronics,Phone,1,2028,0.15,1723.8,343.08,Cash
+ORD00105,2025-10-09,2025-10-11,C0102,Aarav,Female,24,Kochi,Kerala,South,P021,Jeans,Clothing,Jeans,6,3685,0.1,19899.0,3452.13,Cash
+ORD00106,2025-11-06,2025-11-08,C0078,Sneha,Female,20,Mumbai,Maharashtra,West,P032,Chair,Furniture,Chair,3,1052,0.0,3156.0,551.53,UPI
+ORD00107,2025-03-20,2025-03-24,C0007,Rahul,Female,53,Bengaluru,Karnataka,South,P019,Chair,Furniture,Chair,6,533,0.1,2878.2,677.5,Card
+ORD00108,2025-03-22,2025-03-28,C0242,Sneha,Female,32,Chennai,Tamil Nadu,South,P041,Jeans,Clothing,Jeans,7,3850,0.1,24255.0,2873.66,Cash
+ORD00109,2025-04-04,2025-04-11,C0109,Sneha,Female,55,Delhi,Delhi,North,P041,Phone,Electronics,Phone,1,2440,0.0,2440.0,560.16,UPI
+ORD00110,2025-09-17,2025-09-21,C0099,Rahul,Male,43,Chennai,Tamil Nadu,South,P014,Jeans,Clothing,Jeans,4,4190,0.0,16760.0,2893.32,Cash
+ORD00111,2025-10-24,2025-10-30,C0248,Priya,Female,46,Mumbai,Maharashtra,West,P004,Phone,Electronics,Phone,3,3709,0.15,9457.95,1570.82,UPI
+ORD00112,2025-07-18,2025-07-23,C0145,Diya,Female,36,Kochi,Kerala,South,P006,Desk,Furniture,Desk,3,728,0.0,2184.0,367.82,UPI
+ORD00113,2025-01-09,2025-01-13,C0201,Diya,Female,45,Bengaluru,Karnataka,South,P007,Rice,Grocery,Rice,7,2089,0.0,14623.0,2686.69,Cash
+ORD00114,2025-04-18,2025-04-21,C0039,Aarav,Male,29,Chennai,Tamil Nadu,South,P002,Jeans,Clothing,Jeans,6,4562,0.1,24634.8,4572.33,Card
+ORD00115,2025-06-30,2025-07-01,C0044,Unknown Customer,Male,62,Bengaluru,Karnataka,South,P020,Phone,Electronics,Phone,2,4503,0.0,9006.0,1941.45,Card
+ORD00116,2025-02-03,2025-02-05,C0218,Priya,Male,49,Delhi,Delhi,North,P044,Jeans,Clothing,Jeans,2,4498,0.1,8096.4,701.47,Cash
+ORD00117,2025-09-06,2025-09-08,C0172,Priya,Male,61,Delhi,Delhi,North,P007,Desk,Furniture,Desk,7,1962,0.15,11673.9,1608.72,Card
+ORD00118,2025-03-27,2025-04-03,C0163,Sneha,Male,65,Kochi,Kerala,South,P024,Rice,Grocery,Rice,3,3527,0.15,8993.85,2029.19,Card
+ORD00119,2025-06-21,2025-06-25,C0172,Rahul,Male,52,Kochi,Kerala,South,P049,Jeans,Clothing,Jeans,7,1652,0.05,10985.8,2595.47,Cash
+ORD00120,2025-03-27,2025-03-29,C0044,Sneha,Male,54,Kochi,Kerala,South,P046,Jeans,Clothing,Jeans,6,1904,0.05,10852.8,2103.06,UPI
+ORD00121,2025-11-16,2025-11-22,C0246,Sneha,Male,22,Kochi,Kerala,South,P004,Desk,Furniture,Desk,5,1509,0.15,6413.25,627.46,UPI
+ORD00122,2025-12-08,2025-12-10,C0208,Aarav,Female,41,Bengaluru,Karnataka,South,P008,Tea,Grocery,Tea,7,709,0.1,4466.7,480.42,Card
+ORD00123,2025-10-27,2025-10-29,C0186,Diya,Female,18,Bengaluru,Karnataka,South,P040,Desk,Furniture,Desk,3,299,0.15,762.45,125.71,Card
+ORD00124,2025-04-11,2025-04-18,C0187,Sneha,Female,19,Chennai,Tamil Nadu,South,P042,Phone,Electronics,Phone,6,4847,0.0,29082.0,5331.84,Cash
+ORD00125,2025-01-12,2025-01-15,C0035,Sneha,Male,35,Kochi,Kerala,South,P029,Jeans,Clothing,Jeans,3,379,0.0,1137.0,232.65,Cash
+ORD00126,2025-07-11,2025-07-12,C0192,Priya,Male,54,Delhi,Delhi,North,P018,Rice,Grocery,Rice,4,4773,0.1,17182.8,1622.01,Card
+ORD00127,2025-06-28,2025-07-02,C0164,Rahul,Male,62,Mumbai,Maharashtra,West,P038,Jeans,Clothing,Jeans,6,1294,0.0,7764.0,1410.27,Card
+ORD00128,2025-09-08,2025-09-13,C0079,Rahul,Male,46,Bengaluru,Karnataka,South,P032,Jeans,Clothing,Jeans,6,2615,0.15,13336.5,1532.28,UPI
+ORD00129,2025-09-06,2025-09-10,C0147,Sneha,Male,47,Mumbai,Maharashtra,West,P004,Rice,Grocery,Rice,5,811,0.15,3446.75,487.09,UPI
+ORD00130,2025-12-16,2025-12-22,C0031,Priya,Male,57,Kochi,Kerala,South,P038,Jeans,Clothing,Jeans,8,286,0.0,2288.0,336.86,Card
+ORD00131,2025-04-06,2025-04-10,C0085,Sneha,Male,25,Bengaluru,Karnataka,South,P038,Laptop,Electronics,Laptop,6,1750,0.0,10500.0,1693.21,UPI
+ORD00132,2025-06-27,2025-07-01,C0032,Priya,Female,56,Delhi,Delhi,North,P025,Jeans,Clothing,Jeans,2,3574,0.15,6075.8,579.69,Card
+ORD00133,2025-03-10,2025-03-14,C0128,Aarav,Male,43,Kochi,Kerala,South,P047,Laptop,Electronics,Laptop,6,2051,0.05,11690.7,1578.1,Cash
+ORD00134,2025-10-31,2025-11-06,C0067,Rahul,Female,39,Delhi,Delhi,North,P042,Laptop,Electronics,Laptop,2,2915,0.1,5247.0,1039.82,UPI
+ORD00135,2025-02-28,2025-03-07,C0051,Diya,Female,24,Bengaluru,Karnataka,South,P042,Phone,Electronics,Phone,8,1374,0.0,10992.0,1795.94,UPI
+ORD00136,2025-10-16,2025-10-18,C0192,Aarav,Male,34,Mumbai,Maharashtra,West,P040,Jeans,Clothing,Jeans,5,2967,0.1,13351.5,1555.08,Cash
+ORD00137,2025-08-15,2025-08-22,C0164,Diya,Female,64,Bengaluru,Karnataka,South,P020,Jeans,Clothing,Jeans,7,1031,0.15,6134.45,439.14,Cash
+ORD00138,2025-07-18,2025-07-21,C0186,Diya,Male,50,Chennai,Tamil Nadu,South,P021,Jeans,Clothing,Jeans,1,2482,0.1,2233.8,317.5,UPI
+ORD00139,2025-10-25,2025-10-27,C0235,Unknown Customer,Female,29,Delhi,Delhi,North,P018,Jeans,Clothing,Jeans,1,4821,0.1,4338.9,330.68,Cash
+ORD00140,2025-02-05,2025-02-10,C0214,Rahul,Male,22,Bengaluru,Karnataka,South,P039,Laptop,Electronics,Laptop,7,4202,0.0,29414.0,4692.99,Card
+ORD00141,2025-01-15,2025-01-19,C0149,Diya,Male,23,Kochi,Kerala,South,P004,Laptop,Electronics,Laptop,7,2283,0.0,15981.0,1169.99,UPI
+ORD00142,2025-11-19,2025-11-22,C0115,Priya,Female,36,Chennai,Tamil Nadu,South,P039,Chair,Furniture,Chair,1,2868,0.15,2437.8,399.31,Cash
+ORD00143,2025-01-27,2025-01-29,C0088,Sneha,Male,45,Bengaluru,Karnataka,South,P008,Laptop,Electronics,Laptop,6,524,0.0,3144.0,223.48,Card
+ORD00144,2025-07-18,2025-07-24,C0235,Rahul,Male,32,Bengaluru,Karnataka,South,P011,Phone,Electronics,Phone,8,2505,0.1,18036.0,1042.49,UPI
+ORD00145,2025-09-29,2025-10-04,C0220,Priya,Male,23,Kochi,Kerala,South,P031,Phone,Electronics,Phone,1,1421,0.05,1349.95,330.75,UPI
+ORD00146,2025-09-12,2025-09-14,C0157,Diya,Female,61,Bengaluru,Karnataka,South,P018,Laptop,Electronics,Laptop,8,511,0.05,3883.6,616.8,Cash
+ORD00147,2025-04-19,2025-04-25,C0111,Aarav,Male,33,Kochi,Kerala,South,P022,Jeans,Clothing,Jeans,4,2543,0.0,10172.0,2071.47,UPI
+ORD00148,2025-03-10,2025-03-13,C0165,Sneha,Female,58,Bengaluru,Karnataka,South,P040,Desk,Furniture,Desk,6,2081,0.1,11237.4,2154.89,UPI
+ORD00149,2025-05-05,2025-05-12,C0109,Diya,Female,38,Bengaluru,Karnataka,South,P041,Laptop,Electronics,Laptop,2,1347,0.05,2559.3,128.81,UPI
+ORD00150,2025-06-22,2025-06-29,C0232,Sneha,Female,60,Kochi,Kerala,South,P019,Phone,Electronics,Phone,5,4987,0.15,21194.75,2013.65,UPI
+ORD00151,2025-09-06,2025-09-13,C0173,Diya,Male,24,Bengaluru,Karnataka,South,P007,Chair,Furniture,Chair,7,2180,0.0,15260.0,2051.48,Card
+ORD00152,2025-05-28,2025-05-30,C0088,Diya,Female,48,Bengaluru,Karnataka,South,P038,Chair,Furniture,Chair,8,3866,0.15,26288.8,3796.15,UPI
+ORD00153,2025-05-02,2025-05-08,C0047,Priya,Female,43,Delhi,Delhi,North,P002,Rice,Grocery,Rice,2,847,0.1,1524.6,270.1,UPI
+ORD00154,2025-03-28,2025-04-04,C0080,Aarav,Male,63,Kochi,Kerala,South,P013,Chair,Furniture,Chair,2,1869,0.1,3364.2,419.28,Cash
+ORD00155,2025-08-01,2025-08-04,C0142,Rahul,Male,19,Bengaluru,Karnataka,South,P048,Chair,Furniture,Chair,5,298,0.05,1415.5,237.01,Card
+ORD00156,2025-01-03,2025-01-07,C0172,Priya,Female,54,Mumbai,Maharashtra,West,P025,Laptop,Electronics,Laptop,4,398,0.15,1353.2,104.62,Cash
+ORD00157,2025-05-29,2025-05-30,C0185,Sneha,Female,32,Mumbai,Maharashtra,West,P048,Laptop,Electronics,Laptop,7,4413,0.1,27801.9,6196.74,Card
+ORD00158,2025-04-01,2025-04-08,C0046,Rahul,Female,48,Chennai,Tamil Nadu,South,P039,Chair,Furniture,Chair,1,3488,0.1,3139.2,591.41,Cash
+ORD00159,2025-09-20,2025-09-23,C0162,Priya,Male,51,Kochi,Kerala,South,P015,Rice,Grocery,Rice,3,4803,0.0,14409.0,3109.15,UPI
+ORD00160,2025-03-25,2025-03-30,C0021,Priya,Female,38,Delhi,Delhi,North,P034,Tea,Grocery,Tea,2,2341,0.15,3979.7,816.28,UPI
+ORD00161,2025-04-13,2025-04-14,C0150,Diya,Male,37,Mumbai,Maharashtra,West,P009,Laptop,Electronics,Laptop,4,4693,0.1,16894.8,3330.47,UPI
+ORD00162,2025-07-25,2025-07-27,C0034,Aarav,Male,31,Chennai,Tamil Nadu,South,P020,Jeans,Clothing,Jeans,2,136,0.1,244.8,26.3,Cash
+ORD00163,2025-05-14,2025-05-17,C0113,Sneha,Female,19,Bengaluru,Karnataka,South,P021,Desk,Furniture,Desk,3,3126,0.05,8909.1,970.35,Card
+ORD00164,2025-08-04,2025-08-05,C0101,Diya,Male,30,Bengaluru,Karnataka,South,P024,Rice,Grocery,Rice,1,4587,0.15,3898.95,452.58,UPI
+ORD00165,2025-03-12,2025-03-17,C0186,Sneha,Male,45,Chennai,Tamil Nadu,South,P004,Jeans,Clothing,Jeans,7,2613,0.15,15547.35,2236.5,UPI
+ORD00166,2025-06-25,2025-06-30,C0026,Priya,Female,18,Chennai,Tamil Nadu,South,P042,Chair,Furniture,Chair,6,2688,0.05,15321.6,2370.88,Cash
+ORD00167,2025-12-17,2025-12-24,C0078,Sneha,Male,20,Kochi,Kerala,South,P042,Tea,Grocery,Tea,8,1867,0.05,14189.2,1430.9,UPI
+ORD00168,2025-08-15,2025-08-16,C0014,Aarav,Female,58,Chennai,Tamil Nadu,South,P002,Chair,Furniture,Chair,8,3603,0.1,25941.6,5944.91,Cash
+ORD00169,2025-10-06,2025-10-13,C0205,Rahul,Male,43,Kochi,Kerala,South,P007,Phone,Electronics,Phone,4,3845,0.0,15380.0,1593.91,Card
+ORD00170,2025-04-18,2025-04-20,C0246,Aarav,Female,46,Kochi,Kerala,South,P021,Desk,Furniture,Desk,8,3845,0.0,30760.0,3578.26,Card
+ORD00171,2025-12-07,2025-12-14,C0217,Unknown Customer,Female,39,Bengaluru,Karnataka,South,P035,Rice,Grocery,Rice,6,2128,0.05,12129.6,2744.49,Card
+ORD00172,2025-11-07,2025-11-14,C0092,Rahul,Female,27,Chennai,Tamil Nadu,South,P011,Tea,Grocery,Tea,5,4010,0.05,19047.5,1507.74,Cash
+ORD00173,2025-12-09,2025-12-11,C0020,Sneha,Male,30,Bengaluru,Karnataka,South,P022,Phone,Electronics,Phone,6,547,0.15,2789.7,547.99,Card
+ORD00174,2025-04-26,2025-05-01,C0165,Sneha,Male,46,Bengaluru,Karnataka,South,P011,Desk,Furniture,Desk,6,4194,0.0,25164.0,6074.76,Cash
+ORD00175,2025-03-20,2025-03-27,C0070,Rahul,Female,52,Bengaluru,Karnataka,South,P046,Jeans,Clothing,Jeans,5,2480,0.0,12400.0,1742.32,UPI
+ORD00176,2025-06-18,2025-06-23,C0032,Rahul,Female,53,Kochi,Kerala,South,P046,Laptop,Electronics,Laptop,2,3688,0.05,7007.2,1551.01,Cash
+ORD00177,2025-04-11,2025-04-12,C0208,Aarav,Male,19,Mumbai,Maharashtra,West,P016,Jeans,Clothing,Jeans,6,3373,0.0,20238.0,1844.22,Card
+ORD00178,2025-06-26,2025-06-30,C0068,Aarav,Male,28,Mumbai,Maharashtra,West,P024,Jeans,Clothing,Jeans,7,266,0.1,1675.8,347.37,UPI
+ORD00179,2025-08-04,2025-08-05,C0023,Aarav,Female,34,Kochi,Kerala,South,P011,Tea,Grocery,Tea,7,2711,0.15,16130.45,3044.48,Card
+ORD00180,2025-09-16,2025-09-21,C0214,Rahul,Male,23,Chennai,Tamil Nadu,South,P005,Jeans,Clothing,Jeans,8,3354,0.05,25490.4,1415.78,UPI
+ORD00181,2025-01-30,2025-02-06,C0017,Rahul,Male,57,Kochi,Kerala,South,P049,Tea,Grocery,Tea,2,3477,0.15,5910.9,1073.27,Cash
+ORD00182,2025-01-04,2025-01-10,C0039,Aarav,Female,51,Delhi,Delhi,North,P028,Jeans,Clothing,Jeans,3,4655,0.15,11870.25,2144.57,Cash
+ORD00183,2025-04-15,2025-04-20,C0134,Sneha,Male,40,Kochi,Kerala,South,P021,Jeans,Clothing,Jeans,6,746,0.1,4028.4,798.85,UPI
+ORD00184,2025-08-31,2025-09-07,C0199,Aarav,Female,40,Delhi,Delhi,North,P029,Chair,Furniture,Chair,2,3685,0.05,7001.5,1643.04,Cash
+ORD00185,2025-12-20,2025-12-24,C0181,Priya,Female,34,Kochi,Kerala,South,P040,Rice,Grocery,Rice,8,3180,0.1,22896.0,2389.79,Card
+ORD00186,2025-12-27,2025-12-28,C0085,Sneha,Female,30,Delhi,Delhi,North,P019,Rice,Grocery,Rice,8,411,0.1,2959.2,527.94,UPI
+ORD00187,2025-04-22,2025-04-24,C0204,Diya,Male,57,Delhi,Delhi,North,P025,Jeans,Clothing,Jeans,8,4898,0.05,37224.8,8255.56,Card
+ORD00188,2025-03-15,2025-03-19,C0032,Aarav,Female,44,Delhi,Delhi,North,P001,Jeans,Clothing,Jeans,4,732,0.15,2488.8,299.29,UPI
+ORD00189,2025-01-21,2025-01-28,C0215,Diya,Female,44,Mumbai,Maharashtra,West,P030,Desk,Furniture,Desk,5,1080,0.0,5400.0,686.6,UPI
+ORD00190,2025-02-21,2025-02-24,C0088,Priya,Male,42,Mumbai,Maharashtra,West,P046,Jeans,Clothing,Jeans,2,3780,0.15,6426.0,1275.88,Cash
+ORD00191,2025-07-23,2025-07-28,C0139,Priya,Male,35,Mumbai,Maharashtra,West,P043,Chair,Furniture,Chair,7,1799,0.05,11963.35,748.22,UPI
+ORD00192,2025-01-11,2025-01-15,C0141,Aarav,Female,19,Unknown,Delhi,North,P023,Jeans,Clothing,Jeans,7,3264,0.1,20563.2,3126.62,Card
+ORD00193,2025-07-08,2025-07-11,C0120,Priya,Female,58,Kochi,Kerala,South,P001,Rice,Grocery,Rice,4,3528,0.05,13406.4,848.79,Cash
+ORD00194,2025-09-02,2025-09-05,C0076,Diya,Female,40,Bengaluru,Karnataka,South,P030,Chair,Furniture,Chair,3,908,0.0,2724.0,449.17,Cash
+ORD00195,2025-04-29,2025-04-30,C0016,Diya,Male,19,Bengaluru,Karnataka,South,P014,Jeans,Clothing,Jeans,6,3886,0.0,23316.0,5109.42,Cash
+ORD00196,2025-12-07,2025-12-13,C0100,Priya,Female,38,Mumbai,Maharashtra,West,P041,Phone,Electronics,Phone,4,1238,0.15,4209.2,469.51,Cash
+ORD00197,2025-07-18,2025-07-24,C0202,Rahul,Female,57,Bengaluru,Karnataka,South,P005,Jeans,Clothing,Jeans,3,2692,0.0,8076.0,1689.23,Cash
+ORD00198,2025-08-08,2025-08-12,C0232,Priya,Male,35,Delhi,Delhi,North,P017,Tea,Grocery,Tea,1,3496,0.1,3146.4,491.87,Card
+ORD00199,2025-11-03,2025-11-05,C0007,Rahul,Female,20,Delhi,Delhi,North,P040,Laptop,Electronics,Laptop,8,1895,0.15,12886.0,1845.62,UPI
+ORD00200,2025-12-05,2025-12-06,C0063,Priya,Female,36,Bengaluru,Karnataka,South,P022,Jeans,Clothing,Jeans,8,2157,0.15,14667.6,3391.15,UPI
+ORD00201,2025-07-18,2025-07-23,C0149,Diya,Female,64,Chennai,Tamil Nadu,South,P033,Jeans,Clothing,Jeans,1,1915,0.15,1627.75,186.26,UPI
+ORD00202,2025-08-06,2025-08-07,C0077,Priya,Female,63,Bengaluru,Karnataka,South,P015,Phone,Electronics,Phone,7,2640,0.0,18480.0,3429.64,Cash
+ORD00203,2025-08-16,2025-08-22,C0084,Aarav,Male,38,Kochi,Kerala,South,P024,Laptop,Electronics,Laptop,2,2694,0.1,4849.2,578.63,Cash
+ORD00204,2025-07-05,2025-07-06,C0037,Diya,Female,31,Chennai,Tamil Nadu,South,P008,Chair,Furniture,Chair,4,3017,0.1,10861.2,2331.66,UPI
+ORD00205,2025-10-18,2025-10-19,C0169,Rahul,Female,20,Bengaluru,Karnataka,South,P041,Jeans,Clothing,Jeans,6,1792,0.15,9139.2,1872.8,UPI
+ORD00206,2025-08-08,2025-08-10,C0193,Diya,Female,24,Bengaluru,Karnataka,South,P047,Jeans,Clothing,Jeans,8,2801,0.15,19046.8,3308.17,Card
+ORD00207,2025-06-05,2025-06-06,C0118,Aarav,Male,53,Mumbai,Maharashtra,West,P047,Desk,Furniture,Desk,5,2629,0.05,12487.75,1855.99,UPI
+ORD00208,2025-07-03,2025-07-05,C0136,Priya,Female,24,Kochi,Kerala,South,P037,Rice,Grocery,Rice,6,2923,0.0,17538.0,2983.51,UPI
+ORD00209,2025-11-04,2025-11-09,C0173,Rahul,Male,50,Chennai,Tamil Nadu,South,P048,Jeans,Clothing,Jeans,6,2920,0.0,17520.0,933.39,Cash
+ORD00210,2025-08-05,2025-08-07,C0199,Unknown Customer,Male,18,Bengaluru,Karnataka,South,P043,Tea,Grocery,Tea,6,581,0.05,3311.7,472.23,UPI
+ORD00211,2025-06-15,2025-06-20,C0018,Priya,Female,64,Delhi,Delhi,North,P018,Desk,Furniture,Desk,2,2736,0.15,4651.2,414.11,Cash
+ORD00212,2025-06-21,2025-06-28,C0215,Diya,Female,60,Bengaluru,Karnataka,South,P031,Chair,Furniture,Chair,5,869,0.15,3693.25,745.57,Cash
+ORD00213,2025-01-30,2025-01-31,C0068,Sneha,Male,45,Kochi,Kerala,South,P009,Desk,Furniture,Desk,1,2150,0.15,1827.5,157.29,Card
+ORD00214,2025-04-11,2025-04-13,C0149,Priya,Female,33,Mumbai,Maharashtra,West,P021,Desk,Furniture,Desk,8,1642,0.1,11822.4,1530.89,Card
+ORD00215,2025-11-06,2025-11-09,C0151,Aarav,Female,28,Mumbai,Maharashtra,West,P009,Laptop,Electronics,Laptop,2,4780,0.1,8604.0,2149.52,UPI
+ORD00216,2025-02-03,2025-02-05,C0099,Diya,Female,19,Kochi,Kerala,South,P036,Laptop,Electronics,Laptop,6,3432,0.1,18532.8,1242.76,UPI
+ORD00217,2025-06-08,2025-06-10,C0200,Diya,Female,61,Kochi,Kerala,South,P012,Laptop,Electronics,Laptop,6,3518,0.1,18997.2,1102.88,Card
+ORD00218,2025-04-11,2025-04-18,C0051,Priya,Male,60,Delhi,Delhi,North,P008,Jeans,Clothing,Jeans,6,1714,0.15,8741.4,1841.75,Cash
+ORD00219,2025-07-31,2025-08-07,C0165,Priya,Female,47,Bengaluru,Karnataka,South,P001,Chair,Furniture,Chair,6,4572,0.0,27432.0,1532.24,Cash
+ORD00220,2025-01-02,2025-01-05,C0137,Priya,Male,18,Bengaluru,Karnataka,South,P035,Tea,Grocery,Tea,5,3456,0.05,16416.0,3150.73,Card
+ORD00221,2025-04-29,2025-05-02,C0076,Rahul,Male,65,Mumbai,Maharashtra,West,P002,Jeans,Clothing,Jeans,2,2433,0.0,4866.0,357.54,UPI
+ORD00222,2025-08-09,2025-08-13,C0160,Aarav,Female,19,Bengaluru,Karnataka,South,P037,Phone,Electronics,Phone,5,4224,0.1,19008.0,3902.72,Card
+ORD00223,2025-04-22,2025-04-26,C0070,Sneha,Male,29,Delhi,Delhi,North,P006,Laptop,Electronics,Laptop,1,2763,0.0,2763.0,406.98,Card
+ORD00224,2025-03-29,2025-04-05,C0052,Diya,Male,65,Mumbai,Maharashtra,West,P010,Desk,Furniture,Desk,3,3161,0.15,8060.55,1369.54,UPI
+ORD00225,2025-05-19,2025-05-22,C0133,Rahul,Male,56,Kochi,Kerala,South,P022,Jeans,Clothing,Jeans,8,4749,0.05,36092.4,6903.23,Cash
+ORD00226,2025-09-08,2025-09-13,C0230,Rahul,Male,64,Kochi,Kerala,South,P005,Chair,Furniture,Chair,6,3564,0.1,19245.6,3858.78,Cash
+ORD00227,2025-03-21,2025-03-23,C0022,Aarav,Female,41,Kochi,Kerala,South,P004,Laptop,Electronics,Laptop,5,2458,0.1,11061.0,564.98,Card
+ORD00228,2025-09-18,2025-09-22,C0237,Diya,Female,52,Mumbai,Maharashtra,West,P022,Rice,Grocery,Rice,1,1550,0.15,1317.5,294.65,Card
+ORD00229,2025-03-24,2025-03-26,C0186,Rahul,Male,38,Mumbai,Maharashtra,West,P035,Desk,Furniture,Desk,6,3686,0.1,19904.4,3401.03,Cash
+ORD00230,2025-03-30,2025-04-06,C0212,Diya,Male,48,Delhi,Delhi,North,P045,Rice,Grocery,Rice,7,4347,0.05,28907.55,3106.95,UPI
+ORD00231,2025-06-25,2025-06-28,C0149,Aarav,Female,55,Delhi,Delhi,North,P014,Phone,Electronics,Phone,3,912,0.0,2736.0,228.21,Cash
+ORD00232,2025-01-04,2025-01-09,C0231,Diya,Female,53,Chennai,Tamil Nadu,South,P010,Phone,Electronics,Phone,3,2746,0.15,7002.3,1601.13,UPI
+ORD00233,2025-12-22,2025-12-25,C0067,Sneha,Male,28,Chennai,Tamil Nadu,South,P049,Chair,Furniture,Chair,1,354,0.0,354.0,62.38,Cash
+ORD00234,2025-10-27,2025-11-02,C0108,Diya,Female,46,Mumbai,Maharashtra,West,P016,Tea,Grocery,Tea,7,501,0.15,2980.95,449.49,Cash
+ORD00235,2025-08-23,2025-08-26,C0163,Aarav,Male,28,Kochi,Kerala,South,P040,Tea,Grocery,Tea,2,547,0.1,984.6,186.79,Card
+ORD00236,2025-01-20,2025-01-25,C0114,Diya,Female,50,Bengaluru,Karnataka,South,P016,Rice,Grocery,Rice,2,3816,0.05,7250.4,652.84,Card
+ORD00237,2025-12-15,2025-12-16,C0058,Rahul,Male,26,Bengaluru,Karnataka,South,P020,Jeans,Clothing,Jeans,1,4675,0.15,7947.5,1822.49,UPI
+ORD00238,2025-09-04,2025-09-09,C0073,Aarav,Male,50,Kochi,Kerala,South,P018,Desk,Furniture,Desk,7,4864,0.1,30643.2,3957.24,Card
+ORD00239,2025-07-10,2025-07-17,C0009,Sneha,Male,48,Bengaluru,Karnataka,South,P031,Phone,Electronics,Phone,4,179,0.1,644.4,33.44,Card
+ORD00240,2025-09-15,2025-09-17,C0032,Aarav,Female,45,Bengaluru,Karnataka,South,P019,Phone,Electronics,Phone,1,1146,0.0,1146.0,168.1,Card
+ORD00241,2025-10-12,2025-10-18,C0026,Aarav,Female,51,Bengaluru,Karnataka,South,P017,Desk,Furniture,Desk,2,790,0.05,1501.0,78.87,Cash
+ORD00242,2025-03-18,2025-03-25,C0085,Diya,Female,18,Chennai,Tamil Nadu,South,P007,Rice,Grocery,Rice,8,164,0.1,1180.8,71.3,Cash
+ORD00243,2025-04-29,2025-04-30,C0203,Rahul,Female,49,Bengaluru,Karnataka,South,P033,Tea,Grocery,Tea,3,3567,0.05,10165.95,1919.89,Card
+ORD00244,2025-06-03,2025-06-05,C0144,Rahul,Female,40,Kochi,Kerala,South,P034,Jeans,Clothing,Jeans,6,884,0.1,4773.6,617.99,Card
+ORD00245,2025-12-15,2025-12-21,C0178,Diya,Female,20,Bengaluru,Karnataka,South,P042,Tea,Grocery,Tea,6,1125,0.0,6750.0,1506.82,Card
+ORD00246,2025-02-06,2025-02-13,C0206,Sneha,Female,31,Bengaluru,Karnataka,South,P014,Jeans,Clothing,Jeans,8,4505,0.15,30634.0,4551.21,UPI
+ORD00247,2025-01-01,2025-01-06,C0229,Rahul,Female,35,Chennai,Tamil Nadu,South,P048,Desk,Furniture,Desk,6,1469,0.1,7932.6,734.32,Cash
+ORD00248,2025-01-04,2025-01-10,C0200,Priya,Female,25,Bengaluru,Karnataka,South,P012,Tea,Grocery,Tea,3,2945,0.05,8393.25,943.86,Cash
+ORD00249,2025-08-20,2025-08-23,C0083,Aarav,Male,35,Bengaluru,Karnataka,South,P036,Rice,Grocery,Rice,8,3652,0.15,24833.6,4813.41,Card
+ORD00250,2025-01-18,2025-01-24,C0248,Aarav,Male,53,Delhi,Delhi,North,P025,Chair,Furniture,Chair,1,3100,0.15,2635.0,531.42,Cash
+ORD00251,2025-05-26,2025-05-27,C0201,Sneha,Female,34,Kochi,Kerala,South,P029,Rice,Grocery,Rice,2,2590,0.05,4921.0,906.78,Cash
+ORD00252,2025-05-06,2025-05-07,C0059,Rahul,Female,27,Chennai,Tamil Nadu,South,P017,Tea,Grocery,Tea,7,3648,0.15,21705.6,3986.47,UPI
+ORD00253,2025-08-25,2025-08-31,C0150,Sneha,Female,32,Delhi,Delhi,North,P023,Jeans,Clothing,Jeans,7,4786,0.15,28476.7,6208.95,Cash
+ORD00254,2025-03-23,2025-03-26,C0107,Priya,Female,20,Bengaluru,Karnataka,South,P005,Chair,Furniture,Chair,1,2240,0.15,1904.0,164.27,Card
+ORD00255,2025-09-10,2025-09-16,C0023,Rahul,Female,30,Chennai,Tamil Nadu,South,P029,Phone,Electronics,Phone,4,1095,0.1,3942.0,926.25,Cash
+ORD00256,2025-12-26,2025-12-29,C0052,Diya,Female,65,Delhi,Delhi,North,P024,Desk,Furniture,Desk,6,2177,0.0,13062.0,1016.39,Card
+ORD00257,2025-01-18,2025-01-23,C0155,Sneha,Female,58,Delhi,Delhi,North,P001,Desk,Furniture,Desk,3,4893,0.1,13211.1,764.68,Cash
+ORD00258,2025-01-01,2025-01-02,C0074,Diya,Male,40,Delhi,Delhi,North,P034,Desk,Furniture,Desk,6,1235,0.1,6669.0,547.37,Cash
+ORD00259,2025-11-20,2025-11-27,C0220,Priya,Male,38,Bengaluru,Karnataka,South,P007,Chair,Furniture,Chair,5,3001,0.0,15005.0,804.54,Cash
+ORD00260,2025-02-21,2025-02-25,C0192,Priya,Male,32,Bengaluru,Karnataka,South,P025,Rice,Grocery,Rice,4,1674,0.05,6361.2,766.55,Card
+ORD00261,2025-08-14,2025-08-15,C0088,Priya,Male,21,Kochi,Kerala,South,P047,Tea,Grocery,Tea,8,2011,0.0,16088.0,2918.08,Card
+ORD00262,2025-08-09,2025-08-10,C0004,Diya,Female,55,Delhi,Delhi,North,P004,Tea,Grocery,Tea,5,4006,0.1,18027.0,3412.5,Cash
+ORD00263,2025-12-16,2025-12-20,C0090,Priya,Female,25,Bengaluru,Karnataka,South,P024,Laptop,Electronics,Laptop,5,966,0.1,4347.0,464.9,Card
+ORD00264,2025-09-23,2025-09-26,C0067,Aarav,Female,54,Unknown,Delhi,North,P011,Jeans,Clothing,Jeans,4,1392,0.05,5289.6,1207.56,UPI
+ORD00265,2025-01-18,2025-01-19,C0093,Rahul,Female,30,Bengaluru,Karnataka,South,P016,Jeans,Clothing,Jeans,3,4291,0.0,12873.0,1007.88,Card
+ORD00266,2025-09-30,2025-10-06,C0159,Rahul,Male,56,Bengaluru,Karnataka,South,P044,Chair,Furniture,Chair,6,2529,0.1,13656.6,2425.42,UPI
+ORD00267,2025-11-14,2025-11-19,C0208,Aarav,Female,23,Chennai,Tamil Nadu,South,P027,Jeans,Clothing,Jeans,3,3547,0.05,10108.95,1656.78,Cash
+ORD00268,2025-06-08,2025-06-09,C0011,Diya,Female,21,Delhi,Delhi,North,P016,Chair,Furniture,Chair,7,3781,0.0,26467.0,1358.22,Cash
+ORD00269,2025-09-02,2025-09-04,C0008,Aarav,Male,24,Mumbai,Maharashtra,West,P010,Jeans,Clothing,Jeans,4,4397,0.0,17588.0,2980.51,Cash
+ORD00270,2025-11-30,2025-12-01,C0197,Priya,Male,36,Bengaluru,Karnataka,South,P038,Desk,Furniture,Desk,6,939,0.1,5070.6,660.45,UPI
+ORD00271,2025-01-08,2025-01-12,C0156,Rahul,Male,56,Mumbai,Maharashtra,West,P035,Laptop,Electronics,Laptop,4,3078,0.15,10465.2,1554.41,Cash
+ORD00272,2025-11-20,2025-11-23,C0124,Priya,Female,43,Kochi,Kerala,South,P021,Chair,Furniture,Chair,7,3505,0.1,22081.5,1703.6,Cash
+ORD00273,2025-05-15,2025-05-21,C0032,Priya,Male,55,Kochi,Kerala,South,P022,Chair,Furniture,Chair,3,1500,0.15,3825.0,784.16,Card
+ORD00274,2025-07-10,2025-07-13,C0019,Rahul,Male,55,Bengaluru,Karnataka,South,P036,Chair,Furniture,Chair,2,3470,0.05,6593.0,686.95,Cash
+ORD00275,2025-11-03,2025-11-10,C0120,Rahul,Male,27,Delhi,Delhi,North,P028,Laptop,Electronics,Laptop,3,2987,0.05,8512.95,1501.48,Cash
+ORD00276,2025-03-05,2025-03-08,C0026,Aarav,Male,27,Bengaluru,Karnataka,South,P019,Jeans,Clothing,Jeans,1,302,0.15,256.7,60.67,UPI
+ORD00277,2025-12-15,2025-12-18,C0029,Sneha,Male,26,Unknown,Karnataka,South,P008,Jeans,Clothing,Jeans,5,1884,0.15,8007.0,1635.29,UPI
+ORD00278,2025-02-21,2025-02-28,C0122,Priya,Male,43,Bengaluru,Karnataka,South,P021,Tea,Grocery,Tea,8,1862,0.05,14151.2,1550.85,UPI
+ORD00279,2025-02-12,2025-02-17,C0177,Priya,Male,21,Bengaluru,Karnataka,South,P041,Laptop,Electronics,Laptop,6,2142,0.05,12209.4,3031.02,Card
+ORD00280,2025-01-10,2025-01-15,C0021,Aarav,Female,38,Mumbai,Maharashtra,West,P007,Tea,Grocery,Tea,5,3729,0.05,17712.75,3146.42,UPI
+ORD00281,2025-03-19,2025-03-22,C0102,Sneha,Male,55,Mumbai,Maharashtra,West,P034,Chair,Furniture,Chair,3,615,0.0,1845.0,144.83,Cash
+ORD00282,2025-09-23,2025-09-27,C0129,Rahul,Female,55,Delhi,Delhi,North,P007,Jeans,Clothing,Jeans,4,179,0.15,608.6,126.18,UPI
+ORD00283,2025-01-06,2025-01-11,C0137,Sneha,Female,21,Kochi,Kerala,South,P024,Laptop,Electronics,Laptop,1,4162,0.0,4162.0,682.26,Card
+ORD00284,2025-04-17,2025-04-23,C0158,Rahul,Female,62,Bengaluru,Karnataka,South,P010,Jeans,Clothing,Jeans,2,2706,0.15,4600.2,1147.55,UPI
+ORD00285,2025-09-24,2025-09-28,C0057,Diya,Male,42,Kochi,Kerala,South,P004,Desk,Furniture,Desk,4,4981,0.0,19924.0,1328.79,Card
+ORD00286,2025-02-07,2025-02-14,C0068,Aarav,Female,20,Delhi,Delhi,North,P029,Desk,Furniture,Desk,3,758,0.0,2274.0,168.85,UPI
+ORD00287,2025-09-14,2025-09-15,C0079,Priya,Male,24,Bengaluru,Karnataka,South,P037,Laptop,Electronics,Laptop,1,1891,0.15,1607.35,163.13,Cash
+ORD00288,2025-11-26,2025-11-29,C0198,Diya,Male,41,Mumbai,Maharashtra,West,P007,Laptop,Electronics,Laptop,5,1395,0.1,6277.5,932.58,UPI
+ORD00289,2025-09-22,2025-09-26,C0127,Diya,Female,36,Kochi,Kerala,South,P042,Tea,Grocery,Tea,7,3308,0.05,21998.2,1425.36,Card
+ORD00290,2025-07-18,2025-07-20,C0177,Sneha,Male,43,Chennai,Tamil Nadu,South,P045,Jeans,Clothing,Jeans,2,4393,0.15,7468.1,745.59,UPI
+ORD00291,2025-12-28,2025-12-30,C0095,Diya,Male,37,Bengaluru,Karnataka,South,P031,Desk,Furniture,Desk,4,2957,0.15,10053.8,2104.01,Cash
+ORD00292,2025-11-18,2025-11-24,C0077,Priya,Female,34,Bengaluru,Karnataka,South,P027,Rice,Grocery,Rice,1,803,0.15,682.55,159.36,UPI
+ORD00293,2025-04-06,2025-04-12,C0179,Unknown Customer,Female,56,Mumbai,Maharashtra,West,P037,Desk,Furniture,Desk,4,4927,0.1,17737.2,1790.96,Card
+ORD00294,2025-06-04,2025-06-11,C0223,Rahul,Male,41,Delhi,Delhi,North,P043,Desk,Furniture,Desk,8,1398,0.1,10065.6,909.21,Cash
+ORD00295,2025-08-26,2025-08-28,C0026,Diya,Female,51,Bengaluru,Karnataka,South,P040,Jeans,Clothing,Jeans,7,4728,0.1,29786.4,1812.14,Cash
+ORD00296,2025-06-28,2025-07-05,C0022,Sneha,Male,18,Delhi,Delhi,North,P024,Tea,Grocery,Tea,6,1987,0.0,11922.0,2772.61,UPI
+ORD00297,2025-02-27,2025-03-03,C0133,Rahul,Male,24,Kochi,Kerala,South,P038,Desk,Furniture,Desk,5,2689,0.05,12772.75,1700.87,UPI
+ORD00298,2025-02-28,2025-03-07,C0175,Priya,Male,50,Kochi,Kerala,South,P044,Desk,Furniture,Desk,6,4941,0.0,29646.0,4772.68,Cash
+ORD00299,2025-09-09,2025-09-13,C0067,Diya,Male,35,Kochi,Kerala,South,P038,Jeans,Clothing,Jeans,8,426,0.0,3408.0,554.02,Cash
+ORD00300,2025-07-29,2025-08-05,C0206,Priya,Male,32,Bengaluru,Karnataka,South,P022,Desk,Furniture,Desk,3,3069,0.05,8746.65,1177.5,UPI
+ORD00301,2025-03-17,2025-03-19,C0239,Aarav,Male,65,Kochi,Kerala,South,P010,Jeans,Clothing,Jeans,6,2559,0.0,15354.0,2923.68,Cash
+ORD00302,2025-02-01,2025-02-04,C0011,Diya,Male,64,Chennai,Tamil Nadu,South,P020,Desk,Furniture,Desk,6,4856,0.05,27679.2,3626.73,UPI
+ORD00303,2025-06-25,2025-06-26,C0033,Priya,Male,22,Bengaluru,Karnataka,South,P008,Rice,Grocery,Rice,3,112,0.15,285.6,66.07,Cash
+ORD00304,2025-02-18,2025-02-24,C0130,Diya,Female,62,Bengaluru,Karnataka,South,P026,Jeans,Clothing,Jeans,4,4236,0.15,14402.4,1710.59,UPI
+ORD00305,2025-02-03,2025-02-05,C0189,Priya,Female,23,Delhi,Delhi,North,P019,Desk,Furniture,Desk,6,3758,0.15,19165.8,2929.85,Cash
+ORD00306,2025-09-16,2025-09-23,C0182,Rahul,Female,46,Bengaluru,Karnataka,South,P031,Jeans,Clothing,Jeans,2,1307,0.05,2483.3,315.76,Cash
+ORD00307,2025-06-29,2025-07-03,C0203,Diya,Male,18,Mumbai,Maharashtra,West,P027,Desk,Furniture,Desk,5,1084,0.0,5420.0,285.34,Cash
+ORD00308,2025-05-16,2025-05-21,C0151,Aarav,Male,34,Chennai,Tamil Nadu,South,P007,Phone,Electronics,Phone,6,4039,0.1,21810.6,5112.5,UPI
+ORD00309,2025-08-26,2025-09-01,C0229,Aarav,Female,55,Kochi,Kerala,South,P009,Desk,Furniture,Desk,4,3020,0.15,10268.0,728.7,UPI
+ORD00310,2025-09-22,2025-09-29,C0127,Aarav,Male,30,Bengaluru,Karnataka,South,P002,Rice,Grocery,Rice,8,2894,0.1,20836.8,2093.69,Cash
+ORD00311,2025-03-26,2025-04-02,C0109,Rahul,Male,26,Bengaluru,Karnataka,South,P020,Desk,Furniture,Desk,7,4843,0.15,28815.85,3643.64,Cash
+ORD00312,2025-12-15,2025-12-20,C0104,Priya,Male,34,Kochi,Kerala,South,P035,Rice,Grocery,Rice,3,2236,0.1,6037.2,575.6,Cash
+ORD00313,2025-07-31,2025-08-02,C0070,Priya,Male,46,Bengaluru,Karnataka,South,P003,Tea,Grocery,Tea,3,559,0.1,1509.3,339.96,UPI
+ORD00314,2025-06-23,2025-06-27,C0111,Priya,Female,56,Delhi,Delhi,North,P001,Chair,Furniture,Chair,2,1415,0.15,2405.5,519.18,UPI
+ORD00315,2025-11-06,2025-11-09,C0125,Diya,Male,29,Bengaluru,Karnataka,South,P011,Laptop,Electronics,Laptop,2,1195,0.0,2390.0,226.59,Card
+ORD00316,2025-01-14,2025-01-19,C0047,Priya,Female,61,Bengaluru,Karnataka,South,P007,Laptop,Electronics,Laptop,6,1712,0.1,9244.8,1779.43,Cash
+ORD00317,2025-01-20,2025-01-27,C0036,Priya,Male,35,Chennai,Tamil Nadu,South,P003,Chair,Furniture,Chair,3,4140,0.1,11178.0,2332.03,Card
+ORD00318,2025-06-22,2025-06-24,C0096,Priya,Male,55,Delhi,Delhi,North,P044,Chair,Furniture,Chair,5,2251,0.15,9566.75,1671.49,Card
+ORD00319,2025-04-18,2025-04-22,C0045,Sneha,Male,41,Chennai,Tamil Nadu,South,P006,Laptop,Electronics,Laptop,4,3625,0.1,13050.0,2936.13,Cash
+ORD00320,2025-03-18,2025-03-20,C0072,Sneha,Female,57,Kochi,Kerala,South,P012,Rice,Grocery,Rice,3,2303,0.15,5872.65,310.24,UPI
+ORD00321,2025-04-30,2025-05-07,C0062,Aarav,Female,29,Bengaluru,Karnataka,South,P022,Rice,Grocery,Rice,2,602,0.0,1204.0,187.81,Cash
+ORD00322,2025-09-25,2025-09-27,C0200,Sneha,Male,63,Kochi,Kerala,South,P020,Phone,Electronics,Phone,8,3048,0.0,24384.0,3273.23,UPI
+ORD00323,2025-04-11,2025-04-18,C0166,Diya,Female,20,Bengaluru,Karnataka,South,P005,Laptop,Electronics,Laptop,3,2182,0.05,6218.7,1481.39,UPI
+ORD00324,2025-03-09,2025-03-10,C0044,Diya,Male,60,Mumbai,Maharashtra,West,P035,Phone,Electronics,Phone,1,3248,0.05,3085.6,267.93,UPI
+ORD00325,2025-05-23,2025-05-26,C0179,Sneha,Female,36,Bengaluru,Karnataka,South,P024,Jeans,Clothing,Jeans,5,1352,0.1,6084.0,1242.84,UPI
+ORD00326,2025-06-17,2025-06-24,C0168,Rahul,Male,46,Delhi,Delhi,North,P034,Laptop,Electronics,Laptop,4,704,0.05,2675.2,147.88,UPI
+ORD00327,2025-05-26,2025-05-30,C0244,Rahul,Female,35,Chennai,Tamil Nadu,South,P007,Tea,Grocery,Tea,6,126,0.1,680.4,47.05,Card
+ORD00328,2025-05-04,2025-05-10,C0082,Sneha,Female,21,Chennai,Tamil Nadu,South,P039,Chair,Furniture,Chair,4,3038,0.15,10329.2,582.21,UPI
+ORD00329,2025-05-15,2025-05-22,C0053,Diya,Male,51,Chennai,Tamil Nadu,South,P036,Chair,Furniture,Chair,2,941,0.15,1599.7,331.24,Card
+ORD00330,2025-05-09,2025-05-11,C0226,Sneha,Male,43,Unknown,Maharashtra,West,P010,Laptop,Electronics,Laptop,7,3258,0.1,20525.4,1374.54,UPI
+ORD00331,2025-09-05,2025-09-11,C0058,Unknown Customer,Female,51,Chennai,Tamil Nadu,South,P029,Tea,Grocery,Tea,4,2438,0.0,9752.0,2409.85,Card
+ORD00332,2025-10-09,2025-10-14,C0089,Sneha,Male,43,Kochi,Kerala,South,P011,Chair,Furniture,Chair,8,3038,0.15,20658.4,5025.77,Cash
+ORD00333,2025-04-29,2025-05-05,C0100,Aarav,Male,65,Delhi,Delhi,North,P009,Tea,Grocery,Tea,3,1794,0.05,5112.9,936.16,UPI
+ORD00334,2025-09-03,2025-09-06,C0138,Rahul,Male,28,Mumbai,Maharashtra,West,P040,Rice,Grocery,Rice,3,117,0.0,351.0,47.09,Card
+ORD00335,2025-09-04,2025-09-08,C0153,Rahul,Male,20,Kochi,Kerala,South,P017,Rice,Grocery,Rice,1,2075,0.1,1867.5,364.65,Card
+ORD00336,2025-08-15,2025-08-19,C0226,Diya,Female,61,Bengaluru,Karnataka,South,P008,Laptop,Electronics,Laptop,8,1117,0.05,8489.2,702.42,Card
+ORD00337,2025-01-29,2025-02-01,C0140,Priya,Female,20,Kochi,Kerala,South,P010,Desk,Furniture,Desk,6,4236,0.05,24145.2,1984.77,Cash
+ORD00338,2025-03-06,2025-03-10,C0044,Aarav,Female,65,Bengaluru,Karnataka,South,P049,Rice,Grocery,Rice,6,802,0.15,4090.2,410.64,Cash
+ORD00339,2025-03-18,2025-03-24,C0023,Priya,Female,59,Kochi,Kerala,South,P005,Jeans,Clothing,Jeans,1,4996,0.1,4496.4,701.39,Card
+ORD00340,2025-07-11,2025-07-16,C0233,Rahul,Male,50,Bengaluru,Karnataka,South,P039,Rice,Grocery,Rice,2,4790,0.1,8622.0,1600.03,Card
+ORD00341,2025-02-08,2025-02-09,C0168,Aarav,Female,54,Bengaluru,Karnataka,South,P039,Tea,Grocery,Tea,8,4208,0.0,33664.0,4896.27,UPI
+ORD00342,2025-02-20,2025-02-21,C0214,Diya,Male,35,Mumbai,Maharashtra,West,P029,Desk,Furniture,Desk,7,4515,0.1,28444.5,2412.83,Cash
+ORD00343,2025-12-14,2025-12-17,C0090,Diya,Male,24,Mumbai,Maharashtra,West,P038,Desk,Furniture,Desk,3,963,0.05,2744.55,145.76,UPI
+ORD00344,2025-09-09,2025-09-11,C0066,Aarav,Female,41,Chennai,Tamil Nadu,South,P024,Tea,Grocery,Tea,7,551,0.15,3278.45,273.76,Card
+ORD00345,2025-06-11,2025-06-12,C0010,Diya,Male,52,Chennai,Tamil Nadu,South,P026,Desk,Furniture,Desk,1,2633,0.05,2501.35,362.1,UPI
+ORD00346,2025-12-07,2025-12-10,C0059,Priya,Male,54,Delhi,Delhi,North,P032,Jeans,Clothing,Jeans,1,2654,0.05,17649.1,1644.4,Card
+ORD00347,2025-04-07,2025-04-11,C0051,Rahul,Female,50,Mumbai,Maharashtra,West,P027,Desk,Furniture,Desk,7,469,0.0,3283.0,195.62,UPI
+ORD00348,2025-09-18,2025-09-23,C0114,Diya,Female,46,Bengaluru,Karnataka,South,P029,Laptop,Electronics,Laptop,7,4436,0.15,26394.2,3556.2,Card
+ORD00349,2025-10-31,2025-11-03,C0205,Priya,Male,45,Delhi,Delhi,North,P040,Laptop,Electronics,Laptop,2,2195,0.0,4390.0,673.95,Card
+ORD00350,2025-08-09,2025-08-16,C0145,Priya,Female,63,Bengaluru,Karnataka,South,P007,Jeans,Clothing,Jeans,8,964,0.15,6555.2,431.56,Card
+ORD00351,2025-08-13,2025-08-16,C0196,Diya,Female,47,Kochi,Kerala,South,P050,Rice,Grocery,Rice,6,4098,0.15,20899.8,2470.16,Cash
+ORD00352,2025-12-29,2026-01-03,C0145,Sneha,Female,56,Bengaluru,Karnataka,South,P031,Jeans,Clothing,Jeans,4,3541,0.15,12039.4,931.08,Cash
+ORD00353,2025-08-01,2025-08-04,C0070,Sneha,Male,63,Delhi,Delhi,North,P005,Rice,Grocery,Rice,7,2018,0.1,12713.4,2885.35,UPI
+ORD00354,2025-09-28,2025-10-02,C0015,Diya,Male,54,Mumbai,Maharashtra,West,P036,Phone,Electronics,Phone,2,875,0.1,1575.0,162.5,Card
+ORD00355,2025-12-11,2025-12-16,C0143,Priya,Male,27,Delhi,Delhi,North,P033,Phone,Electronics,Phone,7,1717,0.05,11418.05,1254.21,UPI
+ORD00356,2025-01-24,2025-01-25,C0013,Aarav,Male,36,Mumbai,Maharashtra,West,P040,Phone,Electronics,Phone,6,3873,0.05,22076.1,1743.56,UPI
+ORD00357,2025-05-14,2025-05-16,C0112,Rahul,Female,57,Bengaluru,Karnataka,South,P010,Jeans,Clothing,Jeans,3,3201,0.15,8162.55,1057.88,Cash
+ORD00358,2025-08-20,2025-08-25,C0059,Aarav,Male,27,Chennai,Tamil Nadu,South,P042,Laptop,Electronics,Laptop,6,4745,0.05,27046.5,2075.86,Cash
+ORD00359,2025-01-23,2025-01-25,C0078,Aarav,Female,51,Bengaluru,Karnataka,South,P006,Chair,Furniture,Chair,3,3672,0.05,10465.2,2522.09,Cash
+ORD00360,2025-11-02,2025-11-09,C0176,Sneha,Male,56,Delhi,Delhi,North,P028,Chair,Furniture,Chair,3,1903,0.1,5138.1,1185.04,Cash
+ORD00361,2025-09-04,2025-09-07,C0202,Priya,Male,22,Mumbai,Maharashtra,West,P049,Phone,Electronics,Phone,4,1811,0.15,6157.4,1012.49,Card
+ORD00362,2025-02-06,2025-02-11,C0118,Aarav,Male,61,Delhi,Delhi,North,P026,Jeans,Clothing,Jeans,8,4810,0.0,38480.0,9568.07,Card
+ORD00363,2025-04-12,2025-04-18,C0135,Sneha,Male,52,Unknown,Kerala,South,P010,Jeans,Clothing,Jeans,7,3575,0.15,21271.25,4728.86,Card
+ORD00364,2025-04-04,2025-04-09,C0209,Rahul,Male,60,Chennai,Tamil Nadu,South,P019,Jeans,Clothing,Jeans,7,2050,0.05,13632.5,973.05,UPI
+ORD00365,2025-08-19,2025-08-24,C0197,Aarav,Female,42,Bengaluru,Karnataka,South,P011,Jeans,Clothing,Jeans,2,654,0.15,1111.8,194.03,Cash
+ORD00366,2025-03-20,2025-03-27,C0173,Priya,Male,39,Mumbai,Maharashtra,West,P017,Chair,Furniture,Chair,6,677,0.1,3655.8,397.86,UPI
+ORD00367,2025-07-23,2025-07-30,C0214,Rahul,Female,48,Bengaluru,Karnataka,South,P043,Jeans,Clothing,Jeans,8,3944,0.05,29974.4,3136.55,UPI
+ORD00368,2025-03-18,2025-03-25,C0055,Diya,Female,38,Chennai,Tamil Nadu,South,P004,Rice,Grocery,Rice,8,3147,0.1,22658.4,3201.18,Cash
+ORD00369,2025-08-18,2025-08-25,C0118,Sneha,Male,26,Delhi,Delhi,North,P019,Tea,Grocery,Tea,7,1429,0.05,9502.85,942.6,Card
+ORD00370,2025-11-30,2025-12-02,C0189,Aarav,Female,60,Mumbai,Maharashtra,West,P020,Desk,Furniture,Desk,7,1932,0.0,13524.0,1640.5,UPI
+ORD00371,2025-10-14,2025-10-17,C0022,Aarav,Male,31,Delhi,Delhi,North,P017,Phone,Electronics,Phone,6,1401,0.0,8406.0,1531.5,Cash
+ORD00372,2025-03-21,2025-03-27,C0020,Diya,Female,43,Kochi,Kerala,South,P011,Tea,Grocery,Tea,1,1770,0.1,1593.0,393.69,UPI
+ORD00373,2025-01-31,2025-02-01,C0212,Rahul,Female,24,Delhi,Delhi,North,P008,Rice,Grocery,Rice,2,2500,0.1,4500.0,343.77,Cash
+ORD00374,2025-08-05,2025-08-09,C0180,Aarav,Male,63,Delhi,Delhi,North,P025,Desk,Furniture,Desk,6,2804,0.05,15982.8,1013.12,Card
+ORD00375,2025-03-17,2025-03-21,C0210,Diya,Female,37,Kochi,Kerala,South,P011,Phone,Electronics,Phone,8,2198,0.0,17584.0,4083.68,UPI
+ORD00376,2025-05-16,2025-05-18,C0004,Sneha,Male,63,Mumbai,Maharashtra,West,P041,Laptop,Electronics,Laptop,5,858,0.05,4075.5,736.39,Cash
+ORD00377,2025-03-26,2025-03-28,C0097,Aarav,Male,22,Kochi,Kerala,South,P019,Chair,Furniture,Chair,6,4626,0.05,26368.2,4330.87,UPI
+ORD00378,2025-08-17,2025-08-20,C0222,Priya,Female,39,Bengaluru,Karnataka,South,P027,Rice,Grocery,Rice,5,140,0.0,700.0,45.5,UPI
+ORD00379,2025-01-06,2025-01-10,C0224,Aarav,Female,59,Delhi,Delhi,North,P027,Desk,Furniture,Desk,3,3829,0.0,11487.0,2786.44,UPI
+ORD00380,2025-12-09,2025-12-15,C0101,Priya,Female,57,Delhi,Delhi,North,P024,Jeans,Clothing,Jeans,5,4718,0.05,22410.5,1744.55,Cash
+ORD00381,2025-11-18,2025-11-23,C0221,Priya,Male,65,Chennai,Tamil Nadu,South,P003,Desk,Furniture,Desk,8,2759,0.1,19864.8,1556.49,Card
+ORD00382,2025-07-22,2025-07-29,C0091,Priya,Male,23,Mumbai,Maharashtra,West,P038,Jeans,Clothing,Jeans,4,2012,0.0,8048.0,1176.98,UPI
+ORD00383,2025-12-19,2025-12-20,C0145,Aarav,Female,62,Bengaluru,Karnataka,South,P048,Tea,Grocery,Tea,7,475,0.1,2992.5,493.92,Card
+ORD00384,2025-05-21,2025-05-26,C0233,Priya,Male,55,Delhi,Delhi,North,P041,Desk,Furniture,Desk,3,703,0.05,2003.55,258.5,Card
+ORD00385,2025-01-04,2025-01-05,C0238,Rahul,Male,61,Bengaluru,Karnataka,South,P001,Rice,Grocery,Rice,2,3081,0.1,5545.8,429.61,UPI
+ORD00386,2025-03-30,2025-04-03,C0037,Diya,Male,58,Chennai,Tamil Nadu,South,P012,Chair,Furniture,Chair,3,3352,0.15,8547.6,1884.47,UPI
+ORD00387,2025-05-20,2025-05-27,C0126,Sneha,Female,32,Chennai,Tamil Nadu,South,P043,Chair,Furniture,Chair,7,1098,0.05,7301.7,737.92,UPI
+ORD00388,2025-08-12,2025-08-18,C0044,Diya,Female,43,Kochi,Kerala,South,P010,Desk,Furniture,Desk,3,4386,0.1,11842.2,2247.89,Cash
+ORD00389,2025-06-04,2025-06-05,C0002,Diya,Female,22,Mumbai,Maharashtra,West,P047,Laptop,Electronics,Laptop,1,3869,0.0,3869.0,548.64,Card
+ORD00390,2025-01-15,2025-01-19,C0239,Diya,Male,34,Kochi,Kerala,South,P035,Jeans,Clothing,Jeans,8,4578,0.15,31130.4,7762.1,UPI
+ORD00391,2025-09-23,2025-09-24,C0177,Rahul,Male,46,Mumbai,Maharashtra,West,P041,Jeans,Clothing,Jeans,3,1089,0.0,3267.0,574.34,Card
+ORD00392,2025-02-16,2025-02-17,C0134,Diya,Male,28,Chennai,Tamil Nadu,South,P040,Tea,Grocery,Tea,1,2093,0.0,2093.0,469.35,UPI
+ORD00393,2025-03-29,2025-04-02,C0073,Rahul,Male,56,Chennai,Tamil Nadu,South,P012,Chair,Furniture,Chair,8,3956,0.1,28483.2,6633.85,Card
+ORD00394,2025-10-19,2025-10-24,C0193,Priya,Female,22,Chennai,Tamil Nadu,South,P026,Rice,Grocery,Rice,3,2859,0.15,7290.45,1332.37,Card
+ORD00395,2025-12-19,2025-12-26,C0072,Priya,Female,47,Bengaluru,Karnataka,South,P019,Desk,Furniture,Desk,5,3312,0.05,15732.0,807.9,UPI
+ORD00396,2025-02-25,2025-02-28,C0037,Aarav,Male,43,Chennai,Tamil Nadu,South,P044,Rice,Grocery,Rice,7,4693,0.15,27923.35,5967.0,Cash
+ORD00397,2025-10-17,2025-10-23,C0207,Diya,Male,29,Bengaluru,Karnataka,South,P031,Laptop,Electronics,Laptop,2,1585,0.05,3011.5,727.16,Card
+ORD00398,2025-02-08,2025-02-13,C0067,Unknown Customer,Female,62,Mumbai,Maharashtra,West,P017,Chair,Furniture,Chair,4,3043,0.0,12172.0,957.28,Card
+ORD00399,2025-09-09,2025-09-13,C0191,Rahul,Male,36,Bengaluru,Karnataka,South,P004,Rice,Grocery,Rice,4,513,0.0,2052.0,136.75,Card
+ORD00400,2025-01-27,2025-02-03,C0239,Diya,Male,22,Bengaluru,Karnataka,South,P019,Jeans,Clothing,Jeans,4,111,0.0,444.0,42.93,UPI
+ORD00401,2025-10-20,2025-10-21,C0229,Rahul,Female,25,Delhi,Delhi,North,P036,Laptop,Electronics,Laptop,5,4132,0.1,18594.0,2236.97,UPI
+ORD00402,2025-03-03,2025-03-09,C0231,Priya,Male,38,Delhi,Delhi,North,P013,Jeans,Clothing,Jeans,5,2048,0.0,10240.0,1441.43,UPI
+ORD00403,2025-06-24,2025-06-28,C0205,Aarav,Male,55,Bengaluru,Karnataka,South,P031,Tea,Grocery,Tea,7,4784,0.05,31813.6,6651.8,UPI
+ORD00404,2025-03-09,2025-03-12,C0004,Diya,Male,57,Kochi,Kerala,South,P034,Phone,Electronics,Phone,3,4662,0.15,11888.1,1055.71,UPI
+ORD00405,2025-03-09,2025-03-15,C0053,Aarav,Male,62,Bengaluru,Karnataka,South,P019,Desk,Furniture,Desk,2,4503,0.05,8555.7,1468.63,UPI
+ORD00406,2025-02-05,2025-02-09,C0131,Sneha,Male,41,Bengaluru,Karnataka,South,P040,Desk,Furniture,Desk,1,1159,0.15,985.15,69.98,UPI
+ORD00407,2025-12-28,2026-01-02,C0190,Priya,Female,49,Delhi,Delhi,North,P034,Tea,Grocery,Tea,8,4046,0.05,30749.6,6388.98,Card
+ORD00408,2025-11-01,2025-11-07,C0019,Sneha,Female,54,Bengaluru,Karnataka,South,P048,Chair,Furniture,Chair,8,4049,0.0,32392.0,2120.89,Cash
+ORD00409,2025-08-05,2025-08-12,C0119,Sneha,Female,21,Mumbai,Maharashtra,West,P033,Chair,Furniture,Chair,4,723,0.15,2458.2,611.43,Card
+ORD00410,2025-10-06,2025-10-09,C0035,Sneha,Female,33,Chennai,Tamil Nadu,South,P003,Jeans,Clothing,Jeans,3,498,0.1,1344.6,199.15,Cash
+ORD00411,2025-01-06,2025-01-13,C0210,Rahul,Female,56,Bengaluru,Karnataka,South,P006,Laptop,Electronics,Laptop,1,1899,0.0,1899.0,273.74,UPI
+ORD00412,2025-07-25,2025-08-01,C0028,Rahul,Male,53,Bengaluru,Karnataka,South,P044,Jeans,Clothing,Jeans,8,4392,0.15,29865.6,6069.89,Card
+ORD00413,2025-03-10,2025-03-12,C0076,Priya,Female,18,Mumbai,Maharashtra,West,P024,Tea,Grocery,Tea,4,3063,0.05,11639.4,1578.23,Card
+ORD00414,2025-04-24,2025-05-01,C0019,Aarav,Female,37,Bengaluru,Karnataka,South,P006,Jeans,Clothing,Jeans,4,782,0.05,2971.6,594.9,Card
+ORD00415,2025-12-07,2025-12-14,C0146,Diya,Male,53,Chennai,Tamil Nadu,South,P028,Desk,Furniture,Desk,3,3737,0.05,10650.45,573.03,Cash
+ORD00416,2025-05-19,2025-05-24,C0027,Diya,Male,43,Mumbai,Maharashtra,West,P019,Phone,Electronics,Phone,8,2816,0.05,21401.6,2921.12,Cash
+ORD00417,2025-03-17,2025-03-21,C0030,Diya,Male,52,Bengaluru,Karnataka,South,P042,Laptop,Electronics,Laptop,7,3260,0.15,19397.0,2785.34,Card
+ORD00418,2025-03-22,2025-03-23,C0099,Aarav,Female,35,Kochi,Kerala,South,P050,Jeans,Clothing,Jeans,1,1550,0.1,1395.0,295.39,Cash
+ORD00419,2025-02-27,2025-03-03,C0175,Priya,Female,41,Bengaluru,Karnataka,South,P046,Tea,Grocery,Tea,4,3050,0.05,11590.0,809.71,Card
+ORD00420,2025-06-02,2025-06-08,C0154,Priya,Male,64,Bengaluru,Karnataka,South,P005,Laptop,Electronics,Laptop,1,1330,0.15,1130.5,105.48,UPI
+ORD00421,2025-03-17,2025-03-18,C0057,Priya,Female,32,Unknown,Karnataka,South,P008,Chair,Furniture,Chair,8,1021,0.0,8168.0,1324.36,Card
+ORD00422,2025-08-28,2025-09-02,C0171,Priya,Female,18,Kochi,Kerala,South,P008,Chair,Furniture,Chair,6,4279,0.05,24390.3,4406.93,UPI
+ORD00423,2025-12-13,2025-12-17,C0100,Aarav,Male,43,Kochi,Kerala,South,P014,Laptop,Electronics,Laptop,5,3551,0.0,17755.0,3323.02,Cash
+ORD00424,2025-08-18,2025-08-19,C0217,Diya,Female,37,Mumbai,Maharashtra,West,P023,Jeans,Clothing,Jeans,1,3986,0.15,3388.1,628.36,Cash
+ORD00425,2025-07-08,2025-07-15,C0029,Aarav,Female,35,Mumbai,Maharashtra,West,P030,Jeans,Clothing,Jeans,4,874,0.15,2971.6,700.47,UPI
+ORD00426,2025-08-04,2025-08-06,C0108,Priya,Female,38,Mumbai,Maharashtra,West,P044,Desk,Furniture,Desk,7,4751,0.1,29931.3,2735.43,Cash
+ORD00427,2025-05-22,2025-05-28,C0090,Diya,Male,33,Kochi,Kerala,South,P021,Rice,Grocery,Rice,6,4519,0.0,27114.0,5929.58,UPI
+ORD00428,2025-12-11,2025-12-12,C0244,Diya,Male,43,Bengaluru,Karnataka,South,P046,Desk,Furniture,Desk,4,1580,0.1,5688.0,596.85,Card
+ORD00429,2025-09-12,2025-09-16,C0218,Priya,Male,46,Bengaluru,Karnataka,South,P032,Tea,Grocery,Tea,2,2685,0.05,5101.5,285.17,Card
+ORD00430,2025-11-24,2025-11-26,C0105,Sneha,Female,61,Chennai,Tamil Nadu,South,P037,Desk,Furniture,Desk,8,3634,0.05,27618.4,3363.21,Card
+ORD00431,2025-04-01,2025-04-02,C0152,Aarav,Female,42,Mumbai,Maharashtra,West,P031,Tea,Grocery,Tea,1,4421,0.0,4421.0,935.09,UPI
+ORD00432,2025-03-21,2025-03-24,C0007,Sneha,Female,29,Bengaluru,Karnataka,South,P031,Phone,Electronics,Phone,2,813,0.15,1382.1,188.0,Cash
+ORD00433,2025-05-03,2025-05-05,C0245,Aarav,Female,39,Kochi,Kerala,South,P036,Desk,Furniture,Desk,3,113,0.15,288.15,69.76,UPI
+ORD00434,2025-06-02,2025-06-05,C0192,Aarav,Female,48,Bengaluru,Karnataka,South,P021,Tea,Grocery,Tea,6,581,0.1,3137.4,221.01,UPI
+ORD00435,2025-04-06,2025-04-08,C0022,Priya,Male,34,Chennai,Tamil Nadu,South,P030,Rice,Grocery,Rice,4,4772,0.15,16224.8,1782.59,Cash
+ORD00436,2025-11-26,2025-11-27,C0009,Priya,Female,37,Bengaluru,Karnataka,South,P050,Tea,Grocery,Tea,8,1321,0.1,9511.2,1977.96,Card
+ORD00437,2025-08-14,2025-08-19,C0161,Diya,Male,49,Chennai,Tamil Nadu,South,P035,Tea,Grocery,Tea,8,4338,0.05,32968.8,7430.26,Card
+ORD00438,2025-01-16,2025-01-17,C0108,Aarav,Male,23,Chennai,Tamil Nadu,South,P026,Desk,Furniture,Desk,8,1655,0.05,12578.0,1873.75,Cash
+ORD00439,2025-06-23,2025-06-30,C0147,Rahul,Male,41,Bengaluru,Karnataka,South,P036,Jeans,Clothing,Jeans,5,2456,0.1,11052.0,1245.62,UPI
+ORD00440,2025-07-10,2025-07-17,C0087,Sneha,Male,43,Bengaluru,Karnataka,South,P013,Jeans,Clothing,Jeans,6,1474,0.1,7959.6,880.87,Card
+ORD00441,2025-01-13,2025-01-19,C0191,Aarav,Female,33,Mumbai,Maharashtra,West,P015,Rice,Grocery,Rice,1,4523,0.1,4070.7,790.9,UPI
+ORD00442,2025-08-12,2025-08-16,C0235,Aarav,Female,45,Kochi,Kerala,South,P004,Jeans,Clothing,Jeans,8,3892,0.1,28022.4,4278.47,Card
+ORD00443,2025-08-24,2025-08-29,C0247,Rahul,Male,53,Bengaluru,Karnataka,South,P045,Chair,Furniture,Chair,8,2404,0.15,16347.2,2164.87,Card
+ORD00444,2025-10-22,2025-10-27,C0208,Rahul,Female,23,Chennai,Tamil Nadu,South,P007,Laptop,Electronics,Laptop,1,4084,0.0,4084.0,726.72,UPI
+ORD00445,2025-01-19,2025-01-21,C0054,Diya,Female,43,Bengaluru,Karnataka,South,P029,Laptop,Electronics,Laptop,8,2314,0.1,16660.8,2041.47,Cash
+ORD00446,2025-04-27,2025-04-30,C0025,Aarav,Female,32,Delhi,Delhi,North,P019,Jeans,Clothing,Jeans,6,4638,0.05,26436.6,2846.7,Card
+ORD00447,2025-08-23,2025-08-24,C0185,Priya,Male,61,Bengaluru,Karnataka,South,P037,Desk,Furniture,Desk,4,4477,0.1,16117.2,3833.1,UPI
+ORD00448,2025-02-10,2025-02-17,C0080,Diya,Male,37,Chennai,Tamil Nadu,South,P047,Desk,Furniture,Desk,2,527,0.1,948.6,73.23,Card
+ORD00449,2025-11-16,2025-11-17,C0103,Aarav,Female,26,Chennai,Tamil Nadu,South,P022,Jeans,Clothing,Jeans,1,217,0.0,217.0,53.92,Cash
+ORD00450,2025-08-07,2025-08-09,C0147,Priya,Male,25,Chennai,Tamil Nadu,South,P008,Tea,Grocery,Tea,2,2514,0.1,4525.2,339.86,Card
+ORD00451,2025-07-06,2025-07-10,C0227,Priya,Female,37,Bengaluru,Karnataka,South,P013,Jeans,Clothing,Jeans,4,459,0.0,1836.0,407.28,UPI
+ORD00452,2025-03-23,2025-03-30,C0236,Rahul,Male,64,Delhi,Delhi,North,P014,Phone,Electronics,Phone,2,2085,0.1,3753.0,267.56,Card
+ORD00453,2025-05-08,2025-05-15,C0083,Sneha,Female,49,Chennai,Tamil Nadu,South,P026,Tea,Grocery,Tea,2,957,0.05,1818.3,404.16,Card
+ORD00454,2025-07-10,2025-07-12,C0048,Rahul,Male,23,Kochi,Kerala,South,P031,Chair,Furniture,Chair,1,158,0.1,142.2,28.25,Cash
+ORD00455,2025-12-05,2025-12-06,C0054,Rahul,Male,40,Delhi,Delhi,North,P004,Jeans,Clothing,Jeans,4,3241,0.15,11019.4,1124.16,Cash
+ORD00456,2025-10-03,2025-10-06,C0059,Unknown Customer,Male,26,Mumbai,Maharashtra,West,P048,Chair,Furniture,Chair,5,1805,0.1,8122.5,1987.77,Cash
+ORD00457,2025-07-05,2025-07-07,C0071,Aarav,Female,46,Kochi,Kerala,South,P040,Laptop,Electronics,Laptop,1,4782,0.0,4782.0,312.86,UPI
+ORD00458,2025-05-18,2025-05-24,C0032,Rahul,Male,20,Chennai,Tamil Nadu,South,P013,Laptop,Electronics,Laptop,3,3363,0.0,10089.0,2019.17,UPI
+ORD00459,2025-10-11,2025-10-17,C0191,Priya,Male,27,Chennai,Tamil Nadu,South,P003,Tea,Grocery,Tea,8,312,0.05,2371.2,143.92,UPI
+ORD00460,2025-07-03,2025-07-10,C0235,Diya,Male,30,Mumbai,Maharashtra,West,P012,Desk,Furniture,Desk,3,4954,0.05,14118.9,2495.76,UPI
+ORD00461,2025-11-28,2025-12-02,C0023,Diya,Male,24,Bengaluru,Karnataka,South,P016,Rice,Grocery,Rice,4,2995,0.05,11381.0,1238.99,Card
+ORD00462,2025-04-12,2025-04-19,C0109,Diya,Male,51,Mumbai,Maharashtra,West,P047,Jeans,Clothing,Jeans,3,4225,0.15,10773.75,860.29,Cash
+ORD00463,2025-07-02,2025-07-03,C0161,Priya,Male,52,Chennai,Tamil Nadu,South,P031,Laptop,Electronics,Laptop,2,3116,0.05,5920.4,630.82,Card
+ORD00464,2025-05-25,2025-06-01,C0207,Sneha,Male,18,Bengaluru,Karnataka,South,P022,Chair,Furniture,Chair,6,2587,0.05,14745.9,2537.5,UPI
+ORD00465,2025-03-02,2025-03-04,C0165,Aarav,Female,31,Chennai,Tamil Nadu,South,P030,Tea,Grocery,Tea,8,4376,0.05,33257.6,7033.11,Card
+ORD00466,2025-03-01,2025-03-08,C0044,Priya,Male,42,Mumbai,Maharashtra,West,P024,Jeans,Clothing,Jeans,7,3256,0.15,19373.2,3556.92,Card
+ORD00467,2025-05-06,2025-05-13,C0188,Diya,Female,26,Bengaluru,Karnataka,South,P008,Jeans,Clothing,Jeans,7,4076,0.0,28532.0,7056.72,UPI
+ORD00468,2025-04-08,2025-04-13,C0214,Rahul,Male,22,Mumbai,Maharashtra,West,P020,Rice,Grocery,Rice,2,3792,0.0,7584.0,1874.62,UPI
+ORD00469,2025-05-29,2025-06-05,C0172,Aarav,Female,58,Mumbai,Maharashtra,West,P038,Jeans,Clothing,Jeans,4,4797,0.05,18228.6,2670.12,Cash
+ORD00470,2025-05-25,2025-05-31,C0179,Sneha,Female,26,Kochi,Kerala,South,P007,Jeans,Clothing,Jeans,8,487,0.05,3701.2,916.45,Cash
+ORD00471,2025-09-06,2025-09-07,C0067,Rahul,Male,44,Delhi,Delhi,North,P028,Tea,Grocery,Tea,6,2724,0.1,14709.6,2233.31,UPI
+ORD00472,2025-01-20,2025-01-26,C0197,Aarav,Female,42,Bengaluru,Karnataka,South,P023,Rice,Grocery,Rice,4,4063,0.1,14626.8,2882.68,Card
+ORD00473,2025-10-01,2025-10-03,C0102,Diya,Female,23,Delhi,Delhi,North,P031,Chair,Furniture,Chair,4,4004,0.0,16016.0,2637.65,Cash
+ORD00474,2025-11-14,2025-11-18,C0080,Unknown Customer,Male,61,Mumbai,Maharashtra,West,P015,Desk,Furniture,Desk,3,418,0.15,1065.9,97.86,Card
+ORD00475,2025-11-23,2025-11-30,C0135,Unknown Customer,Female,50,Bengaluru,Karnataka,South,P029,Chair,Furniture,Chair,1,1369,0.1,1232.1,108.44,UPI
+ORD00476,2025-12-25,2026-01-01,C0143,Aarav,Female,54,Bengaluru,Karnataka,South,P009,Jeans,Clothing,Jeans,6,3041,0.1,16421.4,1919.14,UPI
+ORD00477,2025-09-18,2025-09-25,C0128,Aarav,Female,28,Kochi,Kerala,South,P029,Tea,Grocery,Tea,4,400,0.1,1440.0,235.99,Cash
+ORD00478,2025-10-26,2025-10-31,C0057,Aarav,Male,23,Chennai,Tamil Nadu,South,P037,Desk,Furniture,Desk,7,4129,0.05,27457.85,6350.44,Card
+ORD00479,2025-09-02,2025-09-09,C0022,Sneha,Male,47,Chennai,Tamil Nadu,South,P049,Laptop,Electronics,Laptop,8,2532,0.05,19243.2,4125.41,Cash
+ORD00480,2025-12-31,2026-01-07,C0105,Diya,Female,64,Delhi,Delhi,North,P037,Phone,Electronics,Phone,1,658,0.15,559.3,41.2,UPI
+ORD00481,2025-06-30,2025-07-01,C0073,Priya,Female,48,Delhi,Delhi,North,P022,Desk,Furniture,Desk,1,4634,0.0,4634.0,320.09,Cash
+ORD00482,2025-03-31,2025-04-07,C0014,Aarav,Female,45,Mumbai,Maharashtra,West,P037,Desk,Furniture,Desk,6,3767,0.0,22602.0,5040.08,Cash
+ORD00483,2025-06-07,2025-06-13,C0033,Sneha,Male,62,Kochi,Kerala,South,P016,Phone,Electronics,Phone,5,909,0.15,3863.25,832.45,UPI
+ORD00484,2025-08-01,2025-08-07,C0172,Sneha,Male,62,Mumbai,Maharashtra,West,P038,Jeans,Clothing,Jeans,2,4669,0.15,7937.3,653.27,Cash
+ORD00485,2025-09-01,2025-09-08,C0120,Rahul,Female,32,Bengaluru,Karnataka,South,P006,Desk,Furniture,Desk,7,3521,0.05,23414.65,4905.65,Card
+ORD00486,2025-10-07,2025-10-09,C0178,Priya,Male,30,Bengaluru,Karnataka,South,P028,Desk,Furniture,Desk,1,1655,0.1,1489.5,213.54,UPI
+ORD00487,2025-11-11,2025-11-18,C0182,Priya,Male,25,Bengaluru,Karnataka,South,P012,Chair,Furniture,Chair,2,1324,0.05,2515.6,267.4,Card
+ORD00488,2025-12-29,2025-12-30,C0228,Diya,Male,30,Bengaluru,Karnataka,South,P015,Phone,Electronics,Phone,8,3726,0.0,29808.0,7416.3,UPI
+ORD00489,2025-06-29,2025-07-06,C0199,Aarav,Female,41,Delhi,Delhi,North,P013,Tea,Grocery,Tea,7,3702,0.1,23322.6,2883.02,Cash
+ORD00490,2025-02-07,2025-02-12,C0102,Rahul,Male,64,Chennai,Tamil Nadu,South,P047,Jeans,Clothing,Jeans,2,751,0.1,1351.8,239.91,Cash
+ORD00491,2025-07-05,2025-07-11,C0031,Sneha,Female,64,Kochi,Kerala,South,P026,Laptop,Electronics,Laptop,5,1011,0.15,4296.75,730.98,Cash
+ORD00492,2025-11-18,2025-11-19,C0182,Priya,Male,32,Delhi,Delhi,North,P005,Jeans,Clothing,Jeans,6,3134,0.1,16923.6,4161.07,UPI
+ORD00493,2025-03-07,2025-03-09,C0131,Rahul,Female,51,Chennai,Tamil Nadu,South,P030,Phone,Electronics,Phone,2,313,0.0,626.0,78.81,Cash
+ORD00494,2025-11-20,2025-11-24,C0129,Diya,Male,51,Bengaluru,Karnataka,South,P030,Jeans,Clothing,Jeans,8,4818,0.0,38544.0,2979.16,Cash
+ORD00495,2025-08-30,2025-09-06,C0079,Priya,Male,39,Mumbai,Maharashtra,West,P048,Chair,Furniture,Chair,3,3573,0.1,9647.1,1644.21,Cash
+ORD00496,2025-07-10,2025-07-16,C0196,Rahul,Male,37,Mumbai,Maharashtra,West,P045,Tea,Grocery,Tea,8,2765,0.0,22120.0,4211.73,Cash
+ORD00497,2025-08-07,2025-08-11,C0141,Aarav,Male,59,Chennai,Tamil Nadu,South,P047,Jeans,Clothing,Jeans,3,3369,0.05,9601.65,1626.83,Cash
+ORD00498,2025-10-09,2025-10-11,C0104,Aarav,Male,26,Chennai,Tamil Nadu,South,P022,Jeans,Clothing,Jeans,8,249,0.1,1792.8,141.2,Cash
+ORD00499,2025-02-04,2025-02-07,C0143,Diya,Female,35,Bengaluru,Karnataka,South,P021,Jeans,Clothing,Jeans,6,2729,0.15,13917.9,1460.48,Cash
+ORD00500,2025-04-14,2025-04-20,C0081,Rahul,Female,49,Kochi,Kerala,South,P004,Phone,Electronics,Phone,8,3476,0.1,25027.2,2020.52,Cash
+ORD00501,2025-07-27,2025-07-30,C0209,Priya,Female,44,Bengaluru,Karnataka,South,P023,Jeans,Clothing,Jeans,3,4957,0.15,12640.35,1015.59,UPI
+ORD00502,2025-08-19,2025-08-21,C0177,Diya,Female,43,Delhi,Delhi,North,P030,Jeans,Clothing,Jeans,5,2206,0.05,10478.5,1692.19,UPI
+ORD00503,2025-05-21,2025-05-28,C0147,Aarav,Female,58,Mumbai,Maharashtra,West,P006,Jeans,Clothing,Jeans,2,4465,0.15,7590.5,1699.51,UPI
+ORD00504,2025-06-22,2025-06-23,C0008,Sneha,Male,57,Bengaluru,Karnataka,South,P026,Rice,Grocery,Rice,5,4481,0.05,21284.75,3820.54,Cash
+ORD00505,2025-02-14,2025-02-19,C0005,Rahul,Female,61,Unknown,Maharashtra,West,P033,Rice,Grocery,Rice,8,3430,0.05,26068.0,4085.68,Card
+ORD00506,2025-03-30,2025-04-03,C0132,Rahul,Female,65,Chennai,Tamil Nadu,South,P030,Phone,Electronics,Phone,8,1392,0.0,11136.0,1935.88,Card
+ORD00507,2025-03-25,2025-03-26,C0215,Rahul,Female,45,Bengaluru,Karnataka,South,P021,Phone,Electronics,Phone,3,1948,0.05,5551.8,1291.87,Cash
+ORD00508,2025-05-30,2025-06-06,C0069,Rahul,Male,58,Chennai,Tamil Nadu,South,P017,Tea,Grocery,Tea,8,4021,0.05,30559.6,1598.8,UPI
+ORD00509,2025-12-30,2025-12-31,C0127,Priya,Male,36,Bengaluru,Karnataka,South,P029,Laptop,Electronics,Laptop,5,4483,0.1,20173.5,3421.2,Card
+ORD00510,2025-10-20,2025-10-22,C0099,Rahul,Female,20,Bengaluru,Karnataka,South,P007,Jeans,Clothing,Jeans,7,4877,0.1,30725.1,6046.18,UPI
+ORD00511,2025-06-08,2025-06-13,C0032,Sneha,Male,40,Chennai,Tamil Nadu,South,P040,Phone,Electronics,Phone,5,606,0.0,3030.0,736.34,Card
+ORD00512,2025-09-23,2025-09-24,C0250,Diya,Female,22,Delhi,Delhi,North,P023,Chair,Furniture,Chair,7,649,0.1,4088.7,286.91,Card
+ORD00513,2025-02-21,2025-02-27,C0111,Aarav,Female,32,Chennai,Tamil Nadu,South,P016,Rice,Grocery,Rice,8,4312,0.0,34496.0,2135.71,UPI
+ORD00514,2025-11-10,2025-11-14,C0043,Aarav,Female,58,Delhi,Delhi,North,P031,Phone,Electronics,Phone,1,3583,0.15,3045.55,283.5,Cash
+ORD00515,2025-01-07,2025-01-08,C0074,Priya,Female,28,Bengaluru,Karnataka,South,P027,Jeans,Clothing,Jeans,6,2031,0.05,11576.7,2555.33,Card
+ORD00516,2025-09-06,2025-09-12,C0232,Rahul,Male,29,Bengaluru,Karnataka,South,P038,Jeans,Clothing,Jeans,5,887,0.1,3991.5,534.49,UPI
+ORD00517,2025-05-24,2025-05-31,C0233,Diya,Male,55,Mumbai,Maharashtra,West,P042,Desk,Furniture,Desk,8,240,0.0,1920.0,361.4,Card
+ORD00518,2025-12-18,2025-12-25,C0101,Priya,Male,29,Kochi,Kerala,South,P017,Chair,Furniture,Chair,1,4411,0.05,4190.45,575.2,Card
+ORD00519,2025-02-11,2025-02-14,C0143,Priya,Male,40,Chennai,Tamil Nadu,South,P050,Laptop,Electronics,Laptop,2,3144,0.0,6288.0,385.76,UPI
+ORD00520,2025-08-09,2025-08-11,C0054,Priya,Male,25,Delhi,Delhi,North,P040,Chair,Furniture,Chair,8,4414,0.0,35312.0,7177.43,Card
+ORD00521,2025-04-28,2025-04-30,C0211,Priya,Male,44,Bengaluru,Karnataka,South,P001,Jeans,Clothing,Jeans,3,1586,0.15,4044.3,640.83,Card
+ORD00522,2025-03-26,2025-04-01,C0139,Priya,Male,63,Kochi,Kerala,South,P027,Chair,Furniture,Chair,8,2669,0.1,19216.8,2701.77,Card
+ORD00523,2025-03-15,2025-03-22,C0047,Rahul,Female,62,Delhi,Delhi,North,P011,Desk,Furniture,Desk,1,1318,0.15,1120.3,59.0,Cash
+ORD00524,2025-10-26,2025-11-01,C0016,Aarav,Female,52,Bengaluru,Karnataka,South,P035,Jeans,Clothing,Jeans,8,1592,0.15,10825.6,650.91,UPI
+ORD00525,2025-01-28,2025-02-02,C0237,Rahul,Female,51,Chennai,Tamil Nadu,South,P011,Desk,Furniture,Desk,8,2860,0.0,22880.0,3387.83,UPI
+ORD00526,2025-03-10,2025-03-12,C0078,Diya,Female,60,Bengaluru,Karnataka,South,P012,Desk,Furniture,Desk,6,2008,0.15,10240.8,724.21,Card
+ORD00527,2025-03-15,2025-03-16,C0204,Rahul,Female,23,Kochi,Kerala,South,P016,Laptop,Electronics,Laptop,1,3560,0.1,3204.0,183.77,Cash
+ORD00528,2025-11-15,2025-11-20,C0220,Diya,Female,22,Kochi,Kerala,South,P031,Jeans,Clothing,Jeans,2,4827,0.1,8688.6,644.52,UPI
+ORD00529,2025-09-15,2025-09-20,C0031,Aarav,Female,39,Bengaluru,Karnataka,South,P007,Rice,Grocery,Rice,2,391,0.05,742.9,184.92,UPI
+ORD00530,2025-09-28,2025-09-30,C0222,Diya,Female,51,Delhi,Delhi,North,P035,Chair,Furniture,Chair,1,4410,0.15,14994.0,2715.08,Card
+ORD00531,2025-12-19,2025-12-21,C0086,Sneha,Female,44,Chennai,Tamil Nadu,South,P004,Phone,Electronics,Phone,8,3760,0.1,27072.0,3621.88,Cash
+ORD00532,2025-07-19,2025-07-26,C0127,Rahul,Male,19,Chennai,Tamil Nadu,South,P041,Jeans,Clothing,Jeans,6,4831,0.0,28986.0,2042.23,Card
+ORD00533,2025-05-23,2025-05-28,C0092,Sneha,Male,51,Delhi,Delhi,North,P036,Tea,Grocery,Tea,4,4021,0.0,16084.0,1762.32,UPI
+ORD00534,2025-01-27,2025-01-29,C0081,Sneha,Female,56,Delhi,Delhi,North,P015,Laptop,Electronics,Laptop,1,4517,0.05,4291.15,345.85,Cash
+ORD00535,2025-04-03,2025-04-07,C0224,Rahul,Female,62,Bengaluru,Karnataka,South,P023,Chair,Furniture,Chair,5,1021,0.15,4339.25,218.75,UPI
+ORD00536,2025-10-04,2025-10-08,C0143,Priya,Female,53,Mumbai,Maharashtra,West,P014,Jeans,Clothing,Jeans,3,532,0.0,1596.0,198.74,Cash
+ORD00537,2025-10-22,2025-10-24,C0073,Aarav,Female,47,Bengaluru,Karnataka,South,P050,Phone,Electronics,Phone,6,3271,0.1,17663.4,1890.88,Card
+ORD00538,2025-06-26,2025-07-03,C0090,Sneha,Female,43,Delhi,Delhi,North,P024,Jeans,Clothing,Jeans,3,2683,0.0,8049.0,963.47,Card
+ORD00539,2025-10-07,2025-10-08,C0248,Sneha,Female,61,Delhi,Delhi,North,P026,Laptop,Electronics,Laptop,6,2847,0.05,16227.9,2642.81,Card
+ORD00540,2025-11-20,2025-11-26,C0223,Aarav,Male,55,Kochi,Kerala,South,P010,Desk,Furniture,Desk,2,744,0.0,1488.0,315.5,Card
+ORD00541,2025-06-26,2025-06-29,C0213,Rahul,Female,49,Bengaluru,Karnataka,South,P002,Tea,Grocery,Tea,5,980,0.0,4900.0,1119.73,Cash
+ORD00542,2025-11-22,2025-11-26,C0108,Diya,Male,63,Delhi,Delhi,North,P030,Chair,Furniture,Chair,4,3576,0.05,13588.8,2104.89,Cash
+ORD00543,2025-06-07,2025-06-14,C0220,Aarav,Male,55,Bengaluru,Karnataka,South,P026,Jeans,Clothing,Jeans,3,3640,0.0,10920.0,2457.08,UPI
+ORD00544,2025-03-17,2025-03-19,C0043,Priya,Male,18,Delhi,Delhi,North,P036,Desk,Furniture,Desk,5,4853,0.0,24265.0,3610.37,Cash
+ORD00545,2025-07-08,2025-07-14,C0146,Priya,Male,44,Bengaluru,Karnataka,South,P042,Laptop,Electronics,Laptop,3,3190,0.1,8613.0,1256.04,UPI
+ORD00546,2025-02-17,2025-02-18,C0217,Diya,Female,53,Kochi,Kerala,South,P020,Tea,Grocery,Tea,1,820,0.05,779.0,154.22,UPI
+ORD00547,2025-05-23,2025-05-28,C0056,Rahul,Male,37,Delhi,Delhi,North,P050,Rice,Grocery,Rice,1,1501,0.1,5403.6,863.49,UPI
+ORD00548,2025-06-10,2025-06-13,C0111,Rahul,Male,60,Bengaluru,Karnataka,South,P010,Laptop,Electronics,Laptop,6,3349,0.1,18084.6,3444.81,Cash
+ORD00549,2025-04-03,2025-04-04,C0068,Sneha,Male,28,Bengaluru,Karnataka,South,P037,Desk,Furniture,Desk,5,1418,0.05,6735.5,1326.83,UPI
+ORD00550,2025-01-04,2025-01-05,C0192,Rahul,Male,51,Bengaluru,Karnataka,South,P019,Jeans,Clothing,Jeans,4,1116,0.0,4464.0,479.41,Cash
+ORD00551,2025-08-11,2025-08-18,C0152,Diya,Female,19,Delhi,Delhi,North,P036,Phone,Electronics,Phone,1,836,0.0,836.0,199.3,UPI
+ORD00552,2025-04-21,2025-04-24,C0225,Sneha,Female,50,Bengaluru,Karnataka,South,P033,Phone,Electronics,Phone,8,4004,0.1,28828.8,5196.6,Cash
+ORD00553,2025-11-30,2025-12-03,C0115,Aarav,Male,35,Chennai,Tamil Nadu,South,P023,Phone,Electronics,Phone,5,4297,0.0,21485.0,1170.61,Cash
+ORD00554,2025-05-14,2025-05-16,C0216,Aarav,Female,52,Kochi,Kerala,South,P028,Rice,Grocery,Rice,3,1264,0.05,3602.4,898.01,UPI
+ORD00555,2025-12-11,2025-12-13,C0152,Sneha,Female,38,Delhi,Delhi,North,P025,Laptop,Electronics,Laptop,5,3127,0.0,15635.0,2804.65,UPI
+ORD00556,2025-05-27,2025-06-03,C0082,Sneha,Female,56,Mumbai,Maharashtra,West,P001,Phone,Electronics,Phone,4,4372,0.05,16613.6,1234.65,Cash
+ORD00557,2025-11-14,2025-11-15,C0119,Aarav,Female,25,Chennai,Tamil Nadu,South,P025,Tea,Grocery,Tea,8,3111,0.0,24888.0,5551.88,Card
+ORD00558,2025-07-10,2025-07-12,C0021,Sneha,Female,64,Delhi,Delhi,North,P009,Chair,Furniture,Chair,2,1852,0.0,3704.0,241.42,UPI
+ORD00559,2025-12-27,2026-01-02,C0136,Unknown Customer,Female,31,Chennai,Tamil Nadu,South,P028,Chair,Furniture,Chair,1,244,0.05,231.8,16.8,Card
+ORD00560,2025-05-04,2025-05-09,C0120,Diya,Male,18,Delhi,Delhi,North,P038,Jeans,Clothing,Jeans,4,445,0.0,1780.0,313.6,Cash
+ORD00561,2025-08-03,2025-08-09,C0208,Rahul,Male,59,Bengaluru,Karnataka,South,P014,Tea,Grocery,Tea,7,2314,0.0,16198.0,976.58,Cash
+ORD00562,2025-10-02,2025-10-04,C0069,Aarav,Female,27,Delhi,Delhi,North,P018,Laptop,Electronics,Laptop,1,725,0.1,652.5,133.37,Card
+ORD00563,2025-01-07,2025-01-08,C0027,Aarav,Male,48,Delhi,Delhi,North,P035,Jeans,Clothing,Jeans,8,2259,0.0,18072.0,1431.79,UPI
+ORD00564,2025-08-22,2025-08-24,C0019,Priya,Male,28,Delhi,Delhi,North,P050,Tea,Grocery,Tea,8,320,0.0,2560.0,239.67,Cash
+ORD00565,2025-10-07,2025-10-13,C0208,Priya,Male,51,Bengaluru,Karnataka,South,P043,Phone,Electronics,Phone,3,3376,0.1,9115.2,562.2,Cash
+ORD00566,2025-12-13,2025-12-15,C0078,Priya,Female,60,Bengaluru,Karnataka,South,P024,Jeans,Clothing,Jeans,1,1388,0.1,1249.2,223.28,Card
+ORD00567,2025-05-08,2025-05-10,C0012,Unknown Customer,Female,40,Mumbai,Maharashtra,West,P024,Tea,Grocery,Tea,6,2847,0.0,17082.0,3077.03,Card
+ORD00568,2025-11-02,2025-11-05,C0016,Priya,Male,49,Delhi,Delhi,North,P039,Tea,Grocery,Tea,6,2421,0.15,12347.1,2238.28,Cash
+ORD00569,2025-03-08,2025-03-14,C0185,Rahul,Male,41,Delhi,Delhi,North,P035,Laptop,Electronics,Laptop,8,2085,0.05,15846.0,2020.39,Cash
+ORD00570,2025-12-07,2025-12-14,C0212,Rahul,Female,60,Bengaluru,Karnataka,South,P049,Chair,Furniture,Chair,8,1146,0.15,7792.8,1641.71,Card
+ORD00571,2025-07-16,2025-07-22,C0173,Priya,Male,51,Bengaluru,Karnataka,South,P019,Desk,Furniture,Desk,3,4056,0.15,10342.8,1909.45,Cash
+ORD00572,2025-05-20,2025-05-24,C0080,Diya,Female,50,Chennai,Tamil Nadu,South,P044,Phone,Electronics,Phone,5,2112,0.15,8976.0,1014.82,UPI
+ORD00573,2025-09-07,2025-09-12,C0029,Aarav,Female,30,Mumbai,Maharashtra,West,P009,Laptop,Electronics,Laptop,1,737,0.15,626.45,95.72,Card
+ORD00574,2025-01-01,2025-01-04,C0191,Aarav,Male,28,Bengaluru,Karnataka,South,P023,Laptop,Electronics,Laptop,8,2427,0.05,18445.2,1216.59,Cash
+ORD00575,2025-09-30,2025-10-05,C0068,Priya,Male,39,Mumbai,Maharashtra,West,P007,Jeans,Clothing,Jeans,3,2520,0.15,6426.0,401.49,UPI
+ORD00576,2025-11-28,2025-12-03,C0164,Rahul,Female,47,Chennai,Tamil Nadu,South,P036,Desk,Furniture,Desk,2,4156,0.1,7480.8,1360.44,UPI
+ORD00577,2025-03-08,2025-03-11,C0096,Sneha,Female,60,Chennai,Tamil Nadu,South,P014,Phone,Electronics,Phone,3,459,0.1,1239.3,276.46,Cash
+ORD00578,2025-02-28,2025-03-04,C0123,Diya,Male,36,Chennai,Tamil Nadu,South,P013,Desk,Furniture,Desk,4,2269,0.1,8168.4,1158.68,Cash
+ORD00579,2025-05-07,2025-05-12,C0202,Priya,Male,43,Bengaluru,Karnataka,South,P016,Jeans,Clothing,Jeans,2,774,0.0,1548.0,192.97,Card
+ORD00580,2025-12-25,2025-12-29,C0134,Sneha,Female,23,Bengaluru,Karnataka,South,P046,Jeans,Clothing,Jeans,2,288,0.15,489.6,121.95,Cash
+ORD00581,2025-04-02,2025-04-09,C0029,Priya,Female,36,Delhi,Delhi,North,P016,Phone,Electronics,Phone,5,3594,0.15,15274.5,3639.62,Card
+ORD00582,2025-02-22,2025-02-25,C0220,Diya,Male,39,Bengaluru,Karnataka,South,P009,Tea,Grocery,Tea,4,2783,0.1,10018.8,846.84,Card
+ORD00583,2025-10-01,2025-10-03,C0130,Aarav,Male,61,Bengaluru,Karnataka,South,P031,Jeans,Clothing,Jeans,1,2573,0.0,2573.0,353.82,Cash
+ORD00584,2025-01-20,2025-01-21,C0078,Priya,Male,58,Kochi,Kerala,South,P005,Jeans,Clothing,Jeans,5,4534,0.1,20403.0,1709.78,Cash
+ORD00585,2025-12-16,2025-12-19,C0127,Diya,Female,45,Chennai,Tamil Nadu,South,P017,Phone,Electronics,Phone,8,1554,0.05,11810.4,2041.61,UPI
+ORD00586,2025-05-31,2025-06-02,C0094,Diya,Male,57,Chennai,Tamil Nadu,South,P033,Jeans,Clothing,Jeans,3,965,0.15,2460.75,282.71,Card
+ORD00587,2025-08-17,2025-08-21,C0015,Priya,Male,19,Bengaluru,Karnataka,South,P039,Desk,Furniture,Desk,8,2549,0.0,20392.0,4199.58,Cash
+ORD00588,2025-09-01,2025-09-06,C0197,Rahul,Male,23,Bengaluru,Karnataka,South,P044,Chair,Furniture,Chair,8,1876,0.15,12756.8,1378.83,Card
+ORD00589,2025-01-03,2025-01-07,C0028,Rahul,Male,26,Delhi,Delhi,North,P005,Jeans,Clothing,Jeans,8,3104,0.15,21107.2,2412.19,UPI
+ORD00590,2025-05-10,2025-05-14,C0242,Sneha,Male,59,Mumbai,Maharashtra,West,P001,Rice,Grocery,Rice,6,1808,0.1,9763.2,783.7,Cash
+ORD00591,2025-02-14,2025-02-15,C0042,Sneha,Female,20,Chennai,Tamil Nadu,South,P019,Phone,Electronics,Phone,6,2746,0.05,15652.2,2834.14,Cash
+ORD00592,2025-11-30,2025-12-03,C0064,Aarav,Female,55,Bengaluru,Karnataka,South,P025,Tea,Grocery,Tea,6,572,0.1,3088.8,548.09,Cash
+ORD00593,2025-07-17,2025-07-23,C0084,Diya,Female,49,Bengaluru,Karnataka,South,P045,Rice,Grocery,Rice,3,3446,0.15,8787.3,1366.17,UPI
+ORD00594,2025-03-31,2025-04-02,C0103,Priya,Male,21,Bengaluru,Karnataka,South,P026,Rice,Grocery,Rice,3,228,0.0,684.0,63.18,UPI
+ORD00595,2025-04-29,2025-05-06,C0215,Priya,Female,49,Unknown,Tamil Nadu,South,P050,Chair,Furniture,Chair,6,2363,0.1,12760.2,2822.04,Cash
+ORD00596,2025-01-06,2025-01-13,C0132,Diya,Female,36,Kochi,Kerala,South,P049,Rice,Grocery,Rice,7,1245,0.1,7843.5,920.85,Cash
+ORD00597,2025-11-13,2025-11-19,C0223,Rahul,Male,58,Bengaluru,Karnataka,South,P049,Jeans,Clothing,Jeans,8,3631,0.05,27595.6,2022.92,Cash
+ORD00598,2025-07-15,2025-07-20,C0058,Rahul,Male,22,Chennai,Tamil Nadu,South,P015,Jeans,Clothing,Jeans,4,1259,0.0,5036.0,1023.18,UPI
+ORD00599,2025-06-22,2025-06-24,C0113,Rahul,Male,62,Kochi,Kerala,South,P015,Tea,Grocery,Tea,8,353,0.0,2824.0,531.52,Cash
+ORD00600,2025-06-23,2025-06-30,C0148,Aarav,Male,31,Chennai,Tamil Nadu,South,P031,Chair,Furniture,Chair,3,2774,0.0,8322.0,1133.09,Cash
+ORD00601,2025-04-28,2025-04-29,C0182,Priya,Male,39,Mumbai,Maharashtra,West,P035,Desk,Furniture,Desk,6,1272,0.15,6487.2,1564.6,Cash
+ORD00602,2025-08-26,2025-09-02,C0023,Priya,Female,35,Bengaluru,Karnataka,South,P045,Jeans,Clothing,Jeans,8,854,0.1,6148.8,1246.73,UPI
+ORD00603,2025-01-14,2025-01-21,C0046,Aarav,Female,52,Chennai,Tamil Nadu,South,P018,Laptop,Electronics,Laptop,5,3972,0.05,18867.0,2244.27,Card
+ORD00604,2025-09-01,2025-09-03,C0175,Rahul,Female,58,Bengaluru,Karnataka,South,P035,Jeans,Clothing,Jeans,5,139,0.05,660.25,129.26,Cash
+ORD00605,2025-08-08,2025-08-15,C0146,Sneha,Male,44,Kochi,Kerala,South,P010,Chair,Furniture,Chair,1,951,0.0,951.0,56.42,UPI
+ORD00606,2025-04-05,2025-04-12,C0212,Priya,Male,28,Delhi,Delhi,North,P050,Jeans,Clothing,Jeans,6,2960,0.05,16872.0,2769.04,UPI
+ORD00607,2025-08-09,2025-08-12,C0020,Rahul,Female,21,Bengaluru,Karnataka,South,P001,Chair,Furniture,Chair,6,1521,0.15,7757.1,1110.5,Card
+ORD00608,2025-05-06,2025-05-13,C0162,Aarav,Male,40,Delhi,Delhi,North,P021,Chair,Furniture,Chair,2,1099,0.0,2198.0,222.96,Cash
+ORD00609,2025-09-23,2025-09-28,C0153,Aarav,Female,48,Delhi,Delhi,North,P030,Desk,Furniture,Desk,1,3271,0.0,3271.0,663.76,Card
+ORD00610,2025-09-22,2025-09-27,C0208,Rahul,Female,52,Mumbai,Maharashtra,West,P007,Jeans,Clothing,Jeans,6,3665,0.05,20890.5,1852.76,UPI
+ORD00611,2025-02-10,2025-02-17,C0040,Priya,Female,39,Bengaluru,Karnataka,South,P043,Rice,Grocery,Rice,6,3210,0.05,18297.0,2482.32,Cash
+ORD00612,2025-03-01,2025-03-02,C0208,Diya,Male,59,Mumbai,Maharashtra,West,P042,Rice,Grocery,Rice,6,4102,0.0,24612.0,3725.32,Cash
+ORD00613,2025-11-13,2025-11-20,C0205,Priya,Female,42,Mumbai,Maharashtra,West,P041,Tea,Grocery,Tea,8,3419,0.05,25984.4,6009.19,Card
+ORD00614,2025-03-08,2025-03-12,C0017,Priya,Male,25,Mumbai,Maharashtra,West,P038,Tea,Grocery,Tea,2,2076,0.0,4152.0,803.18,Cash
+ORD00615,2025-07-09,2025-07-12,C0067,Diya,Female,47,Mumbai,Maharashtra,West,P050,Rice,Grocery,Rice,3,2531,0.05,7213.35,1222.5,UPI
+ORD00616,2025-11-18,2025-11-23,C0058,Priya,Female,23,Chennai,Tamil Nadu,South,P031,Chair,Furniture,Chair,2,968,0.1,1742.4,357.05,Card
+ORD00617,2025-06-05,2025-06-08,C0113,Priya,Female,24,Kochi,Kerala,South,P045,Jeans,Clothing,Jeans,6,1803,0.15,9195.3,2058.27,Cash
+ORD00618,2025-12-27,2026-01-01,C0206,Priya,Male,41,Kochi,Kerala,South,P025,Jeans,Clothing,Jeans,7,1619,0.0,11333.0,2307.65,Cash
+ORD00619,2025-02-04,2025-02-11,C0179,Diya,Female,47,Mumbai,Maharashtra,West,P049,Chair,Furniture,Chair,4,3880,0.15,13192.0,970.6,Card
+ORD00620,2025-11-09,2025-11-10,C0014,Aarav,Male,62,Bengaluru,Karnataka,South,P034,Desk,Furniture,Desk,1,1671,0.0,1671.0,161.23,Cash
+ORD00621,2025-12-24,2025-12-29,C0063,Rahul,Female,31,Delhi,Delhi,North,P010,Laptop,Electronics,Laptop,6,4036,0.05,23005.2,5054.81,Card
+ORD00622,2025-01-10,2025-01-15,C0057,Diya,Male,46,Chennai,Tamil Nadu,South,P023,Desk,Furniture,Desk,6,2361,0.0,14166.0,1641.47,Cash
+ORD00623,2025-09-01,2025-09-02,C0129,Sneha,Female,31,Delhi,Delhi,North,P041,Tea,Grocery,Tea,2,833,0.1,1499.4,318.33,Card
+ORD00624,2025-01-25,2025-01-28,C0133,Aarav,Female,38,Unknown,Kerala,South,P027,Chair,Furniture,Chair,3,2037,0.0,6111.0,942.93,Cash
+ORD00625,2025-04-09,2025-04-15,C0169,Rahul,Male,18,Kochi,Kerala,South,P029,Desk,Furniture,Desk,5,314,0.05,1491.5,215.7,Card
+ORD00626,2025-09-27,2025-10-03,C0249,Priya,Female,30,Mumbai,Maharashtra,West,P019,Jeans,Clothing,Jeans,6,1119,0.0,6714.0,917.06,Card
+ORD00627,2025-10-28,2025-11-02,C0006,Diya,Male,44,Delhi,Delhi,North,P046,Tea,Grocery,Tea,6,4289,0.1,23160.6,1833.98,Card
+ORD00628,2025-05-15,2025-05-21,C0192,Sneha,Female,26,Delhi,Delhi,North,P012,Tea,Grocery,Tea,6,3543,0.15,18069.3,3749.39,UPI
+ORD00629,2025-09-06,2025-09-11,C0050,Priya,Male,51,Bengaluru,Karnataka,South,P049,Phone,Electronics,Phone,2,4599,0.05,8738.1,618.45,Card
+ORD00630,2025-01-30,2025-02-02,C0170,Aarav,Female,34,Kochi,Kerala,South,P005,Jeans,Clothing,Jeans,8,4298,0.15,29226.4,3620.22,Card
+ORD00631,2025-10-05,2025-10-12,C0070,Diya,Male,41,Delhi,Delhi,North,P009,Jeans,Clothing,Jeans,5,580,0.05,2755.0,322.94,UPI
+ORD00632,2025-07-31,2025-08-01,C0077,Diya,Male,41,Kochi,Kerala,South,P010,Chair,Furniture,Chair,1,1717,0.05,1631.15,249.27,Card
+ORD00633,2025-10-26,2025-11-02,C0014,Rahul,Male,25,Chennai,Tamil Nadu,South,P046,Desk,Furniture,Desk,3,819,0.05,2334.15,154.16,Card
+ORD00634,2025-05-14,2025-05-15,C0076,Aarav,Male,47,Chennai,Tamil Nadu,South,P041,Phone,Electronics,Phone,2,1633,0.0,3266.0,240.33,Cash
+ORD00635,2025-01-14,2025-01-20,C0131,Priya,Male,29,Chennai,Tamil Nadu,South,P024,Rice,Grocery,Rice,7,1336,0.1,8416.8,1662.52,UPI
+ORD00636,2025-05-05,2025-05-10,C0142,Diya,Male,39,Delhi,Delhi,North,P034,Phone,Electronics,Phone,1,4189,0.1,3770.1,704.1,Card
+ORD00637,2025-10-14,2025-10-20,C0163,Aarav,Female,28,Mumbai,Maharashtra,West,P040,Chair,Furniture,Chair,3,3632,0.0,10896.0,1826.61,Cash
+ORD00638,2025-01-29,2025-02-03,C0200,Priya,Female,37,Mumbai,Maharashtra,West,P001,Chair,Furniture,Chair,3,1105,0.1,2983.5,590.95,UPI
+ORD00639,2025-09-25,2025-09-26,C0148,Rahul,Male,44,Delhi,Delhi,North,P018,Laptop,Electronics,Laptop,8,782,0.0,6256.0,1136.62,Card
+ORD00640,2025-06-14,2025-06-18,C0206,Priya,Male,60,Chennai,Tamil Nadu,South,P020,Chair,Furniture,Chair,5,4113,0.05,19536.75,3769.23,Cash
+ORD00641,2025-08-04,2025-08-06,C0226,Aarav,Female,42,Bengaluru,Karnataka,South,P044,Phone,Electronics,Phone,2,2058,0.1,3704.4,618.82,Card
+ORD00642,2025-06-13,2025-06-15,C0112,Aarav,Male,65,Chennai,Tamil Nadu,South,P040,Jeans,Clothing,Jeans,6,937,0.0,5622.0,451.99,Cash
+ORD00643,2025-06-03,2025-06-09,C0152,Diya,Male,19,Kochi,Kerala,South,P044,Rice,Grocery,Rice,1,2837,0.0,2837.0,173.85,Card
+ORD00644,2025-06-23,2025-06-29,C0170,Rahul,Female,34,Bengaluru,Karnataka,South,P039,Chair,Furniture,Chair,3,4755,0.0,14265.0,2982.15,Cash
+ORD00645,2025-07-18,2025-07-22,C0096,Priya,Female,55,Mumbai,Maharashtra,West,P035,Desk,Furniture,Desk,2,959,0.15,1630.3,261.39,Card
+ORD00646,2025-10-13,2025-10-14,C0170,Aarav,Male,56,Bengaluru,Karnataka,South,P015,Tea,Grocery,Tea,5,4389,0.1,19750.5,1724.03,Cash
+ORD00647,2025-05-22,2025-05-25,C0186,Diya,Male,27,Chennai,Tamil Nadu,South,P048,Phone,Electronics,Phone,5,2976,0.1,13392.0,1028.14,UPI
+ORD00648,2025-10-19,2025-10-23,C0097,Rahul,Male,50,Delhi,Delhi,North,P005,Laptop,Electronics,Laptop,3,3749,0.15,9559.95,2241.01,UPI
+ORD00649,2025-08-05,2025-08-09,C0141,Aarav,Male,65,Bengaluru,Karnataka,South,P043,Phone,Electronics,Phone,2,789,0.05,1499.1,349.27,Card
+ORD00650,2025-04-07,2025-04-13,C0001,Rahul,Female,52,Bengaluru,Karnataka,South,P042,Chair,Furniture,Chair,1,1849,0.05,1756.55,168.0,Cash
+ORD00651,2025-03-31,2025-04-03,C0085,Sneha,Female,62,Bengaluru,Karnataka,South,P043,Jeans,Clothing,Jeans,1,3054,0.15,2595.9,431.92,Cash
+ORD00652,2025-10-04,2025-10-11,C0155,Rahul,Male,32,Mumbai,Maharashtra,West,P011,Jeans,Clothing,Jeans,3,1450,0.0,4350.0,270.0,Card
+ORD00653,2025-09-04,2025-09-06,C0117,Rahul,Male,34,Delhi,Delhi,North,P027,Rice,Grocery,Rice,8,205,0.15,1394.0,137.45,UPI
+ORD00654,2025-04-09,2025-04-15,C0116,Priya,Female,57,Mumbai,Maharashtra,West,P042,Laptop,Electronics,Laptop,5,1177,0.15,5002.25,567.14,Cash
+ORD00655,2025-04-13,2025-04-19,C0022,Priya,Female,46,Mumbai,Maharashtra,West,P001,Jeans,Clothing,Jeans,2,775,0.0,1550.0,128.95,UPI
+ORD00656,2025-04-04,2025-04-06,C0031,Diya,Female,20,Kochi,Kerala,South,P044,Jeans,Clothing,Jeans,4,4108,0.15,13967.2,2658.44,UPI
+ORD00657,2025-02-20,2025-02-22,C0207,Aarav,Female,19,Chennai,Tamil Nadu,South,P001,Jeans,Clothing,Jeans,1,3129,0.15,2659.65,406.58,Card
+ORD00658,2025-06-02,2025-06-06,C0049,Priya,Female,20,Bengaluru,Karnataka,South,P038,Jeans,Clothing,Jeans,5,3924,0.0,19620.0,2628.38,Cash
+ORD00659,2025-07-16,2025-07-19,C0112,Diya,Female,22,Bengaluru,Karnataka,South,P025,Rice,Grocery,Rice,7,3236,0.1,20386.8,1839.64,Card
+ORD00660,2025-10-25,2025-11-01,C0130,Aarav,Female,29,Mumbai,Maharashtra,West,P048,Jeans,Clothing,Jeans,8,1816,0.1,13075.2,1017.55,Card
+ORD00661,2025-11-30,2025-12-04,C0047,Rahul,Female,56,Chennai,Tamil Nadu,South,P033,Laptop,Electronics,Laptop,1,1219,0.05,1158.05,249.65,Card
+ORD00662,2025-07-09,2025-07-11,C0077,Aarav,Female,40,Bengaluru,Karnataka,South,P024,Jeans,Clothing,Jeans,3,2378,0.15,6063.9,866.11,Card
+ORD00663,2025-05-14,2025-05-16,C0089,Aarav,Male,49,Chennai,Tamil Nadu,South,P010,Phone,Electronics,Phone,4,4084,0.15,13885.6,2446.87,UPI
+ORD00664,2025-12-26,2026-01-02,C0224,Rahul,Male,59,Mumbai,Maharashtra,West,P017,Rice,Grocery,Rice,7,134,0.0,938.0,231.36,Card
+ORD00665,2025-09-20,2025-09-21,C0161,Priya,Male,53,Delhi,Delhi,North,P030,Rice,Grocery,Rice,1,4464,0.05,4240.8,674.38,UPI
+ORD00666,2025-10-21,2025-10-26,C0061,Sneha,Female,65,Bengaluru,Karnataka,South,P013,Jeans,Clothing,Jeans,8,2149,0.0,17192.0,2911.79,Cash
+ORD00667,2025-06-23,2025-06-26,C0025,Aarav,Male,46,Delhi,Delhi,North,P028,Phone,Electronics,Phone,2,4461,0.15,7583.7,678.09,UPI
+ORD00668,2025-09-19,2025-09-24,C0202,Priya,Female,32,Kochi,Kerala,South,P042,Chair,Furniture,Chair,2,3846,0.05,7307.4,1308.46,Card
+ORD00669,2025-01-17,2025-01-24,C0086,Priya,Male,45,Bengaluru,Karnataka,South,P031,Tea,Grocery,Tea,8,1891,0.05,14371.6,2013.36,Card
+ORD00670,2025-01-06,2025-01-11,C0219,Aarav,Female,30,Delhi,Delhi,North,P011,Laptop,Electronics,Laptop,3,2318,0.05,6606.3,1122.77,Cash
+ORD00671,2025-09-22,2025-09-29,C0142,Rahul,Female,43,Mumbai,Maharashtra,West,P004,Phone,Electronics,Phone,7,3998,0.15,23788.1,5472.25,UPI
+ORD00672,2025-12-19,2025-12-24,C0116,Rahul,Female,27,Bengaluru,Karnataka,South,P019,Tea,Grocery,Tea,1,1133,0.15,963.05,91.6,Card
+ORD00673,2025-07-25,2025-07-31,C0187,Diya,Female,50,Delhi,Delhi,North,P020,Chair,Furniture,Chair,4,3719,0.1,13388.4,1341.26,Cash
+ORD00674,2025-08-13,2025-08-14,C0137,Sneha,Female,41,Unknown,Delhi,North,P034,Jeans,Clothing,Jeans,8,4702,0.1,33854.4,6165.32,Card
+ORD00675,2025-06-04,2025-06-08,C0245,Rahul,Male,25,Delhi,Delhi,North,P049,Desk,Furniture,Desk,8,1435,0.15,9758.0,1568.58,Card
+ORD00676,2025-08-25,2025-08-29,C0128,Rahul,Female,64,Delhi,Delhi,North,P001,Rice,Grocery,Rice,5,3643,0.15,15482.75,3573.45,Card
+ORD00677,2025-09-02,2025-09-06,C0016,Rahul,Female,44,Bengaluru,Karnataka,South,P003,Chair,Furniture,Chair,3,4188,0.1,11307.6,1671.06,Cash
+ORD00678,2025-04-03,2025-04-10,C0005,Diya,Female,35,Kochi,Kerala,South,P011,Tea,Grocery,Tea,8,131,0.05,995.6,103.8,Cash
+ORD00679,2025-08-23,2025-08-27,C0153,Diya,Female,36,Bengaluru,Karnataka,South,P021,Desk,Furniture,Desk,1,4122,0.0,4122.0,435.75,UPI
+ORD00680,2025-05-09,2025-05-13,C0069,Rahul,Female,58,Bengaluru,Karnataka,South,P001,Tea,Grocery,Tea,7,2280,0.0,15960.0,1183.91,Cash
+ORD00681,2025-02-27,2025-03-01,C0003,Diya,Female,53,Kochi,Kerala,South,P041,Tea,Grocery,Tea,5,1228,0.1,5526.0,1198.71,Card
+ORD00682,2025-12-17,2025-12-23,C0182,Priya,Male,30,Bengaluru,Karnataka,South,P016,Rice,Grocery,Rice,5,4663,0.0,23315.0,5048.23,Cash
+ORD00683,2025-10-29,2025-11-03,C0187,Rahul,Female,46,Kochi,Kerala,South,P016,Jeans,Clothing,Jeans,5,3437,0.0,17185.0,3822.6,UPI
+ORD00684,2025-01-31,2025-02-01,C0085,Diya,Female,19,Mumbai,Maharashtra,West,P020,Jeans,Clothing,Jeans,4,3900,0.0,15600.0,2881.01,UPI
+ORD00685,2025-04-27,2025-05-02,C0151,Aarav,Female,60,Delhi,Delhi,North,P047,Jeans,Clothing,Jeans,1,4361,0.05,4142.95,529.12,UPI
+ORD00686,2025-01-27,2025-01-29,C0026,Aarav,Male,52,Delhi,Delhi,North,P033,Jeans,Clothing,Jeans,3,3846,0.05,10961.1,1606.12,Cash
+ORD00687,2025-11-19,2025-11-21,C0170,Rahul,Female,43,Bengaluru,Karnataka,South,P035,Rice,Grocery,Rice,1,223,0.1,200.7,49.01,Card
+ORD00688,2025-07-05,2025-07-08,C0231,Rahul,Female,42,Chennai,Tamil Nadu,South,P020,Jeans,Clothing,Jeans,6,2283,0.15,11643.3,1010.29,UPI
+ORD00689,2025-06-10,2025-06-12,C0099,Diya,Male,35,Mumbai,Maharashtra,West,P018,Desk,Furniture,Desk,5,2678,0.15,11381.5,2723.7,UPI
+ORD00690,2025-12-28,2026-01-03,C0048,Aarav,Female,27,Kochi,Kerala,South,P001,Rice,Grocery,Rice,5,3127,0.0,15635.0,1112.1,Cash
+ORD00691,2025-06-22,2025-06-25,C0122,Sneha,Female,64,Delhi,Delhi,North,P017,Desk,Furniture,Desk,1,2349,0.1,2114.1,315.16,Card
+ORD00692,2025-03-31,2025-04-03,C0115,Rahul,Female,23,Bengaluru,Karnataka,South,P045,Tea,Grocery,Tea,3,1083,0.05,3086.55,192.68,UPI
+ORD00693,2025-08-06,2025-08-07,C0235,Rahul,Male,18,Bengaluru,Karnataka,South,P019,Desk,Furniture,Desk,1,1251,0.05,7130.7,1314.97,UPI
+ORD00694,2025-01-08,2025-01-11,C0185,Unknown Customer,Male,30,Bengaluru,Karnataka,South,P048,Tea,Grocery,Tea,8,155,0.05,1178.0,269.23,UPI
+ORD00695,2025-04-02,2025-04-08,C0149,Diya,Male,52,Bengaluru,Karnataka,South,P017,Rice,Grocery,Rice,1,4975,0.1,4477.5,867.07,Cash
+ORD00696,2025-11-12,2025-11-13,C0207,Priya,Female,47,Kochi,Kerala,South,P033,Phone,Electronics,Phone,1,4009,0.05,15234.2,3033.22,Cash
+ORD00697,2025-04-06,2025-04-08,C0119,Aarav,Female,57,Kochi,Kerala,South,P024,Tea,Grocery,Tea,1,1341,0.15,1139.85,80.13,Card
+ORD00698,2025-01-19,2025-01-22,C0144,Sneha,Female,47,Chennai,Tamil Nadu,South,P003,Laptop,Electronics,Laptop,5,1249,0.1,5620.5,853.71,UPI
+ORD00699,2025-12-01,2025-12-07,C0165,Rahul,Female,26,Bengaluru,Karnataka,South,P026,Laptop,Electronics,Laptop,8,4455,0.05,33858.0,7521.82,UPI
+ORD00700,2025-05-17,2025-05-22,C0072,Priya,Female,43,Kochi,Kerala,South,P022,Laptop,Electronics,Laptop,3,3024,0.1,8164.8,1938.31,Card
+ORD00701,2025-01-26,2025-02-01,C0016,Rahul,Male,52,Chennai,Tamil Nadu,South,P038,Jeans,Clothing,Jeans,7,831,0.1,5235.3,685.58,Cash
+ORD00702,2025-01-23,2025-01-30,C0108,Diya,Female,26,Mumbai,Maharashtra,West,P015,Jeans,Clothing,Jeans,1,2881,0.1,2592.9,558.97,UPI
+ORD00703,2025-07-23,2025-07-25,C0062,Rahul,Female,51,Mumbai,Maharashtra,West,P044,Jeans,Clothing,Jeans,1,502,0.0,502.0,73.21,UPI
+ORD00704,2025-09-23,2025-09-27,C0143,Priya,Female,33,Delhi,Delhi,North,P037,Jeans,Clothing,Jeans,5,2423,0.0,12115.0,1520.23,UPI
+ORD00705,2025-02-21,2025-02-26,C0095,Priya,Male,64,Chennai,Tamil Nadu,South,P032,Jeans,Clothing,Jeans,6,1092,0.15,5569.2,890.89,UPI
+ORD00706,2025-08-01,2025-08-06,C0093,Rahul,Male,28,Mumbai,Maharashtra,West,P011,Chair,Furniture,Chair,4,4305,0.15,14637.0,1504.8,Cash
+ORD00707,2025-04-28,2025-04-30,C0217,Priya,Male,61,Mumbai,Maharashtra,West,P039,Chair,Furniture,Chair,4,274,0.05,1041.2,243.22,Card
+ORD00708,2025-09-12,2025-09-18,C0119,Aarav,Female,20,Chennai,Tamil Nadu,South,P031,Laptop,Electronics,Laptop,5,4811,0.1,21649.5,4618.65,Card
+ORD00709,2025-02-09,2025-02-11,C0049,Sneha,Female,53,Chennai,Tamil Nadu,South,P004,Jeans,Clothing,Jeans,1,2840,0.0,2840.0,390.82,Cash
+ORD00710,2025-05-22,2025-05-23,C0213,Priya,Male,39,Delhi,Delhi,North,P015,Jeans,Clothing,Jeans,8,3245,0.0,25960.0,2720.56,Cash
+ORD00711,2025-01-14,2025-01-15,C0117,Aarav,Female,42,Mumbai,Maharashtra,West,P042,Chair,Furniture,Chair,7,2362,0.15,14053.9,2277.31,Card
+ORD00712,2025-01-15,2025-01-18,C0046,Sneha,Male,25,Kochi,Kerala,South,P045,Desk,Furniture,Desk,8,3922,0.15,26669.6,5492.58,Cash
+ORD00713,2025-03-06,2025-03-13,C0132,Priya,Male,35,Kochi,Kerala,South,P012,Chair,Furniture,Chair,6,907,0.05,5169.9,1283.77,Cash
+ORD00714,2025-06-13,2025-06-20,C0091,Rahul,Male,64,Bengaluru,Karnataka,South,P050,Laptop,Electronics,Laptop,7,4676,0.0,32732.0,6609.52,UPI
+ORD00715,2025-01-31,2025-02-04,C0218,Diya,Male,39,Bengaluru,Karnataka,South,P018,Laptop,Electronics,Laptop,8,2092,0.15,14225.6,1686.06,Cash
+ORD00716,2025-10-20,2025-10-24,C0206,Diya,Female,38,Bengaluru,Karnataka,South,P042,Tea,Grocery,Tea,4,3567,0.05,13554.6,2342.94,UPI
+ORD00717,2025-11-11,2025-11-17,C0044,Rahul,Male,40,Bengaluru,Karnataka,South,P034,Phone,Electronics,Phone,5,4127,0.15,17539.75,1309.69,Card
+ORD00718,2025-07-20,2025-07-25,C0244,Rahul,Female,39,Bengaluru,Karnataka,South,P006,Tea,Grocery,Tea,3,434,0.1,1171.8,258.47,Card
+ORD00719,2025-02-28,2025-03-05,C0142,Sneha,Female,25,Chennai,Tamil Nadu,South,P044,Rice,Grocery,Rice,8,945,0.15,6426.0,1221.24,Card
+ORD00720,2025-05-31,2025-06-04,C0006,Rahul,Female,23,Mumbai,Maharashtra,West,P020,Jeans,Clothing,Jeans,8,3596,0.15,24452.8,5171.83,Cash
+ORD00721,2025-01-19,2025-01-21,C0089,Sneha,Male,49,Chennai,Tamil Nadu,South,P050,Rice,Grocery,Rice,5,2633,0.1,11848.5,2742.92,Cash
+ORD00722,2025-12-15,2025-12-17,C0032,Rahul,Male,49,Bengaluru,Karnataka,South,P034,Jeans,Clothing,Jeans,8,3721,0.1,26791.2,6220.03,UPI
+ORD00723,2025-01-09,2025-01-14,C0050,Priya,Male,58,Delhi,Delhi,North,P020,Phone,Electronics,Phone,2,2866,0.15,4872.2,834.92,UPI
+ORD00724,2025-11-26,2025-12-01,C0197,Rahul,Female,51,Kochi,Kerala,South,P028,Jeans,Clothing,Jeans,4,450,0.05,1710.0,181.6,Card
+ORD00725,2025-07-31,2025-08-02,C0127,Sneha,Male,63,Bengaluru,Karnataka,South,P026,Phone,Electronics,Phone,3,271,0.05,772.35,41.38,UPI
+ORD00726,2025-12-25,2025-12-29,C0230,Sneha,Female,55,Bengaluru,Karnataka,South,P042,Chair,Furniture,Chair,5,1852,0.05,8797.0,932.75,Cash
+ORD00727,2025-07-29,2025-08-03,C0066,Sneha,Male,22,Bengaluru,Karnataka,South,P034,Rice,Grocery,Rice,1,746,0.0,746.0,120.46,Cash
+ORD00728,2025-01-09,2025-01-14,C0002,Unknown Customer,Female,20,Bengaluru,Karnataka,South,P020,Desk,Furniture,Desk,1,1522,0.15,1293.7,170.94,Cash
+ORD00729,2025-02-17,2025-02-23,C0014,Sneha,Female,54,Chennai,Tamil Nadu,South,P030,Tea,Grocery,Tea,3,1608,0.15,4100.4,739.3,UPI
+ORD00730,2025-12-03,2025-12-08,C0204,Aarav,Female,58,Kochi,Kerala,South,P013,Laptop,Electronics,Laptop,4,766,0.05,2910.8,259.7,Cash
+ORD00731,2025-11-17,2025-11-18,C0051,Rahul,Male,55,Delhi,Delhi,North,P045,Rice,Grocery,Rice,3,4449,0.05,12679.65,2519.4,Card
+ORD00732,2025-07-27,2025-07-31,C0113,Sneha,Female,46,Bengaluru,Karnataka,South,P035,Rice,Grocery,Rice,2,3330,0.0,6660.0,414.75,UPI
+ORD00733,2025-11-08,2025-11-13,C0193,Priya,Female,62,Bengaluru,Karnataka,South,P024,Tea,Grocery,Tea,2,3644,0.1,6559.2,1410.29,Card
+ORD00734,2025-08-02,2025-08-03,C0093,Diya,Male,34,Bengaluru,Karnataka,South,P024,Chair,Furniture,Chair,2,2210,0.1,3978.0,403.04,Card
+ORD00735,2025-11-21,2025-11-22,C0046,Diya,Male,59,Bengaluru,Karnataka,South,P035,Chair,Furniture,Chair,3,255,0.15,650.25,107.04,Cash
+ORD00736,2025-04-11,2025-04-17,C0130,Sneha,Male,20,Bengaluru,Karnataka,South,P022,Rice,Grocery,Rice,1,2905,0.05,2759.75,263.11,Card
+ORD00737,2025-11-29,2025-12-05,C0048,Rahul,Male,61,Delhi,Delhi,North,P020,Jeans,Clothing,Jeans,4,3328,0.1,11980.8,2085.7,UPI
+ORD00738,2025-07-05,2025-07-11,C0220,Priya,Female,53,Mumbai,Maharashtra,West,P015,Jeans,Clothing,Jeans,5,2306,0.15,9800.5,1257.77,Cash
+ORD00739,2025-02-03,2025-02-10,C0047,Aarav,Male,50,Chennai,Tamil Nadu,South,P036,Desk,Furniture,Desk,3,1934,0.0,5802.0,953.37,Card
+ORD00740,2025-04-25,2025-04-26,C0202,Aarav,Female,64,Delhi,Delhi,North,P026,Desk,Furniture,Desk,6,532,0.0,3192.0,485.96,UPI
+ORD00741,2025-01-24,2025-01-28,C0037,Aarav,Female,56,Chennai,Tamil Nadu,South,P021,Laptop,Electronics,Laptop,7,4104,0.15,24418.8,5758.59,Cash
+ORD00742,2025-03-15,2025-03-22,C0141,Aarav,Male,65,Kochi,Kerala,South,P014,Chair,Furniture,Chair,8,944,0.15,6419.2,1167.5,Cash
+ORD00743,2025-08-21,2025-08-25,C0028,Priya,Female,34,Mumbai,Maharashtra,West,P037,Rice,Grocery,Rice,6,2282,0.05,13007.4,1775.66,Card
+ORD00744,2025-07-10,2025-07-11,C0155,Diya,Female,21,Chennai,Tamil Nadu,South,P042,Chair,Furniture,Chair,6,982,0.1,5302.8,1142.53,UPI
+ORD00745,2025-01-11,2025-01-14,C0054,Diya,Female,25,Mumbai,Maharashtra,West,P023,Tea,Grocery,Tea,2,722,0.1,1299.6,102.65,Cash
+ORD00746,2025-10-07,2025-10-12,C0002,Aarav,Female,18,Bengaluru,Karnataka,South,P025,Phone,Electronics,Phone,6,2168,0.1,11707.2,2378.57,Cash
+ORD00747,2025-11-18,2025-11-25,C0021,Priya,Male,51,Chennai,Tamil Nadu,South,P020,Jeans,Clothing,Jeans,8,3611,0.0,28888.0,2673.75,Card
+ORD00748,2025-06-16,2025-06-20,C0013,Diya,Male,50,Kochi,Kerala,South,P045,Jeans,Clothing,Jeans,3,243,0.1,656.1,140.62,Cash
+ORD00749,2025-12-22,2025-12-25,C0119,Sneha,Male,39,Mumbai,Maharashtra,West,P014,Laptop,Electronics,Laptop,3,948,0.05,2701.8,528.33,UPI
+ORD00750,2025-05-11,2025-05-14,C0242,Priya,Male,18,Bengaluru,Karnataka,South,P049,Laptop,Electronics,Laptop,5,1670,0.1,7515.0,1314.11,Card
+ORD00751,2025-06-02,2025-06-04,C0143,Sneha,Male,23,Bengaluru,Karnataka,South,P041,Tea,Grocery,Tea,2,4030,0.1,7254.0,1695.35,UPI
+ORD00752,2025-02-14,2025-02-18,C0160,Rahul,Female,29,Mumbai,Maharashtra,West,P017,Rice,Grocery,Rice,2,2858,0.1,5144.4,970.0,UPI
+ORD00753,2025-02-05,2025-02-10,C0094,Aarav,Female,35,Chennai,Tamil Nadu,South,P026,Jeans,Clothing,Jeans,2,335,0.15,569.5,116.62,UPI
+ORD00754,2025-11-15,2025-11-21,C0091,Diya,Female,27,Mumbai,Maharashtra,West,P045,Jeans,Clothing,Jeans,7,4972,0.0,34804.0,3922.4,UPI
+ORD00755,2025-01-23,2025-01-24,C0159,Rahul,Male,24,Mumbai,Maharashtra,West,P050,Rice,Grocery,Rice,1,4612,0.15,3920.2,428.86,UPI
+ORD00756,2025-01-21,2025-01-23,C0076,Diya,Female,53,Chennai,Tamil Nadu,South,P042,Tea,Grocery,Tea,3,2267,0.1,6120.9,1380.04,Card
+ORD00757,2025-11-08,2025-11-10,C0118,Diya,Female,43,Delhi,Delhi,North,P023,Desk,Furniture,Desk,4,1633,0.0,6532.0,1232.15,UPI
+ORD00758,2025-09-14,2025-09-17,C0194,Priya,Female,41,Bengaluru,Karnataka,South,P035,Phone,Electronics,Phone,8,3107,0.0,24856.0,2524.95,UPI
+ORD00759,2025-09-18,2025-09-25,C0167,Priya,Female,33,Bengaluru,Karnataka,South,P011,Phone,Electronics,Phone,5,3092,0.05,14687.0,750.53,Card
+ORD00760,2025-08-01,2025-08-05,C0032,Priya,Female,29,Kochi,Kerala,South,P019,Desk,Furniture,Desk,5,3062,0.1,13779.0,1655.4,Cash
+ORD00761,2025-03-16,2025-03-21,C0190,Aarav,Male,38,Bengaluru,Karnataka,South,P048,Tea,Grocery,Tea,8,3180,0.05,24168.0,1472.23,UPI
+ORD00762,2025-11-09,2025-11-11,C0183,Priya,Female,28,Mumbai,Maharashtra,West,P044,Jeans,Clothing,Jeans,4,4960,0.0,19840.0,3746.0,Cash
+ORD00763,2025-09-20,2025-09-25,C0022,Sneha,Male,30,Bengaluru,Karnataka,South,P013,Laptop,Electronics,Laptop,5,2573,0.15,10935.25,1355.66,UPI
+ORD00764,2025-06-14,2025-06-21,C0050,Aarav,Female,44,Bengaluru,Karnataka,South,P035,Jeans,Clothing,Jeans,3,2060,0.05,5871.0,752.12,Card
+ORD00765,2025-01-05,2025-01-08,C0163,Sneha,Female,47,Delhi,Delhi,North,P003,Desk,Furniture,Desk,2,4049,0.1,7288.2,1776.81,Cash
+ORD00766,2025-03-15,2025-03-19,C0102,Rahul,Female,40,Mumbai,Maharashtra,West,P028,Phone,Electronics,Phone,8,4733,0.1,34077.6,4472.59,UPI
+ORD00767,2025-07-26,2025-08-02,C0033,Priya,Female,59,Bengaluru,Karnataka,South,P034,Laptop,Electronics,Laptop,7,1566,0.05,10413.9,1720.16,UPI
+ORD00768,2025-02-02,2025-02-07,C0069,Rahul,Male,25,Delhi,Delhi,North,P025,Tea,Grocery,Tea,6,4511,0.15,23006.1,1151.79,UPI
+ORD00769,2025-06-08,2025-06-11,C0157,Sneha,Female,35,Kochi,Kerala,South,P026,Chair,Furniture,Chair,1,171,0.0,171.0,10.81,UPI
+ORD00770,2025-01-25,2025-01-30,C0045,Sneha,Female,31,Chennai,Tamil Nadu,South,P049,Jeans,Clothing,Jeans,7,3067,0.1,19322.1,1609.18,UPI
+ORD00771,2025-12-07,2025-12-08,C0119,Priya,Male,55,Mumbai,Maharashtra,West,P023,Rice,Grocery,Rice,7,2905,0.05,19318.25,2461.19,UPI
+ORD00772,2025-11-24,2025-11-28,C0127,Sneha,Male,41,Delhi,Delhi,North,P036,Rice,Grocery,Rice,2,2662,0.1,4791.6,527.36,Cash
+ORD00773,2025-11-28,2025-11-29,C0071,Aarav,Female,62,Bengaluru,Karnataka,South,P044,Jeans,Clothing,Jeans,5,2706,0.05,12853.5,1881.7,Cash
+ORD00774,2025-10-09,2025-10-11,C0103,Aarav,Female,38,Bengaluru,Karnataka,South,P028,Laptop,Electronics,Laptop,1,2522,0.15,2143.7,220.68,UPI
+ORD00775,2025-05-16,2025-05-17,C0196,Rahul,Male,57,Bengaluru,Karnataka,South,P042,Laptop,Electronics,Laptop,4,1314,0.1,4730.4,541.34,UPI
+ORD00776,2025-12-13,2025-12-15,C0220,Sneha,Male,27,Chennai,Tamil Nadu,South,P018,Desk,Furniture,Desk,1,134,0.15,113.9,16.97,Cash
+ORD00777,2025-12-23,2025-12-24,C0059,Diya,Female,64,Chennai,Tamil Nadu,South,P012,Jeans,Clothing,Jeans,5,3347,0.15,14224.75,841.43,UPI
+ORD00778,2025-06-07,2025-06-13,C0215,Aarav,Male,45,Kochi,Kerala,South,P021,Jeans,Clothing,Jeans,1,4954,0.0,4954.0,1033.33,Cash
+ORD00779,2025-10-03,2025-10-10,C0222,Sneha,Male,51,Mumbai,Maharashtra,West,P030,Jeans,Clothing,Jeans,4,234,0.05,889.2,179.59,UPI
+ORD00780,2025-02-03,2025-02-10,C0121,Diya,Female,49,Delhi,Delhi,North,P004,Rice,Grocery,Rice,4,160,0.0,640.0,133.09,UPI
+ORD00781,2025-05-11,2025-05-17,C0064,Priya,Male,64,Mumbai,Maharashtra,West,P039,Laptop,Electronics,Laptop,3,3670,0.15,9358.5,1601.47,Cash
+ORD00782,2025-10-17,2025-10-24,C0055,Unknown Customer,Male,37,Chennai,Tamil Nadu,South,P008,Laptop,Electronics,Laptop,7,228,0.05,1516.2,91.49,Cash
+ORD00783,2025-07-11,2025-07-13,C0007,Priya,Male,39,Chennai,Tamil Nadu,South,P008,Phone,Electronics,Phone,4,4098,0.1,14752.8,2034.56,Cash
+ORD00784,2025-09-30,2025-10-05,C0110,Priya,Female,59,Mumbai,Maharashtra,West,P044,Desk,Furniture,Desk,2,3821,0.0,7642.0,520.18,Cash
+ORD00785,2025-11-03,2025-11-10,C0108,Rahul,Female,60,Chennai,Tamil Nadu,South,P045,Jeans,Clothing,Jeans,1,3847,0.05,3654.65,615.55,Card
+ORD00786,2025-05-21,2025-05-23,C0176,Priya,Female,39,Kochi,Kerala,South,P018,Phone,Electronics,Phone,8,3207,0.15,21807.6,4486.38,UPI
+ORD00787,2025-11-25,2025-11-27,C0161,Aarav,Female,63,Chennai,Tamil Nadu,South,P006,Jeans,Clothing,Jeans,6,4563,0.15,23271.3,3467.49,Card
+ORD00788,2025-10-05,2025-10-11,C0243,Sneha,Female,18,Kochi,Kerala,South,P015,Jeans,Clothing,Jeans,5,4383,0.0,21915.0,4568.43,Card
+ORD00789,2025-09-07,2025-09-12,C0008,Priya,Female,39,Kochi,Kerala,South,P012,Chair,Furniture,Chair,4,3688,0.15,12539.2,1682.51,Cash
+ORD00790,2025-09-17,2025-09-21,C0153,Priya,Female,33,Mumbai,Maharashtra,West,P038,Rice,Grocery,Rice,6,2767,0.05,15771.9,2111.24,UPI
+ORD00791,2025-10-12,2025-10-18,C0201,Aarav,Female,26,Bengaluru,Karnataka,South,P027,Jeans,Clothing,Jeans,2,1420,0.15,2414.0,150.31,UPI
+ORD00792,2025-08-30,2025-09-01,C0142,Aarav,Male,25,Mumbai,Maharashtra,West,P036,Phone,Electronics,Phone,7,2502,0.05,16638.3,1925.56,Cash
+ORD00793,2025-12-03,2025-12-09,C0150,Diya,Female,25,Chennai,Tamil Nadu,South,P033,Jeans,Clothing,Jeans,6,2535,0.0,15210.0,2902.87,UPI
+ORD00794,2025-09-10,2025-09-16,C0246,Sneha,Male,35,Mumbai,Maharashtra,West,P001,Rice,Grocery,Rice,3,4950,0.1,13365.0,1826.05,Cash
+ORD00795,2025-06-18,2025-06-25,C0158,Priya,Male,19,Chennai,Tamil Nadu,South,P013,Jeans,Clothing,Jeans,2,2113,0.0,4226.0,979.28,Card
+ORD00796,2025-06-21,2025-06-28,C0243,Diya,Female,35,Chennai,Tamil Nadu,South,P027,Desk,Furniture,Desk,7,1627,0.05,10819.55,1058.19,Card
+ORD00797,2025-12-01,2025-12-06,C0059,Unknown Customer,Male,42,Bengaluru,Karnataka,South,P024,Chair,Furniture,Chair,7,4474,0.05,29752.1,6380.68,Card
+ORD00798,2025-04-25,2025-04-29,C0206,Priya,Female,57,Bengaluru,Karnataka,South,P017,Chair,Furniture,Chair,8,4906,0.05,37285.6,6673.83,Card
+ORD00799,2025-07-01,2025-07-07,C0108,Sneha,Male,26,Chennai,Tamil Nadu,South,P036,Laptop,Electronics,Laptop,6,4993,0.1,26962.2,2969.01,UPI
+ORD00800,2025-08-11,2025-08-13,C0151,Priya,Male,40,Bengaluru,Karnataka,South,P017,Rice,Grocery,Rice,1,4389,0.15,3730.65,752.52,Cash
+ORD00801,2025-08-20,2025-08-24,C0019,Priya,Female,30,Bengaluru,Karnataka,South,P005,Desk,Furniture,Desk,5,2056,0.05,9766.0,1160.47,UPI
+ORD00802,2025-09-05,2025-09-09,C0188,Priya,Male,58,Bengaluru,Karnataka,South,P034,Desk,Furniture,Desk,4,2239,0.05,8508.2,1566.26,Cash
+ORD00803,2025-05-05,2025-05-07,C0145,Sneha,Male,53,Unknown,Karnataka,South,P018,Rice,Grocery,Rice,1,4338,0.05,4121.1,908.56,Cash
+ORD00804,2025-07-28,2025-08-03,C0064,Priya,Male,42,Bengaluru,Karnataka,South,P038,Jeans,Clothing,Jeans,2,2237,0.0,4474.0,939.61,Cash
+ORD00805,2025-01-21,2025-01-26,C0123,Diya,Male,18,Chennai,Tamil Nadu,South,P026,Rice,Grocery,Rice,4,1664,0.1,5990.4,1300.5,UPI
+ORD00806,2025-12-26,2025-12-28,C0039,Rahul,Female,24,Bengaluru,Karnataka,South,P039,Laptop,Electronics,Laptop,4,3353,0.05,12741.4,2399.74,Cash
+ORD00807,2025-11-04,2025-11-10,C0229,Diya,Female,54,Delhi,Delhi,North,P007,Phone,Electronics,Phone,3,4235,0.05,12069.75,1368.36,Cash
+ORD00808,2025-07-25,2025-07-27,C0072,Aarav,Male,65,Bengaluru,Karnataka,South,P027,Tea,Grocery,Tea,4,4055,0.1,14598.0,827.13,Cash
+ORD00809,2025-08-02,2025-08-08,C0011,Priya,Male,44,Bengaluru,Karnataka,South,P017,Jeans,Clothing,Jeans,1,1681,0.05,1596.95,272.93,Cash
+ORD00810,2025-05-04,2025-05-06,C0122,Aarav,Female,39,Bengaluru,Karnataka,South,P019,Desk,Furniture,Desk,2,1770,0.1,3186.0,616.18,Cash
+ORD00811,2025-10-24,2025-10-31,C0189,Diya,Male,19,Delhi,Delhi,North,P032,Rice,Grocery,Rice,1,4551,0.1,4095.9,758.23,Card
+ORD00812,2025-08-16,2025-08-18,C0175,Priya,Female,24,Kochi,Kerala,South,P011,Rice,Grocery,Rice,2,4748,0.15,8071.6,1709.6,Card
+ORD00813,2025-07-29,2025-08-05,C0137,Priya,Female,64,Bengaluru,Karnataka,South,P030,Laptop,Electronics,Laptop,2,3320,0.1,5976.0,713.99,Card
+ORD00814,2025-08-19,2025-08-26,C0238,Rahul,Male,26,Bengaluru,Karnataka,South,P017,Rice,Grocery,Rice,3,438,0.0,1314.0,247.82,Cash
+ORD00815,2025-08-25,2025-08-29,C0077,Rahul,Male,44,Chennai,Tamil Nadu,South,P047,Rice,Grocery,Rice,8,3020,0.0,24160.0,2678.81,Cash
+ORD00816,2025-06-03,2025-06-05,C0067,Aarav,Female,20,Bengaluru,Karnataka,South,P035,Chair,Furniture,Chair,5,3437,0.15,14607.25,3458.24,Card
+ORD00817,2025-11-30,2025-12-03,C0134,Priya,Male,33,Kochi,Kerala,South,P037,Desk,Furniture,Desk,3,752,0.05,2143.2,221.17,Card
+ORD00818,2025-12-14,2025-12-17,C0109,Rahul,Male,42,Mumbai,Maharashtra,West,P029,Chair,Furniture,Chair,6,750,0.1,4050.0,964.13,Cash
+ORD00819,2025-09-23,2025-09-24,C0194,Aarav,Male,44,Bengaluru,Karnataka,South,P050,Rice,Grocery,Rice,6,4495,0.15,22924.5,2673.78,UPI
+ORD00820,2025-02-22,2025-02-26,C0156,Sneha,Male,19,Bengaluru,Karnataka,South,P030,Jeans,Clothing,Jeans,5,4878,0.1,21951.0,3683.5,Cash
+ORD00821,2025-11-28,2025-11-29,C0053,Diya,Male,57,Chennai,Tamil Nadu,South,P012,Desk,Furniture,Desk,7,2965,0.05,19717.25,4463.92,Card
+ORD00822,2025-09-23,2025-09-26,C0183,Rahul,Female,50,Bengaluru,Karnataka,South,P035,Chair,Furniture,Chair,2,3830,0.05,7277.0,1403.44,UPI
+ORD00823,2025-01-20,2025-01-25,C0083,Priya,Female,52,Bengaluru,Karnataka,South,P037,Phone,Electronics,Phone,1,2627,0.05,2495.65,219.96,Cash
+ORD00824,2025-12-17,2025-12-21,C0155,Rahul,Female,23,Bengaluru,Karnataka,South,P046,Chair,Furniture,Chair,7,4068,0.05,27052.2,2998.32,UPI
+ORD00825,2025-07-29,2025-07-30,C0086,Aarav,Male,37,Bengaluru,Karnataka,South,P010,Tea,Grocery,Tea,2,2335,0.1,4203.0,301.08,Card
+ORD00826,2025-03-29,2025-03-30,C0183,Aarav,Female,22,Delhi,Delhi,North,P045,Chair,Furniture,Chair,5,1086,0.1,4887.0,307.71,UPI
+ORD00827,2025-04-19,2025-04-24,C0167,Aarav,Male,27,Mumbai,Maharashtra,West,P019,Rice,Grocery,Rice,2,2518,0.1,4532.4,295.68,Card
+ORD00828,2025-11-26,2025-12-03,C0215,Sneha,Female,39,Bengaluru,Karnataka,South,P025,Tea,Grocery,Tea,5,2736,0.0,13680.0,2855.49,Card
+ORD00829,2025-11-24,2025-11-28,C0250,Diya,Male,47,Delhi,Delhi,North,P007,Jeans,Clothing,Jeans,8,2996,0.05,22769.6,5148.1,UPI
+ORD00830,2025-06-28,2025-07-05,C0190,Aarav,Male,29,Bengaluru,Karnataka,South,P030,Rice,Grocery,Rice,6,3722,0.05,21215.4,4295.31,Card
+ORD00831,2025-02-27,2025-02-28,C0055,Rahul,Female,55,Bengaluru,Karnataka,South,P044,Jeans,Clothing,Jeans,6,1380,0.15,7038.0,1134.6,Cash
+ORD00832,2025-09-15,2025-09-16,C0101,Aarav,Female,63,Kochi,Kerala,South,P034,Jeans,Clothing,Jeans,2,1139,0.15,1936.3,391.84,Card
+ORD00833,2025-12-14,2025-12-17,C0080,Sneha,Male,19,Bengaluru,Karnataka,South,P031,Rice,Grocery,Rice,7,386,0.0,2702.0,393.54,UPI
+ORD00834,2025-05-26,2025-06-01,C0004,Rahul,Female,37,Bengaluru,Karnataka,South,P039,Jeans,Clothing,Jeans,1,4620,0.15,3927.0,603.37,Card
+ORD00835,2025-08-06,2025-08-11,C0081,Diya,Female,30,Kochi,Kerala,South,P032,Desk,Furniture,Desk,3,1671,0.05,4762.35,669.6,Cash
+ORD00836,2025-01-09,2025-01-12,C0016,Sneha,Male,28,Delhi,Delhi,North,P005,Jeans,Clothing,Jeans,5,3158,0.0,15790.0,2995.55,UPI
+ORD00837,2025-12-19,2025-12-20,C0163,Diya,Male,44,Chennai,Tamil Nadu,South,P004,Rice,Grocery,Rice,8,1351,0.1,9727.2,1734.61,Card
+ORD00838,2025-11-26,2025-12-01,C0114,Rahul,Female,53,Mumbai,Maharashtra,West,P005,Jeans,Clothing,Jeans,1,1059,0.1,953.1,106.61,Card
+ORD00839,2025-10-19,2025-10-21,C0058,Aarav,Female,21,Chennai,Tamil Nadu,South,P031,Desk,Furniture,Desk,1,3763,0.05,21449.1,4136.03,Card
+ORD00840,2025-04-19,2025-04-22,C0243,Rahul,Female,59,Kochi,Kerala,South,P017,Desk,Furniture,Desk,1,1868,0.1,1681.2,247.87,Cash
+ORD00841,2025-09-18,2025-09-24,C0196,Rahul,Female,42,Mumbai,Maharashtra,West,P045,Phone,Electronics,Phone,6,3780,0.05,21546.0,5287.06,UPI
+ORD00842,2025-02-01,2025-02-04,C0142,Aarav,Female,50,Kochi,Kerala,South,P020,Rice,Grocery,Rice,8,1370,0.1,9864.0,1119.6,Card
+ORD00843,2025-10-01,2025-10-02,C0244,Diya,Female,37,Kochi,Kerala,South,P012,Desk,Furniture,Desk,5,2436,0.15,10353.0,1004.0,Card
+ORD00844,2025-07-06,2025-07-07,C0236,Diya,Female,33,Delhi,Delhi,North,P034,Rice,Grocery,Rice,2,2925,0.0,5850.0,1357.53,Cash
+ORD00845,2025-06-27,2025-06-30,C0180,Aarav,Female,37,Unknown,Karnataka,South,P002,Desk,Furniture,Desk,8,2709,0.0,21672.0,4917.65,Cash
+ORD00846,2025-09-18,2025-09-21,C0088,Aarav,Female,33,Chennai,Tamil Nadu,South,P005,Jeans,Clothing,Jeans,8,4114,0.1,29620.8,3019.89,UPI
+ORD00847,2025-01-12,2025-01-17,C0231,Sneha,Male,34,Mumbai,Maharashtra,West,P005,Rice,Grocery,Rice,4,3114,0.1,11210.4,2533.21,UPI
+ORD00848,2025-11-22,2025-11-27,C0020,Rahul,Female,48,Delhi,Delhi,North,P004,Jeans,Clothing,Jeans,8,462,0.1,3326.4,388.61,Cash
+ORD00849,2025-08-06,2025-08-08,C0188,Sneha,Male,62,Mumbai,Maharashtra,West,P018,Desk,Furniture,Desk,7,4734,0.0,33138.0,3114.95,Card
+ORD00850,2025-08-31,2025-09-04,C0067,Sneha,Female,25,Mumbai,Maharashtra,West,P011,Jeans,Clothing,Jeans,2,3855,0.05,7324.5,1196.41,Cash
+ORD00851,2025-02-20,2025-02-23,C0006,Aarav,Male,42,Delhi,Delhi,North,P006,Laptop,Electronics,Laptop,3,1207,0.0,3621.0,686.01,Cash
+ORD00852,2025-01-20,2025-01-25,C0084,Priya,Female,20,Mumbai,Maharashtra,West,P046,Laptop,Electronics,Laptop,6,2194,0.0,13164.0,1665.89,UPI
+ORD00853,2025-05-08,2025-05-11,C0200,Aarav,Male,48,Mumbai,Maharashtra,West,P031,Desk,Furniture,Desk,1,1382,0.05,1312.9,275.72,Cash
+ORD00854,2025-05-08,2025-05-13,C0229,Priya,Female,58,Bengaluru,Karnataka,South,P049,Desk,Furniture,Desk,5,2999,0.1,13495.5,3004.09,UPI
+ORD00855,2025-06-21,2025-06-22,C0248,Rahul,Male,60,Delhi,Delhi,North,P021,Desk,Furniture,Desk,4,436,0.15,1482.4,196.97,UPI
+ORD00856,2025-04-10,2025-04-16,C0227,Priya,Female,42,Mumbai,Maharashtra,West,P046,Chair,Furniture,Chair,7,4760,0.15,28322.0,3164.76,Cash
+ORD00857,2025-04-13,2025-04-19,C0233,Aarav,Female,57,Chennai,Tamil Nadu,South,P030,Chair,Furniture,Chair,6,827,0.1,4465.8,919.14,Cash
+ORD00858,2025-09-01,2025-09-08,C0204,Rahul,Female,48,Kochi,Kerala,South,P005,Chair,Furniture,Chair,7,3149,0.15,18736.55,4370.0,UPI
+ORD00859,2025-04-15,2025-04-17,C0151,Rahul,Male,20,Bengaluru,Karnataka,South,P003,Jeans,Clothing,Jeans,8,2151,0.15,14626.8,3159.53,Cash
+ORD00860,2025-01-09,2025-01-14,C0174,Aarav,Female,27,Chennai,Tamil Nadu,South,P029,Chair,Furniture,Chair,3,4978,0.1,13440.6,2196.25,Card
+ORD00861,2025-03-18,2025-03-19,C0189,Aarav,Male,29,Kochi,Kerala,South,P019,Desk,Furniture,Desk,5,646,0.15,2745.5,682.96,UPI
+ORD00862,2025-12-02,2025-12-09,C0157,Rahul,Female,61,Mumbai,Maharashtra,West,P020,Jeans,Clothing,Jeans,3,4227,0.15,10778.85,2020.4,Card
+ORD00863,2025-03-14,2025-03-21,C0145,Priya,Male,34,Kochi,Kerala,South,P001,Desk,Furniture,Desk,4,2939,0.1,10580.4,1093.06,Cash
+ORD00864,2025-02-10,2025-02-14,C0195,Aarav,Female,62,Mumbai,Maharashtra,West,P006,Rice,Grocery,Rice,3,4685,0.05,13352.25,2879.41,UPI
+ORD00865,2025-06-22,2025-06-24,C0097,Diya,Female,45,Bengaluru,Karnataka,South,P047,Desk,Furniture,Desk,6,2253,0.05,12842.1,1901.24,UPI
+ORD00866,2025-07-10,2025-07-14,C0198,Sneha,Male,31,Delhi,Delhi,North,P047,Laptop,Electronics,Laptop,6,331,0.05,1886.7,345.78,UPI
+ORD00867,2025-08-29,2025-09-03,C0064,Priya,Male,54,Delhi,Delhi,North,P042,Jeans,Clothing,Jeans,2,2964,0.0,5928.0,1231.45,Card
+ORD00868,2025-07-21,2025-07-25,C0117,Aarav,Female,18,Kochi,Kerala,South,P011,Chair,Furniture,Chair,7,4282,0.0,29974.0,3814.31,Cash
+ORD00869,2025-11-03,2025-11-04,C0026,Diya,Female,23,Delhi,Delhi,North,P024,Phone,Electronics,Phone,6,1319,0.1,7122.6,850.19,Cash
+ORD00870,2025-05-06,2025-05-07,C0229,Diya,Female,26,Bengaluru,Karnataka,South,P037,Chair,Furniture,Chair,8,1834,0.1,13204.8,1040.47,Card
+ORD00871,2025-11-29,2025-12-06,C0146,Rahul,Female,43,Bengaluru,Karnataka,South,P011,Jeans,Clothing,Jeans,6,1094,0.15,5579.4,974.03,UPI
+ORD00872,2025-08-16,2025-08-19,C0141,Diya,Female,36,Chennai,Tamil Nadu,South,P043,Jeans,Clothing,Jeans,4,1396,0.1,5025.6,392.56,Cash
+ORD00873,2025-11-13,2025-11-17,C0109,Priya,Female,41,Bengaluru,Karnataka,South,P036,Jeans,Clothing,Jeans,1,852,0.0,852.0,139.75,Card
+ORD00874,2025-01-08,2025-01-11,C0242,Priya,Male,60,Chennai,Tamil Nadu,South,P016,Tea,Grocery,Tea,2,281,0.0,562.0,88.47,Cash
+ORD00875,2025-06-24,2025-06-29,C0183,Diya,Female,44,Chennai,Tamil Nadu,South,P028,Chair,Furniture,Chair,4,4177,0.0,16708.0,3500.98,Card
+ORD00876,2025-10-23,2025-10-30,C0230,Priya,Female,22,Bengaluru,Karnataka,South,P022,Laptop,Electronics,Laptop,3,1153,0.15,2940.15,479.46,Card
+ORD00877,2025-02-24,2025-02-27,C0055,Aarav,Male,37,Mumbai,Maharashtra,West,P029,Jeans,Clothing,Jeans,4,253,0.05,961.4,163.77,Card
+ORD00878,2025-04-02,2025-04-04,C0083,Priya,Female,41,Delhi,Delhi,North,P022,Rice,Grocery,Rice,4,3935,0.05,14953.0,3540.82,Cash
+ORD00879,2025-09-14,2025-09-17,C0233,Aarav,Female,45,Bengaluru,Karnataka,South,P039,Phone,Electronics,Phone,5,4389,0.1,19750.5,1955.18,Cash
+ORD00880,2025-03-15,2025-03-20,C0011,Sneha,Male,21,Kochi,Kerala,South,P009,Tea,Grocery,Tea,4,1255,0.0,5020.0,537.5,Cash
+ORD00881,2025-08-04,2025-08-09,C0124,Rahul,Male,33,Chennai,Tamil Nadu,South,P046,Jeans,Clothing,Jeans,5,3633,0.15,15440.25,3005.58,Cash
+ORD00882,2025-05-12,2025-05-15,C0177,Sneha,Male,22,Chennai,Tamil Nadu,South,P037,Tea,Grocery,Tea,8,1465,0.1,10548.0,1007.46,Card
+ORD00883,2025-02-21,2025-02-26,C0110,Rahul,Female,43,Bengaluru,Karnataka,South,P025,Phone,Electronics,Phone,7,641,0.15,3813.95,430.74,UPI
+ORD00884,2025-12-25,2025-12-29,C0177,Priya,Male,33,Delhi,Delhi,North,P022,Rice,Grocery,Rice,8,4267,0.0,34136.0,5725.41,Card
+ORD00885,2025-01-21,2025-01-22,C0037,Aarav,Female,26,Delhi,Delhi,North,P041,Tea,Grocery,Tea,1,1676,0.1,1508.4,77.23,Cash
+ORD00886,2025-06-10,2025-06-17,C0006,Rahul,Male,29,Mumbai,Maharashtra,West,P001,Phone,Electronics,Phone,7,1656,0.1,10432.8,1215.87,Card
+ORD00887,2025-06-09,2025-06-13,C0028,Aarav,Male,62,Bengaluru,Karnataka,South,P026,Jeans,Clothing,Jeans,7,626,0.1,3943.8,748.37,Cash
+ORD00888,2025-07-10,2025-07-11,C0182,Aarav,Male,63,Mumbai,Maharashtra,West,P016,Tea,Grocery,Tea,3,1740,0.0,5220.0,1002.65,Cash
+ORD00889,2025-08-21,2025-08-23,C0088,Aarav,Male,35,Kochi,Kerala,South,P035,Phone,Electronics,Phone,4,1301,0.05,4943.8,381.31,UPI
+ORD00890,2025-11-07,2025-11-08,C0022,Sneha,Female,57,Chennai,Tamil Nadu,South,P020,Laptop,Electronics,Laptop,3,3982,0.05,11348.7,1456.75,Card
+ORD00891,2025-08-13,2025-08-19,C0160,Rahul,Male,60,Kochi,Kerala,South,P038,Jeans,Clothing,Jeans,1,2890,0.15,4913.0,326.02,UPI
+ORD00892,2025-09-20,2025-09-21,C0098,Priya,Female,43,Chennai,Tamil Nadu,South,P020,Rice,Grocery,Rice,8,4319,0.1,31096.8,7280.03,UPI
+ORD00893,2025-07-23,2025-07-24,C0140,Sneha,Male,36,Mumbai,Maharashtra,West,P021,Desk,Furniture,Desk,3,1036,0.0,3108.0,771.68,Cash
+ORD00894,2025-04-19,2025-04-21,C0242,Sneha,Male,59,Kochi,Kerala,South,P016,Rice,Grocery,Rice,7,2397,0.15,14262.15,2086.8,Cash
+ORD00895,2025-01-15,2025-01-17,C0090,Sneha,Male,64,Chennai,Tamil Nadu,South,P006,Chair,Furniture,Chair,4,656,0.0,2624.0,181.72,Cash
+ORD00896,2025-03-05,2025-03-11,C0120,Rahul,Female,56,Delhi,Delhi,North,P043,Jeans,Clothing,Jeans,4,3109,0.05,11814.2,922.66,Card
+ORD00897,2025-06-29,2025-07-01,C0136,Sneha,Male,28,Bengaluru,Karnataka,South,P050,Phone,Electronics,Phone,2,2588,0.0,5176.0,294.37,UPI
+ORD00898,2025-09-16,2025-09-21,C0099,Sneha,Female,49,Bengaluru,Karnataka,South,P040,Laptop,Electronics,Laptop,8,163,0.1,1173.6,130.82,Cash
+ORD00899,2025-01-01,2025-01-02,C0043,Priya,Male,63,Bengaluru,Karnataka,South,P004,Jeans,Clothing,Jeans,5,1568,0.15,6664.0,657.0,UPI
+ORD00900,2025-10-04,2025-10-05,C0072,Aarav,Male,33,Bengaluru,Karnataka,South,P034,Tea,Grocery,Tea,8,2612,0.0,20896.0,4954.99,Cash
+ORD00901,2025-11-27,2025-12-02,C0168,Diya,Male,56,Bengaluru,Karnataka,South,P024,Phone,Electronics,Phone,4,2028,0.0,8112.0,1567.03,Card
+ORD00902,2025-04-15,2025-04-17,C0204,Diya,Male,65,Chennai,Tamil Nadu,South,P021,Tea,Grocery,Tea,1,3186,0.1,2867.4,680.86,UPI
+ORD00903,2025-10-24,2025-10-31,C0090,Sneha,Male,61,Bengaluru,Karnataka,South,P022,Jeans,Clothing,Jeans,4,1703,0.1,6130.8,1045.63,Cash
+ORD00904,2025-06-26,2025-06-28,C0132,Aarav,Female,47,Chennai,Tamil Nadu,South,P001,Jeans,Clothing,Jeans,2,1369,0.0,2738.0,530.92,Card
+ORD00905,2025-07-31,2025-08-01,C0075,Priya,Female,44,Kochi,Kerala,South,P048,Desk,Furniture,Desk,7,3001,0.05,19956.65,3573.73,UPI
+ORD00906,2025-03-22,2025-03-26,C0004,Rahul,Male,32,Kochi,Kerala,South,P035,Phone,Electronics,Phone,6,3477,0.15,17732.7,1832.68,Card
+ORD00907,2025-08-22,2025-08-24,C0165,Priya,Male,32,Delhi,Delhi,North,P019,Chair,Furniture,Chair,5,2812,0.1,12654.0,1216.74,Cash
+ORD00908,2025-11-19,2025-11-20,C0121,Rahul,Female,32,Delhi,Delhi,North,P033,Jeans,Clothing,Jeans,1,929,0.15,789.65,189.29,UPI
+ORD00909,2025-03-15,2025-03-19,C0167,Rahul,Male,52,Mumbai,Maharashtra,West,P014,Chair,Furniture,Chair,3,4094,0.15,10439.7,2550.94,UPI
+ORD00910,2025-12-19,2025-12-25,C0139,Rahul,Male,37,Delhi,Delhi,North,P023,Jeans,Clothing,Jeans,1,2420,0.0,2420.0,501.75,Card
+ORD00911,2025-01-25,2025-01-28,C0192,Diya,Male,45,Delhi,Delhi,North,P028,Phone,Electronics,Phone,5,2637,0.1,11866.5,2100.47,Card
+ORD00912,2025-05-07,2025-05-11,C0090,Aarav,Male,28,Kochi,Kerala,South,P011,Laptop,Electronics,Laptop,4,4939,0.1,17780.4,3909.94,UPI
+ORD00913,2025-02-03,2025-02-06,C0174,Priya,Female,46,Bengaluru,Karnataka,South,P011,Rice,Grocery,Rice,6,930,0.0,5580.0,873.35,Cash
+ORD00914,2025-06-29,2025-07-03,C0169,Priya,Female,33,Chennai,Tamil Nadu,South,P019,Rice,Grocery,Rice,3,3750,0.0,11250.0,636.03,Card
+ORD00915,2025-12-15,2025-12-17,C0150,Priya,Female,19,Bengaluru,Karnataka,South,P040,Tea,Grocery,Tea,3,1385,0.0,4155.0,420.4,Cash
+ORD00916,2025-06-18,2025-06-25,C0173,Rahul,Female,45,Chennai,Tamil Nadu,South,P043,Phone,Electronics,Phone,3,2879,0.05,8205.15,1473.14,Cash
+ORD00917,2025-06-19,2025-06-21,C0139,Priya,Male,54,Delhi,Delhi,North,P019,Jeans,Clothing,Jeans,8,3283,0.05,24950.8,4576.67,Cash
+ORD00918,2025-06-03,2025-06-09,C0061,Rahul,Female,53,Bengaluru,Karnataka,South,P049,Jeans,Clothing,Jeans,8,1390,0.0,11120.0,604.08,Card
+ORD00919,2025-03-21,2025-03-25,C0222,Diya,Female,19,Kochi,Kerala,South,P022,Laptop,Electronics,Laptop,5,487,0.0,2435.0,280.89,Card
+ORD00920,2025-03-22,2025-03-29,C0120,Priya,Male,50,Chennai,Tamil Nadu,South,P037,Phone,Electronics,Phone,5,598,0.15,2541.5,260.07,Cash
+ORD00921,2025-10-11,2025-10-13,C0116,Aarav,Female,44,Bengaluru,Karnataka,South,P043,Rice,Grocery,Rice,1,3385,0.1,3046.5,464.16,Cash
+ORD00922,2025-11-07,2025-11-11,C0133,Aarav,Male,34,Delhi,Delhi,North,P013,Chair,Furniture,Chair,3,193,0.1,521.1,50.77,Cash
+ORD00923,2025-12-30,2026-01-05,C0107,Rahul,Female,29,Kochi,Kerala,South,P021,Rice,Grocery,Rice,6,4521,0.1,24413.4,3597.27,Card
+ORD00924,2025-03-07,2025-03-11,C0061,Aarav,Female,25,Delhi,Delhi,North,P036,Tea,Grocery,Tea,2,2601,0.15,4421.7,575.83,Cash
+ORD00925,2025-04-22,2025-04-23,C0160,Sneha,Female,41,Chennai,Tamil Nadu,South,P022,Laptop,Electronics,Laptop,1,1822,0.1,1639.8,289.03,Card
+ORD00926,2025-01-03,2025-01-10,C0129,Sneha,Female,44,Kochi,Kerala,South,P011,Chair,Furniture,Chair,7,3240,0.05,21546.0,1786.09,UPI
+ORD00927,2025-10-09,2025-10-10,C0059,Sneha,Male,47,Bengaluru,Karnataka,South,P004,Phone,Electronics,Phone,5,811,0.1,3649.5,680.65,UPI
+ORD00928,2025-05-17,2025-05-18,C0093,Priya,Female,33,Mumbai,Maharashtra,West,P008,Chair,Furniture,Chair,3,1058,0.1,2856.6,527.51,UPI
+ORD00929,2025-04-28,2025-04-29,C0233,Sneha,Female,61,Mumbai,Maharashtra,West,P001,Chair,Furniture,Chair,1,3561,0.05,3382.95,714.83,Card
+ORD00930,2025-07-30,2025-08-01,C0097,Priya,Female,50,Mumbai,Maharashtra,West,P048,Jeans,Clothing,Jeans,1,2874,0.1,2586.6,239.87,Cash
+ORD00931,2025-09-30,2025-10-06,C0211,Aarav,Female,25,Kochi,Kerala,South,P023,Laptop,Electronics,Laptop,8,1508,0.0,12064.0,2608.05,UPI
+ORD00932,2025-05-04,2025-05-09,C0031,Rahul,Male,35,Delhi,Delhi,North,P047,Laptop,Electronics,Laptop,6,2187,0.1,11809.8,591.31,Cash
+ORD00933,2025-04-05,2025-04-08,C0191,Diya,Female,29,Kochi,Kerala,South,P020,Laptop,Electronics,Laptop,3,3611,0.15,9208.05,2015.5,Cash
+ORD00934,2025-09-28,2025-09-29,C0009,Diya,Male,36,Bengaluru,Karnataka,South,P008,Tea,Grocery,Tea,3,2932,0.0,8796.0,512.55,Card
+ORD00935,2025-10-04,2025-10-09,C0018,Rahul,Male,52,Kochi,Kerala,South,P033,Chair,Furniture,Chair,7,2153,0.1,13563.9,2267.34,Cash
+ORD00936,2025-08-12,2025-08-19,C0018,Aarav,Female,30,Delhi,Delhi,North,P039,Phone,Electronics,Phone,7,3924,0.0,27468.0,2653.7,UPI
+ORD00937,2025-07-16,2025-07-22,C0179,Aarav,Female,54,Bengaluru,Karnataka,South,P026,Chair,Furniture,Chair,1,4123,0.0,4123.0,676.62,UPI
+ORD00938,2025-09-16,2025-09-23,C0063,Priya,Female,23,Bengaluru,Karnataka,South,P005,Jeans,Clothing,Jeans,1,517,0.0,1551.0,218.21,Cash
+ORD00939,2025-04-27,2025-05-01,C0012,Rahul,Male,37,Kochi,Kerala,South,P044,Phone,Electronics,Phone,3,3696,0.0,11088.0,2360.38,Card
+ORD00940,2025-11-16,2025-11-20,C0142,Diya,Male,54,Delhi,Delhi,North,P003,Phone,Electronics,Phone,6,1521,0.15,7757.1,1001.65,Cash
+ORD00941,2025-02-26,2025-03-04,C0049,Rahul,Female,41,Kochi,Kerala,South,P044,Jeans,Clothing,Jeans,3,3321,0.1,8966.7,792.69,UPI
+ORD00942,2025-08-05,2025-08-11,C0168,Diya,Male,24,Delhi,Delhi,North,P038,Rice,Grocery,Rice,8,3823,0.15,25996.4,4416.24,Card
+ORD00943,2025-06-25,2025-06-29,C0250,Diya,Male,55,Bengaluru,Karnataka,South,P036,Chair,Furniture,Chair,8,869,0.1,6256.8,695.96,Card
+ORD00944,2025-01-29,2025-01-30,C0050,Unknown Customer,Male,64,Mumbai,Maharashtra,West,P042,Desk,Furniture,Desk,4,2877,0.15,9781.8,1152.38,UPI
+ORD00945,2025-08-27,2025-08-31,C0250,Priya,Female,61,Bengaluru,Karnataka,South,P003,Jeans,Clothing,Jeans,1,4229,0.1,3806.1,212.46,UPI
+ORD00946,2025-06-22,2025-06-29,C0129,Aarav,Male,62,Chennai,Tamil Nadu,South,P038,Phone,Electronics,Phone,2,2568,0.15,4365.6,395.0,Cash
+ORD00947,2025-02-02,2025-02-08,C0111,Priya,Male,26,Bengaluru,Karnataka,South,P042,Chair,Furniture,Chair,1,2184,0.1,1965.6,425.86,UPI
+ORD00948,2025-09-22,2025-09-26,C0037,Diya,Female,21,Kochi,Kerala,South,P043,Phone,Electronics,Phone,2,1649,0.1,2968.2,188.53,Cash
+ORD00949,2025-03-29,2025-04-04,C0054,Aarav,Female,38,Bengaluru,Karnataka,South,P018,Rice,Grocery,Rice,8,4110,0.0,32880.0,7202.0,UPI
+ORD00950,2025-10-30,2025-11-05,C0174,Sneha,Male,59,Kochi,Kerala,South,P030,Chair,Furniture,Chair,6,1945,0.1,10503.0,1873.28,UPI
+ORD00951,2025-04-30,2025-05-07,C0196,Priya,Male,47,Mumbai,Maharashtra,West,P048,Jeans,Clothing,Jeans,1,3370,0.15,2864.5,223.84,UPI
+ORD00952,2025-10-20,2025-10-21,C0004,Diya,Female,38,Chennai,Tamil Nadu,South,P021,Laptop,Electronics,Laptop,6,2312,0.05,13178.4,2762.39,UPI
+ORD00953,2025-11-03,2025-11-06,C0105,Rahul,Male,59,Mumbai,Maharashtra,West,P017,Desk,Furniture,Desk,3,1756,0.05,5004.6,414.79,UPI
+ORD00954,2025-09-16,2025-09-21,C0123,Sneha,Male,19,Delhi,Delhi,North,P010,Tea,Grocery,Tea,8,4584,0.15,31171.2,5658.32,UPI
+ORD00955,2025-09-15,2025-09-16,C0160,Sneha,Female,24,Kochi,Kerala,South,P010,Rice,Grocery,Rice,1,3298,0.1,2968.2,455.88,Card
+ORD00956,2025-01-17,2025-01-23,C0208,Aarav,Female,53,Kochi,Kerala,South,P019,Rice,Grocery,Rice,8,4520,0.15,30736.0,1681.68,Card
+ORD00957,2025-02-23,2025-02-26,C0179,Priya,Female,58,Kochi,Kerala,South,P007,Jeans,Clothing,Jeans,7,2549,0.05,16950.85,3460.95,Cash
+ORD00958,2025-10-31,2025-11-06,C0016,Rahul,Female,36,Chennai,Tamil Nadu,South,P035,Phone,Electronics,Phone,3,3214,0.15,8195.7,556.95,Cash
+ORD00959,2025-09-14,2025-09-20,C0163,Unknown Customer,Male,33,Chennai,Tamil Nadu,South,P048,Tea,Grocery,Tea,1,1664,0.0,1664.0,252.43,Cash
+ORD00960,2025-05-29,2025-06-03,C0192,Diya,Male,36,Bengaluru,Karnataka,South,P047,Chair,Furniture,Chair,4,463,0.1,1666.8,241.22,UPI
+ORD00961,2025-12-11,2025-12-14,C0173,Aarav,Male,25,Delhi,Delhi,North,P043,Chair,Furniture,Chair,1,3108,0.0,3108.0,435.26,Cash
+ORD00962,2025-08-03,2025-08-07,C0201,Sneha,Female,38,Kochi,Kerala,South,P033,Jeans,Clothing,Jeans,5,1497,0.1,6736.5,630.68,Card
+ORD00963,2025-02-14,2025-02-21,C0111,Diya,Male,33,Bengaluru,Karnataka,South,P006,Phone,Electronics,Phone,5,2504,0.0,12520.0,1290.3,Cash
+ORD00964,2025-05-21,2025-05-23,C0059,Sneha,Male,26,Bengaluru,Karnataka,South,P015,Jeans,Clothing,Jeans,7,2503,0.05,16644.95,1562.11,Card
+ORD00965,2025-10-07,2025-10-08,C0168,Priya,Female,38,Delhi,Delhi,North,P046,Tea,Grocery,Tea,5,4251,0.1,19129.5,3618.25,Cash
+ORD00966,2025-03-04,2025-03-06,C0233,Priya,Male,46,Bengaluru,Karnataka,South,P044,Laptop,Electronics,Laptop,3,2082,0.0,6246.0,1387.5,Card
+ORD00967,2025-06-24,2025-06-30,C0012,Sneha,Male,35,Mumbai,Maharashtra,West,P029,Desk,Furniture,Desk,7,3048,0.15,18135.6,4244.26,Cash
+ORD00968,2025-07-09,2025-07-13,C0093,Diya,Female,32,Chennai,Tamil Nadu,South,P032,Desk,Furniture,Desk,2,716,0.0,1432.0,337.73,Cash
+ORD00969,2025-12-18,2025-12-25,C0086,Aarav,Male,65,Bengaluru,Karnataka,South,P009,Tea,Grocery,Tea,5,3925,0.1,17662.5,1079.58,UPI
+ORD00970,2025-06-25,2025-06-26,C0191,Diya,Male,18,Bengaluru,Karnataka,South,P010,Tea,Grocery,Tea,8,1007,0.15,6847.6,578.88,Card
+ORD00971,2025-06-30,2025-07-04,C0054,Sneha,Female,60,Mumbai,Maharashtra,West,P009,Chair,Furniture,Chair,1,2160,0.0,2160.0,346.13,Card
+ORD00972,2025-11-19,2025-11-21,C0174,Aarav,Female,60,Delhi,Delhi,North,P036,Laptop,Electronics,Laptop,8,4057,0.15,27587.6,1681.0,UPI
+ORD00973,2025-06-25,2025-06-28,C0199,Sneha,Male,24,Delhi,Delhi,North,P019,Tea,Grocery,Tea,7,3638,0.0,25466.0,1382.1,Card
+ORD00974,2025-05-19,2025-05-23,C0073,Aarav,Male,48,Bengaluru,Karnataka,South,P023,Desk,Furniture,Desk,1,2742,0.1,2467.8,527.41,Card
+ORD00975,2025-11-19,2025-11-26,C0022,Priya,Male,32,Mumbai,Maharashtra,West,P010,Laptop,Electronics,Laptop,2,4710,0.05,8949.0,866.54,Cash
+ORD00976,2025-12-08,2025-12-13,C0166,Rahul,Female,65,Kochi,Kerala,South,P020,Jeans,Clothing,Jeans,8,2356,0.05,17905.6,1240.8,UPI
+ORD00977,2025-02-11,2025-02-15,C0217,Rahul,Male,28,Kochi,Kerala,South,P029,Desk,Furniture,Desk,8,1795,0.05,13642.0,2124.09,Cash
+ORD00978,2025-10-17,2025-10-18,C0155,Priya,Male,34,Delhi,Delhi,North,P023,Jeans,Clothing,Jeans,6,2158,0.05,12300.6,737.62,Cash
+ORD00979,2025-12-29,2025-12-31,C0241,Aarav,Male,53,Bengaluru,Karnataka,South,P019,Jeans,Clothing,Jeans,6,887,0.15,4523.7,440.41,Card
+ORD00980,2025-05-16,2025-05-19,C0245,Rahul,Female,62,Chennai,Tamil Nadu,South,P021,Chair,Furniture,Chair,5,4570,0.1,20565.0,4029.69,Card
+ORD00981,2025-12-02,2025-12-05,C0248,Sneha,Female,27,Chennai,Tamil Nadu,South,P036,Laptop,Electronics,Laptop,2,4326,0.1,7786.8,930.03,UPI
+ORD00982,2025-06-19,2025-06-21,C0127,Unknown Customer,Female,45,Bengaluru,Karnataka,South,P013,Jeans,Clothing,Jeans,3,129,0.1,348.3,20.49,Cash
+ORD00983,2025-05-01,2025-05-04,C0010,Aarav,Male,54,Unknown,Maharashtra,West,P013,Desk,Furniture,Desk,4,1949,0.15,6626.6,582.14,Cash
+ORD00984,2025-06-07,2025-06-10,C0151,Sneha,Female,30,Chennai,Tamil Nadu,South,P029,Phone,Electronics,Phone,1,4342,0.15,3690.7,628.28,Cash
+ORD00985,2025-09-01,2025-09-03,C0147,Diya,Male,20,Mumbai,Maharashtra,West,P007,Jeans,Clothing,Jeans,1,2061,0.0,2061.0,403.88,UPI
+ORD00986,2025-02-11,2025-02-13,C0043,Aarav,Female,23,Bengaluru,Karnataka,South,P020,Jeans,Clothing,Jeans,8,1314,0.1,9460.8,625.61,UPI
+ORD00987,2025-09-02,2025-09-09,C0189,Priya,Male,52,Delhi,Delhi,North,P011,Phone,Electronics,Phone,6,2583,0.15,13173.3,691.65,Card
+ORD00988,2025-10-17,2025-10-20,C0142,Diya,Male,27,Kochi,Kerala,South,P037,Rice,Grocery,Rice,5,4648,0.15,19754.0,1301.84,Cash
+ORD00989,2025-06-25,2025-07-01,C0051,Diya,Female,39,Bengaluru,Karnataka,South,P008,Desk,Furniture,Desk,6,2626,0.05,14968.2,943.46,Cash
+ORD00990,2025-11-25,2025-12-02,C0130,Priya,Female,57,Delhi,Delhi,North,P019,Chair,Furniture,Chair,8,1080,0.15,7344.0,395.2,Card
+ORD00991,2025-01-24,2025-01-25,C0146,Aarav,Male,32,Kochi,Kerala,South,P028,Jeans,Clothing,Jeans,7,2691,0.15,16011.45,3403.08,Cash
+ORD00992,2025-03-05,2025-03-09,C0078,Aarav,Female,59,Chennai,Tamil Nadu,South,P050,Phone,Electronics,Phone,7,3388,0.05,22530.2,2657.13,Cash
+ORD00993,2025-03-30,2025-04-01,C0054,Priya,Male,51,Kochi,Kerala,South,P038,Jeans,Clothing,Jeans,7,2661,0.0,18627.0,3568.9,UPI
+ORD00994,2025-09-01,2025-09-04,C0210,Rahul,Male,65,Delhi,Delhi,North,P044,Rice,Grocery,Rice,8,3857,0.05,29313.2,3043.72,Cash
+ORD00995,2025-02-21,2025-02-28,C0042,Rahul,Female,23,Bengaluru,Karnataka,South,P048,Rice,Grocery,Rice,7,1786,0.0,12502.0,1880.55,UPI
+ORD00996,2025-11-12,2025-11-16,C0243,Diya,Male,29,Bengaluru,Karnataka,South,P043,Chair,Furniture,Chair,8,975,0.15,6630.0,1529.02,Card
+ORD00997,2025-01-22,2025-01-28,C0159,Sneha,Female,45,Kochi,Kerala,South,P006,Rice,Grocery,Rice,6,3337,0.1,18019.8,1152.64,UPI
+ORD00998,2025-08-14,2025-08-20,C0247,Diya,Female,46,Bengaluru,Karnataka,South,P019,Laptop,Electronics,Laptop,1,2410,0.15,2048.5,117.76,UPI
+ORD00999,2025-02-25,2025-03-01,C0140,Sneha,Female,51,Kochi,Kerala,South,P023,Jeans,Clothing,Jeans,5,4639,0.1,20875.5,4346.6,Cash
+ORD01000,2025-10-20,2025-10-25,C0095,Sneha,Female,35,Bengaluru,Karnataka,South,P013,Laptop,Electronics,Laptop,4,2250,0.1,8100.0,480.8,UPI
