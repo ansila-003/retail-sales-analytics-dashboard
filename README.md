@@ -331,15 +331,15 @@ It includes:
 
 #### 1️⃣ Overview
 
-![Power BI Overview](Power BI/Images/powerbi_overview.png)
+![Power BI Overview](Power%20BI/Images/powerbi_overview.png)
 
 #### 2️⃣ Sales & Trend Analysis
 
-![Power BI Sales Trends](Power BI/Images/powerbi_sales_trends.png)
+![Power BI Sales Trends](Power%20BI/Images/powerbi_sales_trends.png)
 
 #### 3️⃣ Product, Customer & Business Insights
 
-![Power BI Product Customer Insights](Power BI/Images/powerbi_product_customer_insights.png)
+![Power BI Product Customer Insights](Power%20BI/Images/powerbi_product_customer_insights.png)
 
 ## 📁 Project Structure
 
